@@ -1,17 +1,16 @@
-# Register and create your profile
+# Registreu-vos i creeu el vostre perfil
 
-1. Go to your local Open Food Network and add /register to the end of the URL \(e.g. [www.openfoodnetwork.org.au**/register**](https://github.com/ofn-user-guide/ofn-user-guide-master/tree/d5a1113e673b0e22198ca207b1db61339799868a/www.openfoodnetwork.org.au/register/README.md)\)
-2. Enter your email address and choose a password.
-3. You will need to confirm your email before you can continue. Check your inbox and click on the confirmation link.
-4. When you confirm your email you'll be redirected back to /register. Click the ‘Agree to Terms of Service’ box and click ‘Let’s Get Started!’
-5. Fill in your enterprise name and contact details
-6. Choose if you are a ‘a producer’ \(e.g. farmer, baker, etc\) or ‘not a producer’ \(We call non-producers hubs, which includes: a seller and/or distributor of food: coop, food hub, wholesaler etc.\).
-7. Click the ‘create profile’ button. You'll receive a confirmation email when the profile is created. If you close the registration window now, you can continue to add information to your profile later.
-8. Fill in your profile enterprise description, images, website/social media and business details.
+1. Aneu a la vostra xarxa local d’Open Food Network (Katuma, en aquest cas): [feu clic en aquest enllaç](https://alpha.katuma.org/register).
+2. Introduïu la vostra adreça de correu electrònic i trieu una contrasenya.
+3. Haureu de confirmar el vostre correu electrònic abans de poder continuar. Consulteu la safata d'entrada i feu clic a l'enllaç de confirmació.
+4. Quan confirmeu el vostre correu electrònic, se us redirigirà a / registrar-se. Feu clic al quadre "Accepto les condicions" i feu clic a "Registrar-se ara".
+5. Emplena el nom de l'organització i les dades de contacte.
+6. Trieu si sou un "productora" (p. ex., agricultora, fornera, etc.) o "no productora" (els col·lectius que anomenem no productors poden incloure: una venedora i/o distribuïdora d'aliments: grup de consum, majorista, etc.)
+7. Feu clic al botó "Crear perfil". Rebreu un correu electrònic de confirmació quan es creï el perfil. Si tanqueu ara la finestra de registre, podeu continuar afegint informació al vostre perfil més endavant.
+8. Completeu la descripció de l'organització al perfil, les imatges, el lloc web / les xarxes socials i els detalls comercials.
 
-**You've now created your profile and added your basic profile details.**
+**Ara heu creat el vostre perfil i afegit els detalls de perfil bàsics.**
 
-To administer your profile head to your local OFN and login. Then click the cog symbol in the top right corner and select 'administration'.
+Per administrar el vostre perfil inicieu sessió a Katuma. A continuació, feu clic al símbol de l’engranatge a l'extrem superior dret i seleccioneu "administració".
 
-When you first login to OFN and go to administer your profile you'll be asked to select which package you want. Continue to learn about the [packages available](package-types.md).
-
+Quan accediu per primer cop a Katuma i vulgueu administrar el vostre perfil se us demanarà que seleccioneu quin tipus de perfil voleu.
