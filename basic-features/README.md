@@ -1,4 +1,4 @@
-# Basic Features
+# Funcionalitats bàsiques
 
 El capítol de Funcions Bàsiques del manual repassa les funcions fonamentals necessàries per configurar un perfil o fer compres a Katuma.
 
