@@ -1,2 +1,0 @@
-# Paying suppliers
-

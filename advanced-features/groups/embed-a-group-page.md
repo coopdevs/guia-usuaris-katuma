@@ -1,2 +1,0 @@
-# Embed a Group Page
-

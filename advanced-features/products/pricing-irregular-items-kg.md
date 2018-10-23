@@ -1,2 +1,0 @@
-# Pricing irregular items \(kg\)
-

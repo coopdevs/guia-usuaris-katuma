@@ -1,2 +1,0 @@
-# Collaboration with other enterprises
-

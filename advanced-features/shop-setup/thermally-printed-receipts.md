@@ -1,2 +1,0 @@
-# Thermally printed receipts
-
