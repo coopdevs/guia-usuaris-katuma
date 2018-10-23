@@ -6,7 +6,7 @@ Access your dashboard from the homepage by first logging in and then clicking on
 
 The screenshots below show the dashboard view for different types of users.
 
-### Producers
+## Producers
 
 {% tabs %}
 {% tab title="Producer Profile Only" %}
@@ -18,7 +18,7 @@ The screenshots below show the dashboard view for different types of users.
 {% endtab %}
 {% endtabs %}
 
-### Hubs
+## Hubs
 
 {% tabs %}
 {% tab title="Hub Profile Only" %}

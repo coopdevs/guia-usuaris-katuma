@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Open Food Network User Guide](README.md)
+* [Guia d'usuari](README.md)
 * [Setup Manuals](setup-manuals/README.md)
   * [Producer \(Profile Only\)](setup-manuals/producer-profile-only.md)
   * [Producer \(Shop\)](setup-manuals/producer-shop.md)

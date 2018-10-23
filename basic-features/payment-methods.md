@@ -24,7 +24,7 @@ The screenshot below shows a payment methods display at checkout. The customer h
 
 6\) **Active:** Select whether this payment method is currently visible and available, or not.
 
-7\) **Tags:** Use tag rules if you want to make certain payment methods available/unavailable for specific customers \(e.g. wholesale vs retail\). See [tags and tag rules](../advanced-features/shop-setup/tags-and-tag-rules.md) for more information.
+7\) **Tags:** Use tag rules if you want to make certain payment methods available/unavailable for specific customers \(e.g. wholesale vs retail\). See [tags and tag rules](https://github.com/coopdevs/guia-usuaris-katuma/tree/44e128f05a3e2f656a055ff5a68d3d8cfe7c2229/advanced-features/shop-setup/tags-and-tag-rules.md) for more information.
 
 8\) **Payment providers**: Select the one which is relevant to the payment method you are creating.
 
@@ -79,7 +79,7 @@ Type “Login” to direct customer to the login form for PayPal \(if you select
 {% endtab %}
 
 {% tab title="MIGS" %}
- MasterCard Internet Gateway Service \(MIGS\)
+MasterCard Internet Gateway Service \(MIGS\)
 
 Set up of this service needs to be done through your bank. So far it has been tested with Bendigo Bank.
 {% endtab %}
@@ -93,7 +93,7 @@ Stripe is simple to setup for shop owners and is reasonably priced. The fees cha
 
 Stripe is also easy for customers to use. Unlike Paypal, when the customer checks out, they don’t need to login with Paypal to place their order, rather they just need to enter their card details and then complete their order.
 
-Stripe is the recommended payment method for shops who wish to use [**subscriptions** ](../advanced-features/subscriptions/)on OFN, as Stripe allows customers to give permission to a shop to automatically bill their credit card for subscription orders. This isn’t offered by Paypal, Pin or MIGS payment platforms.
+Stripe is the recommended payment method for shops who wish to use [**subscriptions** ](https://github.com/coopdevs/guia-usuaris-katuma/tree/44e128f05a3e2f656a055ff5a68d3d8cfe7c2229/advanced-features/subscriptions/README.md)on OFN, as Stripe allows customers to give permission to a shop to automatically bill their credit card for subscription orders. This isn’t offered by Paypal, Pin or MIGS payment platforms.
 
 #### Setup
 
@@ -141,9 +141,9 @@ When a customer pays for their order with Stripe, the funds \(minus Stripe's fee
 
 **Taking further payment**
 
-If you need to take additional payment from a customer because they have further balance due,  you can create an invoice in Stripe. The customer will get sent an email asking for them to pay with Credit/Debit card. This won't be communicated to OFN, so you'll need to mark the payment off manually.
+If you need to take additional payment from a customer because they have further balance due, you can create an invoice in Stripe. The customer will get sent an email asking for them to pay with Credit/Debit card. This won't be communicated to OFN, so you'll need to mark the payment off manually.
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](https://github.com/coopdevs/guia-usuaris-katuma/tree/44e128f05a3e2f656a055ff5a68d3d8cfe7c2229/.gitbook/assets/image%20%2822%29.png)
 {% endtab %}
 
 {% tab title="Pin Payments" %}
@@ -171,7 +171,7 @@ _Note: Payment method fees do not include tax._
 
 #### Fee Calculators
 
-**Flat Percent:**  This fee is charged as a percentage of the total amount charged in the order.
+**Flat Percent:** This fee is charged as a percentage of the total amount charged in the order.
 
 **Flat Rate \(per order\):** This fee is applied as standard fee to all orders, regardless of the size of the order.
 

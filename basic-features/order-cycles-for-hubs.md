@@ -4,14 +4,14 @@ _\*Not a Hub, but a producer? See_ [_Order Cycles for producers_](order-cycles-f
 
 You open you shop by creating an Order Cycle. When you make an order cycle you select when you shop is open \(from and until\), which products will go into the shop, and any fees that you'll apply.
 
-**Why Order Cycles?**    
+**Why Order Cycles?**  
 Some hubs may wish to have an online store which is perpetually open, and to fulfill orders on a one by one basis, as they are received. However, many hubs operate on a periodic ordering system, which allows them to process orders in bulk, making their packing and distribution activities more efficient. Let’s use an example to illustrate a common periodic ordering cycle structure.
 
 **Order Cycle Example**
 
 For instance, each Monday morning a hub might assess the availability of their stock for the week. Based on this information they will create an order cycle by Monday afternoon and open their store. Customers can then place orders in their store, until the order cycle closes on Wednesday at midnight. On Thursday all of the orders can be packed by the hub and prepared for delivery on Friday. The following week the cycle will begin again, and with the creation of a new order cycle. By structuring order cycles in this way, and dealing with orders in bulk, hubs can make their ordering, sorting, packing and transport activities much more efficient than if they process orders individually as they are placed.
 
-### Access Order Cycles
+## Access Order Cycles
 
 You can create an order cycle, and view previous order cycles by clicking on **Manage Order Cycles** on your dashboard.
 
@@ -21,7 +21,7 @@ Or from the horizontal menu at the top of the page.
 
 ![Access order cycle](https://openfoodnetwork.org/wp-content/uploads/2015/05/Access-order-cycle.png)
 
-### Create a New Order Cycle
+## Create a New Order Cycle
 
 Below is the first stage in creating an order cycle.
 
@@ -41,7 +41,7 @@ Select the coordinator of the order cycle. The enterprise which coordinates an o
 
 ![New order cycle fields](https://openfoodnetwork.org/wp-content/uploads/2015/05/New-order-cycle-3.png)
 
-#### Incoming: select producer and produce
+### Incoming: select producer and produce
 
 The incoming section is where you can select the producers, and their produce, which will be available in this order cycle. In the dropdown menu you will see all producers who have granted you permission to add their produce to your order cycle \(See _Relationships with Producers_ section for details\). After selecting a supplier and clicking **Add Supplier** all of the products associated with that supplier will be visible. Check those products you wish to add to the store, or click **select all.** Note: Products which have an ‘on hand’ value of zero \(no stock available\) will still be visible, so be careful to check that you have adequate on hand inventory for the products selected.
 
@@ -55,13 +55,13 @@ This fee will be applied to all of the Producer of Fruit’s products which are 
 
 ![Apply enterprise fee to incoming supplier](https://openfoodnetwork.org/wp-content/uploads/2015/05/Enterprise-Fee.png)
 
-#### Outgoing: select distributor
+### Outgoing: select distributor
 
 The distributor\(s\) selected in the outgoing section, will have a shopfront opened from this order cycle. In simple hub models, there is only one distributor, the hub. So select the hub in the distributor column, and then select all products that should be visible in the online store during this order cycle. More complex hubs might have buying groups, in which case each is selected as a distributor, and will consequently have their own shopfront created. You then have the capacity to select specific products to be available in each buying group’s shop.
 
 ![Outgoing Section](https://openfoodnetwork.org/wp-content/uploads/2015/05/Outoging-New.png)
 
-The **tags** column is where you can tag your order cycles to customise whether they are visible/invisible to certain customers. See [tags and tag rules](../advanced-features/shop-setup/tags-and-tag-rules.md) for more information.
+The **tags** column is where you can tag your order cycles to customise whether they are visible/invisible to certain customers. See [tags and tag rules](https://github.com/coopdevs/guia-usuaris-katuma/tree/44e128f05a3e2f656a055ff5a68d3d8cfe7c2229/advanced-features/shop-setup/tags-and-tag-rules.md) for more information.
 
 The **‘ready for \(ie Date/Time\)’ \(**_**required**_**\):** This box tells the customer when their order will be ready for either collection or delivery. If your order cycle is a perpetual one, which fulfills orders on an individual basis rather then in bulk, you should enter something like ‘Two days after order is received’. The example below shows how ‘Friday 9th’ is displayed in a store.
 
@@ -77,7 +77,7 @@ The **Pick-Up Instructions** message will be included in the customer’s order 
 
 **Add Fee:** Again, a previously created enterprise fee can be assigned to this distributor.
 
-#### Open the shopfront
+### Open the shopfront
 
 Click Create to save this order cycle.
 
@@ -101,7 +101,7 @@ _We now have all the consumer orders for next food drop._
 
 _Stock pickup/delivery instructions: **&lt;Receival instructions&gt;**._
 
-### Orders summary
+## Orders summary
 
 _Here is a summary of the orders for your products:_
 
@@ -113,11 +113,11 @@ _Thanks and best wishes,_
 
 _**&lt;Hub Name, address, phone number, email&gt;**_
 
-### Advanced Features
+## Advanced Features
 
 Related advanced features:
 
-* The [inventory ](../advanced-features/products/inventory-tool.md)tool allows a shop to 'override' the inherent price and stock level of a product. You can use this tool if you want to track stock levels seperately across two shops, or have different prices for the same product in different shops.
-* [Creating ‘display only’ order cycles](../advanced-features/order-cycles/display-only-order-cycles.md)
-* [Permissions in multi-enterprise order cycles](../advanced-features/collaboration-with-other-enterprises/permissions-in-multi-enterprise-order-cycles.md)
+* The [inventory ](https://github.com/coopdevs/guia-usuaris-katuma/tree/44e128f05a3e2f656a055ff5a68d3d8cfe7c2229/advanced-features/products/inventory-tool.md)tool allows a shop to 'override' the inherent price and stock level of a product. You can use this tool if you want to track stock levels seperately across two shops, or have different prices for the same product in different shops.
+* [Creating ‘display only’ order cycles](https://github.com/coopdevs/guia-usuaris-katuma/tree/44e128f05a3e2f656a055ff5a68d3d8cfe7c2229/advanced-features/order-cycles/display-only-order-cycles.md)
+* [Permissions in multi-enterprise order cycles](https://github.com/coopdevs/guia-usuaris-katuma/tree/44e128f05a3e2f656a055ff5a68d3d8cfe7c2229/advanced-features/collaboration-with-other-enterprises/permissions-in-multi-enterprise-order-cycles.md)
 

@@ -1,7 +1,7 @@
 # Create or connect with your supplying producers
 
 {% hint style="info" %}
- _This page is only relevant to users who are not producers, or producers who want to sell products that come from other producers in their shop._
+_This page is only relevant to users who are not producers, or producers who want to sell products that come from other producers in their shop._
 {% endhint %}
 
 For such users, this step is a necessary precursor to adding your product range to your shop.
@@ -16,7 +16,7 @@ How do you know if you supplying producer has an OFN profile? Go to [www.openfoo
 
 ## 1\) Supplying producer does not have an OFN profile.
 
-If a supplying producer does not have a profile on the OFN, you can create one on their behalf. You’ll be the ‘owner’ of this profile and be able to add the producer’s products and then stock them in your shop. The new producer enterprise will be visible on your dashboard when you login to your existing account. Should the producer ever wish to take ownership of their profile, [ownership can be easily transferred](../advanced-features/your-profile/transfer-ownership.md).
+If a supplying producer does not have a profile on the OFN, you can create one on their behalf. You’ll be the ‘owner’ of this profile and be able to add the producer’s products and then stock them in your shop. The new producer enterprise will be visible on your dashboard when you login to your existing account. Should the producer ever wish to take ownership of their profile, [ownership can be easily transferred](https://github.com/coopdevs/guia-usuaris-katuma/tree/44e128f05a3e2f656a055ff5a68d3d8cfe7c2229/advanced-features/your-profile/transfer-ownership.md).
 
 ### Things to consider before creating a producer profile:
 
@@ -32,8 +32,6 @@ UK: hello@openfoodnetwork.org.uk
 Canada: tschumilas@rogers.com  
 Austraila and other: hello@openfoodnetwork.org
 {% endhint %}
-
-
 
 ### Creating a producer profile:
 
@@ -55,11 +53,11 @@ This will take you to the same form that we saw in the ‘Your Profile’ sectio
 
 **Images:**We strongly recommend that all profiles have both logo and promo images. These images make the online experience for customers more enjoyable and engaging, and also lend credibility to the enterprises.
 
-## 2\) Supplying producer has a pre-existing OFN profile {#supplyingproducer}
+## 2\) Supplying producer has a pre-existing OFN profile <a id="supplyingproducer"></a>
 
 If a supplying producer already has an OFN profile, you will need to get their permission to add products to their profile \(if they haven’t already\) and to stock them in your shop. You will be able to find their contact details on their OFN profile. Keep in mind that the producer profile could be managed by another hub, but this is not a problem- the OFN can accommodate two hubs stocking the same producer’s products in their separate shops.
 
-Within the OFN, [Enterprise to Enterprise Permissions \(E2E\)](../advanced-features/collaboration-with-other-enterprises/enterprise-to-enterprise-permissions-e2es.md) are used to control the nature of trading agreements between producers and hubs. Producers can grant hubs different kinds of E2E permissions, in different combinations, to specify exactly which elements of their account the hub can interact with. At the simplest level a producer can grant a hub permission to stock their products in the hub’s shop. They may also be happy to allow the hub to create and modify their products, or edit their profile.
+Within the OFN, [Enterprise to Enterprise Permissions \(E2E\)](https://github.com/coopdevs/guia-usuaris-katuma/tree/44e128f05a3e2f656a055ff5a68d3d8cfe7c2229/advanced-features/collaboration-with-other-enterprises/enterprise-to-enterprise-permissions-e2es.md) are used to control the nature of trading agreements between producers and hubs. Producers can grant hubs different kinds of E2E permissions, in different combinations, to specify exactly which elements of their account the hub can interact with. At the simplest level a producer can grant a hub permission to stock their products in the hub’s shop. They may also be happy to allow the hub to create and modify their products, or edit their profile.
 
-[This page](../advanced-features/collaboration-with-other-enterprises/enterprise-to-enterprise-permissions-e2es.md) covers all of the details of the different E2E permissions available. Discuss with the producer which permissions you require. Instruction for how the producer can then then grant the agreed upon E2E permissions can be found [here](../advanced-features/collaboration-with-other-enterprises/enterprise-to-enterprise-permissions-e2es.md).
+[This page](https://github.com/coopdevs/guia-usuaris-katuma/tree/44e128f05a3e2f656a055ff5a68d3d8cfe7c2229/advanced-features/collaboration-with-other-enterprises/enterprise-to-enterprise-permissions-e2es.md) covers all of the details of the different E2E permissions available. Discuss with the producer which permissions you require. Instruction for how the producer can then then grant the agreed upon E2E permissions can be found [here](https://github.com/coopdevs/guia-usuaris-katuma/tree/44e128f05a3e2f656a055ff5a68d3d8cfe7c2229/advanced-features/collaboration-with-other-enterprises/enterprise-to-enterprise-permissions-e2es.md).
 

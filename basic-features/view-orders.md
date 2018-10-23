@@ -4,7 +4,7 @@ You can interact with orders via two pages within the OFN, the Lisitng Orders pa
 
 ## Listing orders
 
-The listing order page shows a list view of all orders placed through your shop\(s\). From here you can access details of individual orders, edit orders and track the status of their payment and shipping. For details of how to create a new order manually for your customer see [here](../advanced-features/orders/create-orders-manually.md).
+The listing order page shows a list view of all orders placed through your shop\(s\). From here you can access details of individual orders, edit orders and track the status of their payment and shipping. For details of how to create a new order manually for your customer see [here](https://github.com/coopdevs/guia-usuaris-katuma/tree/44e128f05a3e2f656a055ff5a68d3d8cfe7c2229/advanced-features/orders/create-orders-manually.md).
 
 The page has filters which allow you to select which orders you want to view. You can filter by date, status or the email and name of the customer.
 
@@ -44,7 +44,7 @@ _Note: You cannot set an order to ‘shipped’ unless that order’s Payment St
 
 On the right hand side of the listing view you can update the payment/shipping state of an order.
 
-Click on the tick icon to indicate that payment has been received 
+Click on the tick icon to indicate that payment has been received
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Tick.png)
 
@@ -55,8 +55,6 @@ Click on the road icon to indicate that the order has been shipped
 Click on the edit icon \(to edit an order and view more detailed information about it\)
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Edit-order.png)
-
-
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/tracking-orders.png)
 
@@ -92,7 +90,7 @@ Click the cancel button to cancel an order.
 
 **Mark an order as paid**
 
-To mark an order as paid, click the tick icon on the listing order page. Or click on ‘Payments’ in the menu on the right and then click the tick icon 
+To mark an order as paid, click the tick icon on the listing order page. Or click on ‘Payments’ in the menu on the right and then click the tick icon
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Tick.png)
 
@@ -110,7 +108,7 @@ Clicking on customer details in the right hand menu will take you to a complete 
 
 ### **Add or subtract from the order balance**
 
-Clicking on adjustments 
+Clicking on adjustments
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Adjustments.png)
 

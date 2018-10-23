@@ -2,12 +2,12 @@
 
 Enterprise Setting is where you can manage details relating to your profile and/or shopfront.
 
-### Access your Enterprise Settings
+## Access your Enterprise Settings
 
 1. Click on 'Enterprise' in the blue horizontal menu
 2. Click on 'Manage' next to your enterprise
 
-### Primary Details
+## Primary Details
 
 **Name:** This is the name of your enterprise. It will be the title of your profile \(and store\).
 
@@ -21,27 +21,27 @@ Enterprise Setting is where you can manage details relating to your profile and/
 
 **Link to Shop Front:** This is the web address of your shop on the OFN \(if you've chosen a package with shopfront\). You can customise the URL above.
 
-### Address
+## Address
 
 This information is used to map your enterprise the OFN map. Your exact address won't show if you only have a profile, however if you have a shopfront, your address will show in text form in your shop's contact details tab.
 
-### Contact
+## Contact
 
 **Contact Name:** We ask for a contact name for the OFN’s records. This name will not be displayed on your profile, but will be included in order confirmation emails if you're running a shop.
 
 **Email and Phone and Website:** These contact points will be listed on your OFN profile and shopfront, as a means for others to make contact with you.
 
-### Social
+## Social
 
 **Facebook address, Instagram, LinkedIn, Twitter:** Links to these pages will be created on your profile and shopfront.
 
-### About
+## About
 
 **Short description:** This will be displayed when your profile is viewed in the list. It should be under 1-2 sentences which briefly describe what you do.
 
 **About Us:** This is a longer description of your enterprise. It will be shown when your profile is viewed in full. It should be half to one page long.
 
-### Business Details
+## Business Details
 
 **ABN:** this will not be displayed publicly. It is required for shop users who want to print invoices.
 
@@ -49,7 +49,7 @@ This information is used to map your enterprise the OFN map. Your exact address 
 
 **Charge GST?**– If you wish to charge GST for your products select ‘yes’.
 
-### Images
+## Images
 
 **Logo image:** This will be visible when your profile is viewed in brief, as a pop up window. It will also show on your profile. This image must be square, or it will be cropped/warped.
 
@@ -57,13 +57,13 @@ This information is used to map your enterprise the OFN map. Your exact address 
 
 An example profile is shown below.
 
-![](../.gitbook/assets/demo-profile.png)
+![](https://github.com/coopdevs/guia-usuaris-katuma/tree/44e128f05a3e2f656a055ff5a68d3d8cfe7c2229/.gitbook/assets/demo-profile.png)
 
-### Properties \(visible to producers only\)
+## Properties \(visible to producers only\)
 
-You can apply properties \(such as free range or certified organic\) to your enterprise. These properties will then be automatically applied to all of your products. For an in depth discussion of properties click [here](../advanced-features/products/product-properties.md).
+You can apply properties \(such as free range or certified organic\) to your enterprise. These properties will then be automatically applied to all of your products. For an in depth discussion of properties click [here](https://github.com/coopdevs/guia-usuaris-katuma/tree/44e128f05a3e2f656a055ff5a68d3d8cfe7c2229/advanced-features/products/product-properties.md).
 
-### Users
+## Users
 
 **Owner:** This is the primary user responsible for this enterprise. They have the power to change all aspects of the profile.
 
@@ -75,25 +75,25 @@ You can apply properties \(such as free range or certified organic\) to your ent
 
 _\* Note: The following fields are only visible to users who’ve opted to have an online shop. This includes producer run shops, and hub run shops._
 
-### Inventory Settings
+## Inventory Settings
 
 _\* not visible to profile-only users_
 
-Simple users can use the recommended setting. Advanced users who need greater flexibility with product management should consult the [Inventory](../advanced-features/products/inventory-tool.md) page of this guide before changing the settings.
+Simple users can use the recommended setting. Advanced users who need greater flexibility with product management should consult the [Inventory](https://github.com/coopdevs/guia-usuaris-katuma/tree/44e128f05a3e2f656a055ff5a68d3d8cfe7c2229/advanced-features/products/inventory-tool.md) page of this guide before changing the settings.
 
-### Shipping Methods, Payment Methods and Enterprise Fees
+## Shipping Methods, Payment Methods and Enterprise Fees
 
 _\* not visible to profile-only users_
 
 The [Shipping](shipping-methods.md) and [Payment Methods](payment-methods.md) and [Enterprise Fees](enterprise-fees.md) are covered in greater detail in later chapters in this user manual.
 
-### Tag Rules
+## Tag Rules
 
 _\* not visible to profile-only users_
 
-You can customise the shopping options for customer by creating tag rules. For more information about this see [tags and tag rules](../advanced-features/shop-setup/tags-and-tag-rules.md).
+You can customise the shopping options for customer by creating tag rules. For more information about this see [tags and tag rules](https://github.com/coopdevs/guia-usuaris-katuma/tree/44e128f05a3e2f656a055ff5a68d3d8cfe7c2229/advanced-features/shop-setup/tags-and-tag-rules.md).
 
-### Shop Preferences
+## Shop Preferences
 
 _\* not visible to profile-only users_
 
@@ -111,5 +111,5 @@ _\* not visible to profile-only users_
 
 **Shopfront Category Ordering**: The products within your store are arranged alphabetically, within their product category. You can order the product categories as you’d like them to appear, from top to bottom in your store. E.g. you may wish to have your Meat & Fish products to appear at the top, with your less important Pickles & Preseves appearing further down the shopfront.
 
-**Sort order cycles on shopfront by:** If your shopfront will have [more than one order cycle open at the same time](../advanced-features/order-cycles/opening-more-than-one-order-cycle.md) you can select which order they appear in the shopfront. You may sorted them by closing date \(closing soonest first\) or by opening date \(opening soonest first\).
+**Sort order cycles on shopfront by:** If your shopfront will have [more than one order cycle open at the same time](https://github.com/coopdevs/guia-usuaris-katuma/tree/44e128f05a3e2f656a055ff5a68d3d8cfe7c2229/advanced-features/order-cycles/opening-more-than-one-order-cycle.md) you can select which order they appear in the shopfront. You may sorted them by closing date \(closing soonest first\) or by opening date \(opening soonest first\).
 

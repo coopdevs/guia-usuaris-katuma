@@ -44,7 +44,7 @@ The All Products and Inventory \(on hand\) reports can be used as a paper copy o
 
 Some enterprises use their order confirmation emails as packing sheets, and others will create their own by modifying the Order Cycle Customer Totals report \(above\) to suit their desired format. These packing reports offer two additional options for packing slips.
 
-**Pack by Customer** 
+**Pack by Customer**
 
 This report lists each customer who placed an order. It included each item ordered by the customers, along with the quantity ordered. It’s useful for shops who pack orders customer by customer.
 
@@ -101,7 +101,7 @@ This report tells shop managers whether they have reached their bulk ordering th
 When their order cycle closes, this report can help the shop to answer the following questions:
 
 * Did customers order enough of this product to justify ordering the bulk size from the supplier?
-* If the [Group Buy](../advanced-features/products/group-buy-for-bulk-ordering.md) tool is enabled, how much extra product are my customers willing to purchase to help the group reach the bulk size threshold?
+* If the [Group Buy](https://github.com/coopdevs/guia-usuaris-katuma/tree/44e128f05a3e2f656a055ff5a68d3d8cfe7c2229/advanced-features/products/group-buy-for-bulk-ordering.md) tool is enabled, how much extra product are my customers willing to purchase to help the group reach the bulk size threshold?
 * How many bulk sizes should the shop order to meet the customer demand?
 * If the shop orders the bulk size, how much stock will be left over? Or alternatively, how many customers will be disappointed if this product isn’t ordered?
 

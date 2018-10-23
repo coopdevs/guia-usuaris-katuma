@@ -1,10 +1,10 @@
 # Shipping Methods
 
 {% hint style="info" %}
- You must create a shipping method before you can open your shop.
+You must create a shipping method before you can open your shop.
 {% endhint %}
 
-### Setting up a shipping method
+## Setting up a shipping method
 
 **1\)** Go to the shipping methods page.
 
@@ -26,13 +26,13 @@ Click **Enterprises** in the blue horizontal menu, and then click **Manage** nex
 
 **7\) Category:** Is this method a delivery or pick-up?
 
-**8\) Tags:** You can make shipping methods visible/invisible to certain customers by using [tags and tag rules](../advanced-features/shop-setup/tags-and-tag-rules.md).
+**8\) Tags:** You can make shipping methods visible/invisible to certain customers by using [tags and tag rules](https://github.com/coopdevs/guia-usuaris-katuma/tree/44e128f05a3e2f656a055ff5a68d3d8cfe7c2229/advanced-features/shop-setup/tags-and-tag-rules.md).
 
 **9\) Calculator:** Select the way that shipping fees will be applied to this shipping method. Note that a shipping fee can be zero.
 
 By clicking **Create,** the shipping method will be created, and you will then be provided with new fields, to add details of the shipping method charges. The fields presented will depend upon which shipping fee calculator you have selected. As indicated, if you are changing the calculator type, you must save first before you can edit the calculator settings.
 
-### Fee Calculators
+## Fee Calculators
 
 **Weight \(per kg\)** – this fee is applied to products on a per kg basis. The fee will only be applied to products which are priced at a per kg rate, not products listed as items \(e.g. A product listed as ‘1 bunch of parsley’ will not receive this fee\)
 

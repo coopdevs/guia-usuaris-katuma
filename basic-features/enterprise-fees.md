@@ -6,11 +6,11 @@ Depending on what kind of fee calculator you select, an enterprise fee is applie
 
 ![An enterprsie fee in shopfront](https://openfoodnetwork.org/wp-content/uploads/2015/05/Enterprsie-fee-in-shopfront.png)
 
-### Accessing Enterprise Fees
+## Accessing Enterprise Fees
 
 Click **Enterprises** in the blue horizontal menu, and then click **Manage** next to your enterprise. Then, click **Enterprise Fees** in the menu on the left hand side.
 
-### Adding Enterprise Fees
+## Adding Enterprise Fees
 
 The first step to applying fees in your shop is to create the Enterprise Fee, as detailed on this page.
 
@@ -30,7 +30,7 @@ The second step is to apply the fee to an order cycle. If the fee is not applied
 
 Click Update, to create the enterprise fee. Once the fee has been created you can specify how the fee will be calcuated in the Calculator Values column.
 
-### Fee Calculators
+## Fee Calculators
 
 ![Fee calculators](https://openfoodnetwork.org/wp-content/uploads/2015/05/Fee-calculators.png)
 

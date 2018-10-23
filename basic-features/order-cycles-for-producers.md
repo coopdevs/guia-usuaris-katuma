@@ -16,9 +16,8 @@ Note you cannot create an order cycle until you have set up [shipping ](shipping
 
 ### Create a New Order Cycle
 
-![](../.gitbook/assets/producer-oc.png)
+![](https://github.com/coopdevs/guia-usuaris-katuma/tree/44e128f05a3e2f656a055ff5a68d3d8cfe7c2229/.gitbook/assets/producer-oc.png)
 
-  
 **Name \(**_**required**_**\):** Choose a name for this order cycle. This will only be visible to you, so it can be named anything which is meaningful for you. We recommend that you follow a consistent naming protocol e.g FoodHub\_Week27\_2014.
 
 **Orders Open:** This is the date at which your OFN store will be open, and start to accept orders.
@@ -27,15 +26,15 @@ Note you cannot create an order cycle until you have set up [shipping ](shipping
 
 **Ready for \(ie Date/Time\) \(**_**required**_**\):** This box tells the customer when their order will be ready for either collection or delivery. If your order cycle is a perpetual one, which fulfills orders on an individual basis rather then in bulk, you should enter something like ‘Two days after order is received’. You can also put information about your delivery methods in your ‘shopfront message’. The example below shows how ‘Friday 9th’ is displayed in a store.
 
-![](../.gitbook/assets/next-order-closing.png)
+![](https://github.com/coopdevs/guia-usuaris-katuma/tree/44e128f05a3e2f656a055ff5a68d3d8cfe7c2229/.gitbook/assets/next-order-closing.png)
 
 The note is also shown at check out, when the customer selects their shipping method \(see below\) and is included in the order confirmation email.
 
-![](../.gitbook/assets/order-conf-ready-for.png)
+![](https://github.com/coopdevs/guia-usuaris-katuma/tree/44e128f05a3e2f656a055ff5a68d3d8cfe7c2229/.gitbook/assets/order-conf-ready-for.png)
 
 **Customer Instructions \(Pick-Up Instructions\):** This message will be included in the customer’s order confirmation email, below the message that corresponds to their chosen shipping method \(see below\). This note is designed to only be visible to customers, so you can include more sensitive information like addresses, or phone numbers etc. See below for an example of the order confirmation email.
 
-![](../.gitbook/assets/collection-details.png)
+![](https://github.com/coopdevs/guia-usuaris-katuma/tree/44e128f05a3e2f656a055ff5a68d3d8cfe7c2229/.gitbook/assets/collection-details.png)
 
 **Products:** You must select the products which will be visible in your online store during this order cycle. Remember, if you add new products after an order cycle is underway, you will need to select them here.
 
@@ -49,18 +48,18 @@ Click Create to save this order cycle.
 
 For periodic, repetitive order cycles, you can copy an existing order cycle and change the dates, to make the process quicker. See below.
 
-![](../.gitbook/assets/duplicate-oc.png)
+![](https://github.com/coopdevs/guia-usuaris-katuma/tree/44e128f05a3e2f656a055ff5a68d3d8cfe7c2229/.gitbook/assets/duplicate-oc.png)
 
 {% hint style="info" %}
- Note: It might be tempting to use the same OC all the time, and simply update the dates each time you reopen it. However, it's better to create a new Order Cycle, or duplicate and update an OC each time you have a new OC. If you always use the same OC, you will find that you can't filter your reports by OC. This can limit how effectively you can use OFN reports.
+Note: It might be tempting to use the same OC all the time, and simply update the dates each time you reopen it. However, it's better to create a new Order Cycle, or duplicate and update an OC each time you have a new OC. If you always use the same OC, you will find that you can't filter your reports by OC. This can limit how effectively you can use OFN reports.
 {% endhint %}
 
 Order cycles will display as green when they are active, yellow when schedules for a future date, and grey when they have closed. When an order cycle close over one month ago, it will no longer display on this list. To view all of your past order cycles click ‘show more’ at the top of the list.
 
-**Advanced Settings**    
-These settings are relevant for multi distributor order cycles. See [Inventory ](../advanced-features/products/inventory-tool.md)for details of these settings.
+**Advanced Settings**  
+These settings are relevant for multi distributor order cycles. See [Inventory ](https://github.com/coopdevs/guia-usuaris-katuma/tree/44e128f05a3e2f656a055ff5a68d3d8cfe7c2229/advanced-features/products/inventory-tool.md)for details of these settings.
 
 ### Related advanced features:
 
-* [Creating ‘display only’ order cycles](../advanced-features/order-cycles/display-only-order-cycles.md)
+* [Creating ‘display only’ order cycles](https://github.com/coopdevs/guia-usuaris-katuma/tree/44e128f05a3e2f656a055ff5a68d3d8cfe7c2229/advanced-features/order-cycles/display-only-order-cycles.md)
 

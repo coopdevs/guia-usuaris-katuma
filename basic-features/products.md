@@ -10,7 +10,7 @@ This will take you to the New Product page.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/New-Product2.png)
 
-**Supplier** 
+**Supplier**
 
 Select the enterprise who produces and supplies the product.
 
@@ -18,7 +18,7 @@ Select the enterprise who produces and supplies the product.
 If you are a producer, this will be you. If you're a hub, remember you’ll only be able to add products to producer profiles which you have created, or if you have been granted permission to manage the products of a producer profile. See [here](create-or-connect-with-your-supplying-producers.md) for more info.
 {% endhint %}
 
-**Product name:**  Add a title. This is how the product will be displayed in the store.
+**Product name:** Add a title. This is how the product will be displayed in the store.
 
 **Units:** Choose what unit the product is sold in? \(g, kg, L… or item \(bunch, bag, packet\)\)
 
@@ -32,7 +32,7 @@ Note: If you have selected ‘**items**’ as your unit, the **display as** fiel
 
 **Product category:** Select the most appropriate category for this product.
 
-**Price:** Enter the price for the value noted above. Note, this is the base price charged by the producer. Mark-ups and fees are added in Enterprise Fees, Shipping Fees and Payment Methods. 
+**Price:** Enter the price for the value noted above. Note, this is the base price charged by the producer. Mark-ups and fees are added in Enterprise Fees, Shipping Fees and Payment Methods.
 
 {% hint style="info" %}
 In Australia, if you select that this product carries tax, the price you put here will include GST. If you select that this product is GST free, the price you enter will be the GST free price.
@@ -49,7 +49,7 @@ Use this field if you want to track your stock levels. As customers place orders
 **Photo:** Upload a photo of this product.
 
 {% hint style="info" %}
- We strongly recommend to use clear, accurate and beautiful images of your products. It will make the product more appealing to customers.
+We strongly recommend to use clear, accurate and beautiful images of your products. It will make the product more appealing to customers.
 {% endhint %}
 
 **Tax category:** If you would like the price of this product to include GST, select **GST** from the drop-down menu. The producer and shop enterprise must be set to charge GST in the [Enterprise Settings](enterprise-settings.md) to do this. If you leave this field blank, or select **none**, or not set the enterprise as being GST registered, the price will not include GST.
@@ -58,7 +58,7 @@ Use this field if you want to track your stock levels. As customers place orders
 
 If you are listing two products which are very similar, but only vary on price, or size, or flavour, it is best to create a ‘variant’ for that product, rather than creating multiple, separate products.
 
-For example, if you sell lemons for 60c each, or 5 for $2.50, you can create two variants for your ‘lemons’ product, one for each price/quantity combination. Or you might sell two flavours of lamb sausages, rosemary, or chili. Each flavour should be a ‘variant’ of the general product. Creating product variants is discussed in greater depth [here](../advanced-features/products/product-variants.md).
+For example, if you sell lemons for 60c each, or 5 for $2.50, you can create two variants for your ‘lemons’ product, one for each price/quantity combination. Or you might sell two flavours of lamb sausages, rosemary, or chili. Each flavour should be a ‘variant’ of the general product. Creating product variants is discussed in greater depth [here](https://github.com/coopdevs/guia-usuaris-katuma/tree/44e128f05a3e2f656a055ff5a68d3d8cfe7c2229/advanced-features/products/product-variants.md).
 
 Once you have completed a product, click **create**, or if you’d like to add more, click **create and add another**.
 
@@ -80,8 +80,8 @@ Some examples of how to list different types of products, and how these listing 
 
 #### Related advanced features:
 
-* [Product variants](../advanced-features/products/product-variants.md)
-* [Pricing irregular, indivisible meat items](../advanced-features/products/pricing-irregular-items-kg.md)
-* [Product properties \(i.e. certified organic, free range, etc\)](../advanced-features/products/product-properties.md)
-* [Group buy](../advanced-features/products/group-buy-for-bulk-ordering.md) for items stocked in bulk sizes.
+* [Product variants](https://github.com/coopdevs/guia-usuaris-katuma/tree/44e128f05a3e2f656a055ff5a68d3d8cfe7c2229/advanced-features/products/product-variants.md)
+* [Pricing irregular, indivisible meat items](https://github.com/coopdevs/guia-usuaris-katuma/tree/44e128f05a3e2f656a055ff5a68d3d8cfe7c2229/advanced-features/products/pricing-irregular-items-kg.md)
+* [Product properties \(i.e. certified organic, free range, etc\)](https://github.com/coopdevs/guia-usuaris-katuma/tree/44e128f05a3e2f656a055ff5a68d3d8cfe7c2229/advanced-features/products/product-properties.md)
+* [Group buy](https://github.com/coopdevs/guia-usuaris-katuma/tree/44e128f05a3e2f656a055ff5a68d3d8cfe7c2229/advanced-features/products/group-buy-for-bulk-ordering.md) for items stocked in bulk sizes.
 
