@@ -1,4 +1,4 @@
-# Order Cycles \(for Hubs\)
+# Cicles de comandes \(per a grups\)
 
 _\*No ets un grup sinó una productora? Ves a_ [_Cicles de comanda (per a productores)_](order-cycles-for-producers.md)_._
 
