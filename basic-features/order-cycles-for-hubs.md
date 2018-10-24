@@ -1,123 +1,104 @@
 # Order Cycles \(for Hubs\)
 
-_\*Not a Hub, but a producer? See_ [_Order Cycles for producers_](order-cycles-for-producers.md)_._
+_\*No ets un grup sinó una productora? Ves a_ [_Cicles de comanda (per a productores)_](order-cycles-for-producers.md)_._
 
-You open you shop by creating an Order Cycle. When you make an order cycle you select when you shop is open \(from and until\), which products will go into the shop, and any fees that you'll apply.
+Obrireu les vostres botigues creant un cicle de comanda. Quan feu un cicle de comandes seleccionareu quan la botiga està oberta \(des de i fins quan\), quins productes hi apareixeran i quants recàrrecs o despeses s’hi s'aplicaran.
 
-**Why Order Cycles?**    
-Some hubs may wish to have an online store which is perpetually open, and to fulfill orders on a one by one basis, as they are received. However, many hubs operate on a periodic ordering system, which allows them to process orders in bulk, making their packing and distribution activities more efficient. Let’s use an example to illustrate a common periodic ordering cycle structure.
+**Per què els cicles de comandes?**
+És possible que alguns grups desitgin tenir una botiga en línia oberta permanentment i que preparin les comandes d'una en una, a mesura que es rebin. Tanmateix, molts grups o xarxes operen amb un sistema periòdic de comandes que els permet preparar-les conjuntament, fent que les seves activitats d'empaquetatge i distribució siguin més eficients. Utilitzarem un exemple per il·lustrar una estructura d’un cicle periòdic comú:
 
-**Order Cycle Example**
+**Exemple de cicle de comandes**
 
-For instance, each Monday morning a hub might assess the availability of their stock for the week. Based on this information they will create an order cycle by Monday afternoon and open their store. Customers can then place orders in their store, until the order cycle closes on Wednesday at midnight. On Thursday all of the orders can be packed by the hub and prepared for delivery on Friday. The following week the cycle will begin again, and with the creation of a new order cycle. By structuring order cycles in this way, and dealing with orders in bulk, hubs can make their ordering, sorting, packing and transport activities much more efficient than if they process orders individually as they are placed.
+Per exemple, cada dilluns al matí, un grup obre la seva botiga i incorpora els seus productes segons la disponibilitat dels seus proveïdors i del seu estoc per a la setmana. A partir d'aquesta informació, crearan un cicle de comandes el dilluns a la tarda i obriran la seva botiga. Les consumidores poden fer comandes a la seva botiga fins que el cicle de comandes es tanqui el dimecres a la mitjanit. El dijous totes les comandes es podran empaquetar o distribuir a les cistelles i es preparen per lliurar el divendres. La següent setmana començarà de nou el cicle amb la creació d'un nou cicle de comandes. En estructurar els cicles de comandes d'aquesta manera i tractar comandes a granel o en grup, els grups poden fer que les seves tasques de repartiment, classificació, empaquetatge o transport siguin molt més eficients que si processen les comandes de forma individual a mesura que es es reben.
 
-### Access Order Cycles
+### Accediu als cicles de comandes
 
-You can create an order cycle, and view previous order cycles by clicking on **Manage Order Cycles** on your dashboard.
+Podeu crear un cicle de comandes i veure els cicles de comanda anteriors fent clic a ‘**Gestiona los ciclos de pedido**’ al tauler d’administració:
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Order-Cycle.png)
 
-Or from the horizontal menu at the top of the page.
+O des del menú horitzontal que hi ha a la part superior de la pàgina:
 
-![Access order cycle](https://openfoodnetwork.org/wp-content/uploads/2015/05/Access-order-cycle.png)
+![Accediu als cicles de comandes](https://openfoodnetwork.org/wp-content/uploads/2015/05/Access-order-cycle.png)
 
-### Create a New Order Cycle
+### Crea un nou cicle de comanda
 
-Below is the first stage in creating an order cycle.
+A continuació es mostren els primers passos en la creació d'un cicle de comandes.
 
-\*Remember, you cannot create an order cycle until you have set up [shipment](shipping-methods.md) and [payment](https://github.com/ofn-user-guide/ofn-user-guide-master/tree/d5a1113e673b0e22198ca207b1db61339799868a/payment-methods-2.md) methods.
+\*Recordeu, no podeu crear un cicle de comandes fins que hàgiu configurat els mètodes de pagament i enviament.
 
-![Set order cycle coordinator](https://openfoodnetwork.org/wp-content/uploads/2015/05/Set-coordinator.png)
+![Seleccioneu el coordinador del cicle de comandes](https://openfoodnetwork.org/wp-content/uploads/2015/05/Set-coordinator.png)
 
-Select the coordinator of the order cycle. The enterprise which coordinates an order cycle has full powers and permissions to edit and manage an order cycle. Other enterprises involved in the order cycle \(such as suppliers or distributors\) have restricted abilities to edit an order cycle \(for more information click here\). After the coordinator is selected, the subsequent order cycle will be restricted according to who has granted this coordinator permission to add them to an order cycle \(P-OC\).For more information about Enterprise to Enterprise permissions go here.
+Seleccioneu el coordinador del cicle de comandes. El grup que que coordina un cicle de comandes té plens poders i permisos per editar i gestionar-lo. Altres grups que participin en el cicle de comandes \(com ara proveïdors o distribuïdors\) han restringit les capacitats per editar un cicle de comandes. Un cop seleccionat el coordinador, el següent cicle de comandes es restringirà d’acord amb qui ha concedit permís a aquest coordinador per afegir-los a un cicle de comanda \(P-OC\).
 
-**Name \(**_**required**_**\):**Give your order cycle a name which is meaningful to you. We recommend that you follow a consistent naming protocol e.g FoodHub\_Week27\_2014. We also recommend that you include the name of your hub in the order cycle name, so that OFN support can identify your order cycles if you need assistance.
+**Nom \(**_**requerit**_**\):** doneu al vostre cicle de comanda un nom que us resulti significatiu. Recomanem que seguiu un patró sistemàtic, per exemple, GrupLaCistella_Setmana3_2018. També us recomanem que inclogueu el nom del grup al nom del cicle de comanda, de manera que el suport de de Katuma pugui identificar els vostres cicles si necessiteu ajuda.
 
-**Orders Open:** This is the date at when your OFN store will be open, visible and start to accept orders from customers.
+**Comandes obertes:** aquesta és la data en què la vostra botiga estarà oberta a Katuma i començarà a acceptar comandes.
 
-**Order Close:** This is the date when your OFN store will close and stop accepting orders. If you intend to have an order cycle which is continuously open, select a close date which is well into the future.
+**Comandes tancades:** aquesta és la data en què es tanca la vostra botiga a Katuma i deixeu d'acceptar comandes. Si teniu previst un cicle de comandes que estigui obert contínuament, seleccioneu una data de tancament que sigui bastant avançada en el temps.
 
-**Add Coordinator Fee:**As a hub, the coordinator is most likely you. Here you can apply your Enterprise Fee which acts as the markup. The fee will be calculated according to the calculator selected in [Enterprise Fees](enterprise-fees.md). You can only apply an enterprise fee which has previously been created.
+**Afegiu una comissió de l’organització:** com a grup, és probable que els coordinadors del cicle sigueu vosaltres. Aquí podeu aplicar una comissió per a l’organització que actua com a marge. La comissió es calcula d'acord amb la calculadora seleccionada a Comissions de l’organització. Només podeu aplicar una comissió que s'hagi creat prèviament.
 
-![New order cycle fields](https://openfoodnetwork.org/wp-content/uploads/2015/05/New-order-cycle-3.png)
+![Camps d'un nou cicle de comanda](https://openfoodnetwork.org/wp-content/uploads/2015/05/New-order-cycle-3.png)
 
-#### Incoming: select producer and produce
+#### Entrant: seleccionar productora i productes
 
-The incoming section is where you can select the producers, and their produce, which will be available in this order cycle. In the dropdown menu you will see all producers who have granted you permission to add their produce to your order cycle \(See _Relationships with Producers_ section for details\). After selecting a supplier and clicking **Add Supplier** all of the products associated with that supplier will be visible. Check those products you wish to add to the store, or click **select all.** Note: Products which have an ‘on hand’ value of zero \(no stock available\) will still be visible, so be careful to check that you have adequate on hand inventory for the products selected.
+La secció d'entrada és on podeu seleccionar els productors i els seus productes que estaran disponibles en aquest cicle de comandes. Al menú desplegable veureu totes les productores que us han concedit permís per afegir els seus productes al vostre cicle de comandes \(vegeu la secció _Relacions amb productores_ per obtenir més informació\). Després de seleccionar un proveïdor i fer clic a ‘**Agregar proveïdor**’, tots els productes associats amb aquest proveïdor estaran visibles. Comproveu els productes que voleu afegir a la botiga o feu clic a '**Seleccionar tots**'.
 
-![Incoming](https://openfoodnetwork.org/wp-content/uploads/2015/05/Incomiing.png)
+{% hint style="info" %}
+Els productes que tenen un valor ‘disponibilitat' de zero (sense existències disponibles) encara seran visibles, així que ves amb compte de comprovar que hi ha un inventari adequat per als productes seleccionats.
+{% endhint %}
 
-The **Receival Details** fields are optional. If you wish to use the **Notify Produers** button, to send orders to your supplying producers, you should write your stock receival instructions here. \(more info in the Notify Producers section at the bottom of this page\).
+![Entrant](https://openfoodnetwork.org/wp-content/uploads/2015/05/Incomiing.png)
 
-The **Add Fee** button is where you can apply an enterprise fee, belonging to that supplier. Select the name of the enterprise in the first dropdown box, then click the name of the enterprise fee in the second dropdown box. In the example below, an enterprise fee named OrderAdmin is applied to the Producer of Fruit.
+Els camps **Detalls de recepció** són opcionals. Si voleu utilitzar el botó ‘**Notificar a les productores**’, per enviar comandes a les productores, haureu d'escriure aquí les instruccions de recepció d’estic. \(més informació a la secció ‘Notificar a les productores’ al final d'aquesta pàgina\).
 
-This fee will be applied to all of the Producer of Fruit’s products which are purchased. The fee is calculated according to the fee calculator which was selected when the [Enterprise Fee](enterprise-fees.md) was created.
+El botó ‘**Afegeix tarifa**’ és on podeu aplicar un recàrrec d'organització pertanyent a aquest proveïdor. Seleccioneu el nom de l'organització al primer quadre desplegable i, a continuació, feu clic al nom del recàrrec al segon quadre desplegable.
 
-![Apply enterprise fee to incoming supplier](https://openfoodnetwork.org/wp-content/uploads/2015/05/Enterprise-Fee.png)
+Aquest recàrrec s'aplicarà a tots els productes que es comprin del productor seleccionat. El recàrrec es calcula d'acord amb la calculadora de recàrrecs que es va seleccionar quan es va crear la Comissions de l’organització.
 
-#### Outgoing: select distributor
+![Aplica recàrrecs d'organització al proveïdor entrant](https://openfoodnetwork.org/wp-content/uploads/2015/05/Enterprise-Fee.png)
 
-The distributor\(s\) selected in the outgoing section, will have a shopfront opened from this order cycle. In simple hub models, there is only one distributor, the hub. So select the hub in the distributor column, and then select all products that should be visible in the online store during this order cycle. More complex hubs might have buying groups, in which case each is selected as a distributor, and will consequently have their own shopfront created. You then have the capacity to select specific products to be available in each buying group’s shop.
+#### Sortint: seleccioneu distribuïdor
 
-![Outgoing Section](https://openfoodnetwork.org/wp-content/uploads/2015/05/Outoging-New.png)
+El\(s\) distribuïdor\(s\) seleccionat\(s\) a la secció sortint, tindrà una botiga obert d'aquest cicle de comanda. En models de grup senzills, només hi ha un distribuïdor, el propi grup. Així que seleccioneu el grup al menú desplegable i, a continuació, seleccioneu tots els productes que haurien de ser visibles a la botiga en línia durant aquest cicle de comandes. Els grups o xarxes més complexos podrien tenir grups de compra, en aquest cas cadascun és seleccionat com a distribuïdor i, per tant, tindrà la seva pròpia botiga creada. A continuació, teniu la capacitat de seleccionar productes específics que estaran disponibles a cada botiga de grups de compra.
 
-The **tags** column is where you can tag your order cycles to customise whether they are visible/invisible to certain customers. See [tags and tag rules](../advanced-features/shop-setup/tags-and-tag-rules.md) for more information.
+![Secció sortint](https://openfoodnetwork.org/wp-content/uploads/2015/05/Outoging-New.png)
 
-The **‘ready for \(ie Date/Time\)’ \(**_**required**_**\):** This box tells the customer when their order will be ready for either collection or delivery. If your order cycle is a perpetual one, which fulfills orders on an individual basis rather then in bulk, you should enter something like ‘Two days after order is received’. The example below shows how ‘Friday 9th’ is displayed in a store.
+La columna d'**etiquetes** és on podeu etiquetar els cicles de comanda per personalitzar si són visibles o invisibles per a determinats clients.
 
-![ready for field](https://openfoodnetwork.org/wp-content/uploads/2015/05/Ready-for.png)
+El quadre **‘Llest per a (és a dir, Data / Hora)’ \(**_**requerit**_**\):** indica el consumidor quan la seva comanda estarà preparada per a la seva recollida o lliurament. Si el vostre cicle de comanda és permanent i atén les comandes de manera individual i no en grup, hauríeu d'introduir un missatge semblant a "Dos dies després de la recepció de la comanda", per exemple. L'exemple següent mostra com es mostra el 'divendres 9' en una botiga:
 
-The note is also shown at check out, when the customer selects their shipping method \(see below\) and is included in the order confirmation email.
+![Quadre llest per a](https://openfoodnetwork.org/wp-content/uploads/2015/05/Ready-for.png)
+
+La nota també es mostra mentre confirma la comanda, quan la consumidora selecciona el mètode d'enviament \(vegeu més avall\) i s'inclou en el correu electrònic de confirmació de comanda.
 
 ![Ready for info in email](https://openfoodnetwork.org/wp-content/uploads/2015/05/shipping-info.png)
 
-The **Pick-Up Instructions** message will be included in the customer’s order confirmation email, below the message that corresponds to their chosen shipping method \(see below\). This note is designed to only be visible to customers, so you can include more sensetive information like addresses, or phone numbers etc. See below for an example of the order confirmation email.
+El missatge **Instruccions de recollida** s'inclourà al correu electrònic de confirmació de comanda de la consumidora, a sota del missatge que correspon al mètode d'enviament escollit \(vegeu més avall\). Aquesta nota està dissenyada per ser visible només per als clients, de manera que podeu incloure informació més sensible, com ara adreces o números de telèfon, etc. Consulteu a continuació un exemple del correu electrònic de confirmació de comanda.
 
 ![collection details message](https://openfoodnetwork.org/wp-content/uploads/2015/05/Collection-details.png)
 
-**Add Fee:** Again, a previously created enterprise fee can be assigned to this distributor.
+**Afegiu comissió:** de nou, es pot assignar una comissió d’organització creada anteriorment es pot afegir a aquest distribuïdor.
 
-#### Open the shopfront
+#### Obriu la botiga
 
-Click Create to save this order cycle.
+Feu clic a ‘**Crea**’ per desar aquest cicle de comandes.
 
-> Note: When you create an order cycle, and the opening and closing dates fall either side of the present, a shopfront will become live on the homepage. If you are not ready to have your store open, temporarily put the opening and closing dates in the past \(this can be edited when you are ready to open\).
+{% hint style="info" %}
+Quan creeu un cicle de comandes i les dates d'obertura i de tancament en el present o futur, es podrà consultar. Si no esteu preparats per obrir la botiga, poseu temporalment les dates d'obertura i de tancament en el passat \(això es pot editar quan estigui llesta per obrir\).
+{% endhint %}
 
-For periodic, repetitive order cycles, you can copy an existing order cycle and change the dates, to make the process quicker. See below.
+Per als cicles de comandes periòdics i repetitius, podeu copiar un cicle de comandes existent i canviar les dates per fer el procés més ràpid. Vegeu la imatge.
 
-![duplicate an order cycle](https://openfoodnetwork.org/wp-content/uploads/2015/05/copy-order-cycle.png)
+![dupliqueu un cicle de comandes](https://openfoodnetwork.org/wp-content/uploads/2015/05/copy-order-cycle.png)
 
-> Note: It might be tempting to use the same OC all the time, and simply update the dates each time you reopen it. However, it's better to create a new Order Cycle, or duplicate and update an OC each time you have a new OC. If you always use the same OC, you will find that you can't filter your reports by OC. This can limit how effectively you can use OFN reports.
+{% hint style="info" %}
+Pot ser temptador utilitzar sempre el mateix cicle de comandes i simplement editar les dates cada vegada que el torneu a obrir. No obstant això, és millor crear un nou cicle de comanda, o duplicar i editar un cicle cada vegada. Si sempre feu servir el mateix cicle de comandes, us trobareu que no es poden filtrar els vostres informes. Això pot limitar amb quina eficàcia podeu utilitzar els informes de Katuma.
+{% endhint %}
 
-Order cycles will display as green when they are active, yellow when schedules for a future date, and grey when they have closed. When an order cycle close over one month ago, it will no longer display on this list. To view all of your past order cycles click ‘show more’ at the top of the list.
+Els cicles de comanda es mostraran de color verd quan estiguin actius, grocs quan es programen per a una data futura i grisos quan hagin tancat. Quan un cicle està tancat des de fa més d'un mes ja no es mostra en aquesta llista. Per veure tots els cicles del vostre passat, feu clic a "mostrar més" a la part superior de la llista.
 
-**‘Notify Producers’ Button**
+**Botó ‘Notificar a les productores’**
 
-Some hubs use this tool as a way to notify their suppliers of which items have been ordered, in what quantities and also to give them receival instructions. Clicking this button will send the following email to the contact email of the producer’s profile. It is sent to all producers included in this order cycle and will sum all of the orders placed in that order cycle.
-
-_Dear**&lt;Producer’s Name&gt;**,_
-
-_We now have all the consumer orders for next food drop._
-
-_Stock pickup/delivery instructions: **&lt;Receival instructions&gt;**._
-
-### Orders summary
-
-_Here is a summary of the orders for your products:_
-
-_**&lt;Total products orders in this order cycle \(example below\)&gt;**  
-– Producer of Meat – Leg of Lamb \(Frozen\) \(1.5kg\) \(QTY: 1\) @ $22.50 = $22.50  
-– Producer of Meat – Sausages \(100g\) \(QTY: 3\) @ $3.00 = $9.00_
-
-_Thanks and best wishes,_
-
-_**&lt;Hub Name, address, phone number, email&gt;**_
-
-### Advanced Features
-
-Related advanced features:
-
-* The [inventory ](../advanced-features/products/inventory-tool.md)tool allows a shop to 'override' the inherent price and stock level of a product. You can use this tool if you want to track stock levels seperately across two shops, or have different prices for the same product in different shops.
-* [Creating ‘display only’ order cycles](../advanced-features/order-cycles/display-only-order-cycles.md)
-* [Permissions in multi-enterprise order cycles](../advanced-features/collaboration-with-other-enterprises/permissions-in-multi-enterprise-order-cycles.md)
-
+Algunes organitzacions utilitzen aquesta eina com una manera de notificar als seus proveïdors quins productes s'han demanat, en quines quantitats i també per donar-los instruccions de recepció. En fer clic en aquest botó s'enviarà un correu electrònic a l’adreça de contacte del perfil de la productora. S’enviarà a totes les productores incloses en aquest cicle de comandes i sumarà totes les comandes incloses en aquest cicle de comandes:
