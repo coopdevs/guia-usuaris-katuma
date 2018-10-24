@@ -14,53 +14,49 @@ Accediu als cicles de comandes des del menú horitzontal blau a la part superior
 Tingueu en compte que no podeu crear un cicle de comandes fins que hàgiu configurat els [Mètodes de pagament](payment-methods.md) i [Mètodes d’enviament](shipping-methods.md).
 {% endhint %}
 
-### Create a New Order Cycle
+### Creeu un nou cicle de comandes
 
 ![](../.gitbook/assets/producer-oc.png)
 
-  
-**Name \(**_**required**_**\):** Choose a name for this order cycle. This will only be visible to you, so it can be named anything which is meaningful for you. We recommend that you follow a consistent naming protocol e.g FoodHub\_Week27\_2014.
+**Nom \(**_**requerit**_**\):** trieu un nom per a aquest cicle de comandes. Això només serà visible per vosaltres, de manera que el podeu anomenar de manera tingui sentit per a vosaltres. Recomanem que seguiu un patró sistemàtic, com per exemple, LaCistella_setmana3_2018.
 
-**Orders Open:** This is the date at which your OFN store will be open, and start to accept orders.
+**Comandes obertes:** aquesta és la data en què la vostra botiga estarà oberta a Katuma i començarà a acceptar comandes.
 
-**Orders Close:** This is the date when your OFN store will close, and stop accepting orders. If you intend to have an order cycle which is continuously open, select a close date which is well into the future.
+**Comandes tancades:** aquesta és la data en què es tanca la vostra botiga a Katuma i deixeu d'acceptar comandes. Si teniu previst un cicle de comandes que estigui obert contínuament, seleccioneu una data de tancament que sigui bastant avançada en el temps.
 
-**Ready for \(ie Date/Time\) \(**_**required**_**\):** This box tells the customer when their order will be ready for either collection or delivery. If your order cycle is a perpetual one, which fulfills orders on an individual basis rather then in bulk, you should enter something like ‘Two days after order is received’. You can also put information about your delivery methods in your ‘shopfront message’. The example below shows how ‘Friday 9th’ is displayed in a store.
+**Lest per \(és a dir, Data / Hora\) \(**_**requerit**_**\):** aquest quadre indica al client quan la seva comanda estarà a punt per a la seva recollida o lliurament. Si el cicle de la vostra comanda és permanent, que compleix les comandes de manera individual i no una compra col·lectiva, hauríeu d'introduir una frase del tipus "Dos dies després de la recepció de la comanda". També podeu posar informació sobre els vostres mètodes de lliurament al vostre "missatge de la botiga". L'exemple següent mostra com es mostra el 'llest per: divendres 9' a la botiga.
 
 ![](../.gitbook/assets/next-order-closing.png)
 
-The note is also shown at check out, when the customer selects their shipping method \(see below\) and is included in the order confirmation email.
+La nota també es mostra durant el procés de fer la comanda quan el client selecciona el mètode d'enviament (vegeu més avall) i s'inclou en el correu electrònic de confirmació de comanda.
 
 ![](../.gitbook/assets/order-conf-ready-for.png)
 
-**Customer Instructions \(Pick-Up Instructions\):** This message will be included in the customer’s order confirmation email, below the message that corresponds to their chosen shipping method \(see below\). This note is designed to only be visible to customers, so you can include more sensitive information like addresses, or phone numbers etc. See below for an example of the order confirmation email.
+**Instruccions del consumidor:** aquest missatge serà inclòs en el correu electrònic de confirmació de comanda del client, a sota del missatge que correspon al mètode d'enviament escollit (vegeu més avall). Aquesta nota està dissenyada per ser visible només per als clients, de manera que podeu incloure informació més sensible, com ara adreces o números de telèfon, etc. Consulteu a continuació un exemple del correu electrònic de confirmació de comanda.
 
 ![](../.gitbook/assets/collection-details.png)
 
-**Products:** You must select the products which will be visible in your online store during this order cycle. Remember, if you add new products after an order cycle is underway, you will need to select them here.
+**Productes:** heu de seleccionar els productes que seran visibles a la vostra botiga en línia durant aquest cicle de comandes. Recordeu, si afegiu nous productes després d'un cicle de comandes en curs, haureu de seleccionar-los aquí.
 
-**Fees:** There is the option of adding a coordinator fee. Here you can apply an enterprise fee that has been created for your enterprise. This function is most relevant to producers and hubs who are working in partnership. It allows an administration fee to be distributed to the party who is responsible for coordinating orders. Most often, this is not relevant to single producers selling their own products.
+**Comissions:** hi ha l'opció d'afegir una comissió. Aquí podeu aplicar una comissió de l’organització creada per a la vostra empresa. Aquesta funció és més rellevant per als productors o grups que treballen conjuntament. Permet distribuir una comissió de gestió o administració a la part responsable de coordinar les comandes. Molt sovint, això no és rellevant per als productors únics que només venen els seus propis productes. Podeu saber-ne més a Comissions de l’organització.
 
-### Open the shopfront
+### Obriu la botiga
 
-Click Create to save this order cycle.
+Feu clic a **‘Crea’** per desar aquest cicle de comandes.
 
-\*Note When you create an order cycle, and the opening and closing dates fall either side of the present, a shopfront will become live on the homepage. If you are not ready to have your store open, temporarily put the opening and closing dates in the past \(this can be edited when you are ready to open\).
+{% hint style="info" %}
+Quan creeu un cicle de comandes i les dates d'obertura i de tancament cauen en el present, la botiga s’obrirà i es podrà visitar. Si encara no esteu preparats per obrir la vostra botiga, poseu temporalment les dates d'obertura i de tancament en el passat \(això es pot editar quan la tingueu llesta per obrir\).
+{% endhint %}
 
-For periodic, repetitive order cycles, you can copy an existing order cycle and change the dates, to make the process quicker. See below.
+Per als cicles de comandes periòdics i repetitius, podeu copiar/duplicar un cicle de comandes existent i canviar les dates per fer el procés més ràpid fent clic a la icona de la dreta.
 
 ![](../.gitbook/assets/duplicate-oc.png)
 
 {% hint style="info" %}
- Note: It might be tempting to use the same OC all the time, and simply update the dates each time you reopen it. However, it's better to create a new Order Cycle, or duplicate and update an OC each time you have a new OC. If you always use the same OC, you will find that you can't filter your reports by OC. This can limit how effectively you can use OFN reports.
+Pot ser temptador utilitzar sempre el mateix cicle de comandes i simplement editar les dates cada vegada que el torneu a obrir. No obstant això, és millor crear un nou cicle de comanda, o duplicar i editar un cicle cada vegada. Si sempre feu servir el mateix cicle de comandes, us trobareu que no es poden filtrar els vostres informes. Això pot limitar amb quina eficàcia podeu utilitzar els informes de Katuma.
 {% endhint %}
 
-Order cycles will display as green when they are active, yellow when schedules for a future date, and grey when they have closed. When an order cycle close over one month ago, it will no longer display on this list. To view all of your past order cycles click ‘show more’ at the top of the list.
+Els cicles de comanda es mostraran de color verd quan estiguin actius, groc quan es programen per a una data futura i grisos quan hagin tancat. Quan un cicle de comandes està tancat des de fa més d'un mes, ja no es mostra en aquesta llista. Per veure tots els cicles del vostre passat, feu clic a "mostrar més" a la part superior de la llista.
 
-**Advanced Settings**    
-These settings are relevant for multi distributor order cycles. See [Inventory ](../advanced-features/products/inventory-tool.md)for details of these settings.
-
-### Related advanced features:
-
-* [Creating ‘display only’ order cycles](../advanced-features/order-cycles/display-only-order-cycles.md)
-
+**Configuració avançada**
+Aquesta configuració és rellevant per als cicles de comandes de diversos distribuïdors.
