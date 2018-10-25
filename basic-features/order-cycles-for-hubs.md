@@ -15,11 +15,11 @@ Per exemple, cada dilluns al matí, un grup obre la seva botiga i incorpora els 
 
 Podeu crear un cicle de comandes i veure els cicles de comanda anteriors fent clic a ‘**Gestiona los ciclos de pedido**’ al tauler d’administració:
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Order-Cycle.png)
+![](assets/manage_order_cycles.png)
 
 O des del menú horitzontal que hi ha a la part superior de la pàgina:
 
-![Accediu als cicles de comandes](https://openfoodnetwork.org/wp-content/uploads/2015/05/Access-order-cycle.png)
+![Accediu als cicles de comandes](assets/access_order_cycle.png)
 
 ### Crea un nou cicle de comanda
 
