@@ -15,11 +15,11 @@ Per exemple, cada dilluns al matí, un grup obre la seva botiga i incorpora els 
 
 Podeu crear un cicle de comandes i veure els cicles de comanda anteriors fent clic a ‘**Gestiona los ciclos de pedido**’ al tauler d’administració:
 
-![](assets/order_cycle.png)
+![](../assets/order_cycle.png)
 
 O des del menú horitzontal que hi ha a la part superior de la pàgina:
 
-![Accediu als cicles de comandes](assets/access_order_cycle.png)
+![Accediu als cicles de comandes](../assets/access_order_cycle.png)
 
 ### Crea un nou cicle de comanda
 
@@ -27,7 +27,7 @@ A continuació es mostren els primers passos en la creació d'un cicle de comand
 
 \*Recordeu, no podeu crear un cicle de comandes fins que hàgiu configurat els mètodes de pagament i enviament.
 
-![Seleccioneu el coordinador del cicle de comandes](assets/set_coordinator.png)
+![Seleccioneu el coordinador del cicle de comandes](../assets/set_coordinator.png)
 
 Seleccioneu el coordinador del cicle de comandes. El grup que que coordina un cicle de comandes té plens poders i permisos per editar i gestionar-lo. Altres grups que participin en el cicle de comandes \(com ara proveïdors o distribuïdors\) han restringit les capacitats per editar un cicle de comandes. Un cop seleccionat el coordinador, el següent cicle de comandes es restringirà d’acord amb qui ha concedit permís a aquest coordinador per afegir-los a un cicle de comanda \(P-OC\).
 
@@ -39,7 +39,7 @@ Seleccioneu el coordinador del cicle de comandes. El grup que que coordina un ci
 
 **Afegiu una comissió de l’organització:** com a grup, és probable que els coordinadors del cicle sigueu vosaltres. Aquí podeu aplicar una comissió per a l’organització que actua com a marge. La comissió es calcula d'acord amb la calculadora seleccionada a Comissions de l’organització. Només podeu aplicar una comissió que s'hagi creat prèviament.
 
-![Camps d'un nou cicle de comanda](assets/new_order_cycle.png)
+![Camps d'un nou cicle de comanda](../assets/new_order_cycle.png)
 
 #### Entrant: seleccionar productora i productes
 
@@ -49,7 +49,7 @@ La secció d'entrada és on podeu seleccionar els productors i els seus producte
 Els productes que tenen un valor ‘disponibilitat' de zero (sense existències disponibles) encara seran visibles, així que ves amb compte de comprovar que hi ha un inventari adequat per als productes seleccionats.
 {% endhint %}
 
-![Entrant](assets/incoming.png)
+![Entrant](../assets/incoming.png)
 
 Els camps **Detalls de recepció** són opcionals. Si voleu utilitzar el botó ‘**Notificar a les productores**’, per enviar comandes a les productores, haureu d'escriure aquí les instruccions de recepció d’estic. \(més informació a la secció ‘Notificar a les productores’ al final d'aquesta pàgina\).
 
@@ -63,7 +63,7 @@ Aquest recàrrec s'aplicarà a tots els productes que es comprin del productor s
 
 El\(s\) distribuïdor\(s\) seleccionat\(s\) a la secció sortint, tindrà una botiga obert d'aquest cicle de comanda. En models de grup senzills, només hi ha un distribuïdor, el propi grup. Així que seleccioneu el grup al menú desplegable i, a continuació, seleccioneu tots els productes que haurien de ser visibles a la botiga en línia durant aquest cicle de comandes. Els grups o xarxes més complexos podrien tenir grups de compra, en aquest cas cadascun és seleccionat com a distribuïdor i, per tant, tindrà la seva pròpia botiga creada. A continuació, teniu la capacitat de seleccionar productes específics que estaran disponibles a cada botiga de grups de compra.
 
-![Secció sortint](assets/outgoing.png)
+![Secció sortint](../assets/outgoing.png)
 
 La columna d'**etiquetes** és on podeu etiquetar els cicles de comanda per personalitzar si són visibles o invisibles per a determinats clients.
 
