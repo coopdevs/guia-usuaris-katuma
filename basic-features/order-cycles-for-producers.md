@@ -11,7 +11,7 @@ A molts productors que venen petites quantitats de productes els pot resultar ú
 Accediu als cicles de comandes des del menú horitzontal blau a la part superior de la pàgina.
 
 {% hint style="info" %}
-Tingueu en compte que no podeu crear un cicle de comandes fins que hàgiu configurat els [Mètodes de pagament](payment-methods.md) i [Mètodes d’enviament](shipping-methods.md).
+Tingueu en compte que no podeu crear un cicle de comandes fins que hàgiu configurat els mètodes de pagament i mètodes d’enviament.
 {% endhint %}
 
 ### Creeu un nou cicle de comandes
