@@ -1,6 +1,6 @@
 # Cicles de comandes \(per a productores\)
 
-_\*No ets una productora? Ves a [_Cicle de comanda_(per_a_grups)_]()_._
+_\*No ets una productora? Ves a [_Cicle de comanda_(per_a_grups)_](basic-features/order-cycles-for-hubs.md)_._
 
 A Katuma, els cicles de comandes són des d’on les productores o grups obren la seva botiga. Això implica seleccionar quins dels seus productes estan en estoc, quines recàrrecs o despeses s'apliquen i quines dates obrirà i tancarà la botiga.
 
