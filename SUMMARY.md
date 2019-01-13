@@ -9,7 +9,6 @@
   * [Configuració de l'organització](basic-features/configuracio-de-lorganitzacio.md)
   * [Creeu o connecteu-vos amb les vostres productores proveïdores](basic-features/creeu-o-connecteu-vos-amb-les-vostres-productores-proveidores.md)
   * [Productes](basic-features/productes.md)
-  * [Mètodes de pagament](basic-features/metodes-de-pagament.md)
   * [Mètodes d'enviament](basic-features/metodes-denviament.md)
   * [Comissions de l'organització](basic-features/comissions-de-lorganitzacio.md)
   * [Cicles de comandes \(per a grups\)](basic-features/order-cycles-for-hubs.md)
