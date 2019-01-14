@@ -1,2 +1,6 @@
 # Veure comandes
 
+
+
+
+
