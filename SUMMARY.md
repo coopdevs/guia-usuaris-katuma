@@ -2,6 +2,12 @@
 
 * [Guia d'usuari](README.md)
 * [Manuals de configuració](manuals-de-configuracio/README.md)
+  * [Productora \(només perfil\)](manuals-de-configuracio/productora-nomes-perfil.md)
+  * [Productora \(botiga\)](manuals-de-configuracio/productora-botiga.md)
+  * [Productora \(grup de productores\)](manuals-de-configuracio/productora-grup-de-productores.md)
+  * [Grup \(només perfil\)](manuals-de-configuracio/grup-nomes-perfil.md)
+  * [Grup \(botiga\)](manuals-de-configuracio/grup-botiga.md)
+  * [Pre-comandes amb múltiples productores](manuals-de-configuracio/pre-comandes-amb-multiples-productores.md)
   * [Mercats de pagès \(Pàgina de grup\)](manuals-de-configuracio/mercats-de-pages-pagina-de-grup.md)
   * [Mercats de pagès \(botiga\)](manuals-de-configuracio/mercats-de-pages-botiga.md)
 * [Funcionalitats bàsiques](basic-features/README.md)
@@ -56,4 +62,5 @@
   * [Social](funcionalitats-avancades/social/README.md)
     * [Consells per a l'ús de Facebook](funcionalitats-avancades/social/consells-per-a-lus-de-facebook.md)
     * [La teva granja a Facebook](funcionalitats-avancades/social/la-teva-granja-a-facebook.md)
+* [Feedback](feedback.md)
 
