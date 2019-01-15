@@ -1,7 +1,9 @@
 # Table of contents
 
 * [Guia d'usuari](README.md)
-* [Manuals de configuració](manuals-de-configuracio.md)
+* [Manuals de configuració](manuals-de-configuracio/README.md)
+  * [Mercats de pagès \(Pàgina de grup\)](manuals-de-configuracio/mercats-de-pages-pagina-de-grup.md)
+  * [Mercats de pagès \(botiga\)](manuals-de-configuracio/mercats-de-pages-botiga.md)
 * [Funcionalitats bàsiques](basic-features/README.md)
   * [Registreu-vos i creeu el vostre perfil](basic-features/register-and-create-your-profile.md)
   * [Tipus de perfils disponibles](basic-features/tipus-de-perfils-disponibles.md)
@@ -45,7 +47,13 @@
     * [Subscripcions - crear i gestionar comandes](funcionalitats-avancades/subscripcions/subscripcions-crear-i-gestionar-comandes.md)
     * [Subscripcions - la perspectiva de la consumidora](funcionalitats-avancades/subscripcions/subscripcions-la-perspectiva-de-la-consumidora.md)
     * [Subscripcions - preguntes freqüents](funcionalitats-avancades/subscripcions/subscripcions-preguntes-frequeents.md)
-  * [Comandes](funcionalitats-avancades/comandes.md)
-  * [Grups](funcionalitats-avancades/grups.md)
-  * [Social](funcionalitats-avancades/social.md)
+  * [Comandes](funcionalitats-avancades/comandes/README.md)
+    * [Crear comandes manualment](funcionalitats-avancades/comandes/crear-comandes-manualment.md)
+    * [Reemborsament de pagaments](funcionalitats-avancades/comandes/reemborsament-de-pagaments.md)
+  * [Grups](funcionalitats-avancades/grups/README.md)
+    * [Pàgina de grup](funcionalitats-avancades/grups/pagina-de-grup.md)
+    * [Incrustar una pàgina de grup](funcionalitats-avancades/grups/incrustar-una-pagina-de-grup.md)
+  * [Social](funcionalitats-avancades/social/README.md)
+    * [Consells per a l'ús de Facebook](funcionalitats-avancades/social/consells-per-a-lus-de-facebook.md)
+    * [La teva granja a Facebook](funcionalitats-avancades/social/la-teva-granja-a-facebook.md)
 
