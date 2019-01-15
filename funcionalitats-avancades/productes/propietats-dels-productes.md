@@ -1,0 +1,2 @@
+# Propietats dels productes
+

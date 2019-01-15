@@ -1,0 +1,2 @@
+# Pagar els proveïdors
+

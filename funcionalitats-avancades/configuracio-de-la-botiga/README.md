@@ -1,0 +1,2 @@
+# Configuració de la botiga
+

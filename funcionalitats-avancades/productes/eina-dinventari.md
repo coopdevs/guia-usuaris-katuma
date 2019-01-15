@@ -1,0 +1,2 @@
+# Eina d'inventari
+
