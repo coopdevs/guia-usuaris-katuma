@@ -20,29 +20,40 @@ El capítol de [Funcionalitats bàsiques](https://guia.katuma.org/~/edit/drafts/
 * Carrega preus diferents a clients diferents.[ Llegeix-ne més.](https://guia.katuma.org/~/edit/drafts/-LWS-1BZm9KXiQe0xOyL/funcionalitats-avancades/productes/configuracio-de-la-botiga/preu-especific-segons-el-tipus-de-client)
 * Fes que la vostre botiga sigui privada. [Llegeix-ne més.](https://guia.katuma.org/~/edit/drafts/-LWS-1BZm9KXiQe0xOyL/funcionalitats-avancades/productes/configuracio-de-la-botiga/botiga-privada)
 * Mantingues una llista dels teus clients. Això es requereix per utilitzar altres funcions com ara etiquetes i subscripcions. [Llegeix-ne més.](https://guia.katuma.org/~/edit/drafts/-LWS-1BZm9KXiQe0xOyL/funcionalitats-avancades/productes/configuracio-de-la-botiga/consumidores)
-* Aplica "etiquetes" als teus clients i personalitza la teva experiència de compra amb les regles d'etiquetes. Inclou restriccions en la disponibilitat de l'enviament i els mètodes de pagament, productes o cicles de comandes. 
-* Voleu incrustar la vostra botiga al vostre lloc web extern? Podeu fer això amb botigues inserides.
-* Obteniu la configuració per imprimir els rebuts impresos tèrmicament \(només disponible en alguns països\).
-* Col·laborar amb altres organtzacions
+* Aplica "etiquetes" als teus clients i personalitza la teva experiència de compra amb les regles d'etiquetes. Inclou restriccions en la disponibilitat de l'enviament i els mètodes de pagament, productes o cicles de comandes. [Llegeix-ne més.](https://guia.katuma.org/~/edit/drafts/-LWS41VJ-W_nOBHjDQFw/funcionalitats-avancades/configuracio-de-la-botiga/etiquetes-i-regles-de-les-etiquetes)
+* Voleu incrustar la vostra botiga al vostre lloc web extern? Podeu fer això amb botigues inserides. [Llegeix-ne més](https://guia.katuma.org/~/edit/drafts/-LWS41VJ-W_nOBHjDQFw/funcionalitats-avancades/configuracio-de-la-botiga/incrustacio-de-la-botiga). 
+* Obteniu la configuració per imprimir els rebuts impresos tèrmicament \(només disponible en alguns països\). [Llegeix-ne més.](https://guia.katuma.org/~/edit/drafts/-LWS41VJ-W_nOBHjDQFw/funcionalitats-avancades/configuracio-de-la-botiga/tiquets-impresos-en-paper-termic)
+
+## Col·laborar amb altres organitzacions.
+
 * Comprèn com s'utilitzen els permisos entre organitzacions \(‘enterprise to enterprise’ o E2E\) per habilitar diferents formes de col·laboració entre organitzacions\* i la seva aplicació.
 * Obteniu informació sobre com el permís E2E afecta totes les parts en els cicles de comandes de diverses empreses.
 
 Nota: a Katuma s’utilitza el terme ‘organització’ per fer referència a qualsevol perfil creat dins la plataforma ja sigui empresa productora, grup de consum…  
 
 
-* Cicles de comanda
+## Cicles de comanda
+
 * Obertura de més d'un cicle de comandes al mateix temps.
 * Crea un cicle de comanda només de visualització perquè els visitants puguin veure què hi ha a la teva botiga, fins i tot quan el teu cicle de comanda està tancat.
-* Subscripcions
+
+## Subscripcions
+
 * Configureu la configuració empresarial per activar subscripcions.
 * Creeu i gestioneu ordres de subscripció per als clients.
 * Considereu com interactuaran els vostres clients amb la seva subscripció.
-* Comandes
+
+## Comandes
+
 * Crea una comanda manualment per al client des del back end.
-* Grups
+
+## Grups
+
 * Crea i gestiona una pàgina de grup, que actua com un subdirectori d’OFN per als grups regionals de productors, organismes de certificació, mercats, etc.
 * Incrusteu la vostra pàgina de grup al vostre lloc web extern.
-* Social
+
+## Social
+
 * Posa el teu projecte a Facebook.
 * Consells per als productors sobre l’ús de Facebook.
 
