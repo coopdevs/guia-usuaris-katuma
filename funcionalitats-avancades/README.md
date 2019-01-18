@@ -2,7 +2,7 @@
 
 El capítol de [Funcionalitats bàsiques](https://guia.katuma.org/~/edit/drafts/-LWS-1BZm9KXiQe0xOyL/basic-features) passa per les funcions fonamentals necessàries per configurar un perfil o fer compres a Katuma. Un cop t’hagis familiaritzat amb aquestes funcionalitats bàsiques, pots explorar algunes de les funcions més avançades aquí:
 
-## El teu perfil 
+## El teu perfil
 
 * Fes que els perfils de productores es puguin cercar per categoria de producte als directoris de Katuma. [Llegeix-ne més.](https://guia.katuma.org/~/edit/drafts/-LWS-1BZm9KXiQe0xOyL/funcionalitats-avancades/el-teu-perfil/fer-un-perfil-de-productora-cercable-per-categoria-de-producte)
 * Transfereix la propietat d'un perfil d'un usuari a un altre. [Llegeix-ne més](https://guia.katuma.org/~/edit/drafts/-LWS-1BZm9KXiQe0xOyL/funcionalitats-avancades/el-teu-perfil/transferir-la-propietat-del-perfil).
@@ -26,34 +26,33 @@ El capítol de [Funcionalitats bàsiques](https://guia.katuma.org/~/edit/drafts/
 
 ## Col·laborar amb altres organitzacions.
 
-* Comprèn com s'utilitzen els permisos entre organitzacions \(‘enterprise to enterprise’ o E2E\) per habilitar diferents formes de col·laboració entre organitzacions\* i la seva aplicació.
-* Obteniu informació sobre com el permís E2E afecta totes les parts en els cicles de comandes de diverses empreses.
+* Comprèn com s'utilitzen els permisos entre organitzacions \(‘enterprise to enterprise’ o E2E\) per habilitar diferents formes de col·laboració entre organitzacions\* i la seva aplicació. [Llegeix-ne més.](https://guia.katuma.org/~/edit/drafts/-LWX5KmsBudS8ci9eN-o/funcionalitats-avancades/col-laboracio-amb-altres-organitzacions/permisos-e2e-enterprise-to-entreprise)
+* Obteniu informació sobre com el permís E2E afecta totes les parts en els cicles de comandes de diverses empreses. [Llegeix-ne més.](https://guia.katuma.org/~/edit/drafts/-LWX5KmsBudS8ci9eN-o/funcionalitats-avancades/col-laboracio-amb-altres-organitzacions/permisos-en-cicles-de-comanda-entre-multiples-organitzacions)
 
-Nota: a Katuma s’utilitza el terme ‘organització’ per fer referència a qualsevol perfil creat dins la plataforma ja sigui empresa productora, grup de consum…  
-
+Nota: _a Katuma s’utilitza el terme ‘organització’ per fer referència a qualsevol perfil creat dins la plataforma ja sigui empresa productora, grup de consum o d'altres._
 
 ## Cicles de comanda
 
-* Obertura de més d'un cicle de comandes al mateix temps.
-* Crea un cicle de comanda només de visualització perquè els visitants puguin veure què hi ha a la teva botiga, fins i tot quan el teu cicle de comanda està tancat.
+* Obertura de més d'un cicle de comandes al mateix temps. [Llegeix-ne més.](https://guia.katuma.org/~/edit/drafts/-LWX5KmsBudS8ci9eN-o/funcionalitats-avancades/cicles-de-comanda/obrir-mes-dun-cicle-de-comanda)
+* Crea un cicle de comanda només de visualització perquè els visitants puguin veure què hi ha a la teva botiga, fins i tot quan el teu cicle de comanda està tancat.[ Llegeix-ne més.](https://guia.katuma.org/~/edit/drafts/-LWX5KmsBudS8ci9eN-o/funcionalitats-avancades/cicles-de-comanda/cicles-de-comanda-nomes-de-mostra)
 
 ## Subscripcions
 
-* Configureu la configuració empresarial per activar subscripcions.
-* Creeu i gestioneu ordres de subscripció per als clients.
-* Considereu com interactuaran els vostres clients amb la seva subscripció.
+* Configureu la configuració per activar subscripcions. [Llegeix-ne més.](https://guia.katuma.org/~/edit/drafts/-LWX5KmsBudS8ci9eN-o/funcionalitats-avancades/subscripcions/subscripcions-configuracio)
+* Creeu i gestioneu comandes de subscripció per a les consumidores. [Llegeix-ne més.](https://guia.katuma.org/~/edit/drafts/-LWX5KmsBudS8ci9eN-o/funcionalitats-avancades/subscripcions/subscripcions-crear-i-gestionar-comandes)
+* Considereu com interactuaran les vostres consumidores amb la seva subscripció.[ Llegeix-ne més.](https://guia.katuma.org/~/edit/drafts/-LWX5KmsBudS8ci9eN-o/funcionalitats-avancades/subscripcions/subscripcions-la-perspectiva-de-la-consumidora)
 
 ## Comandes
 
-* Crea una comanda manualment per al client des del back end.
+* Crea una comanda manualment per al client des del _back end_. [Llegeix-ne més.](https://guia.katuma.org/~/edit/drafts/-LWX5KmsBudS8ci9eN-o/funcionalitats-avancades/comandes/crear-comandes-manualment)
 
 ## Grups
 
-* Crea i gestiona una pàgina de grup, que actua com un subdirectori d’OFN per als grups regionals de productors, organismes de certificació, mercats, etc.
-* Incrusteu la vostra pàgina de grup al vostre lloc web extern.
+* Crea i gestiona una pàgina de grup, que actua com un subdirectori d’OFN per als grups regionals de productors, organismes de certificació, mercats, etc. [Llegeix-ne més.](https://guia.katuma.org/~/edit/drafts/-LWX5KmsBudS8ci9eN-o/funcionalitats-avancades/grups/pagina-de-grup)
+* Incrusteu la vostra pàgina de grup al vostre lloc web extern. [Llegeix-ne més.](https://guia.katuma.org/~/edit/drafts/-LWX5KmsBudS8ci9eN-o/funcionalitats-avancades/grups/incrustar-una-pagina-de-grup)
 
 ## Social
 
-* Posa el teu projecte a Facebook.
-* Consells per als productors sobre l’ús de Facebook.
+* Posa el teu projecte a Facebook. [Llegeix-ne més](https://guia.katuma.org/~/edit/drafts/-LWX5KmsBudS8ci9eN-o/funcionalitats-avancades/social/la-teva-granja-a-facebook).
+* Consells per als productors sobre l’ús de Facebook. [Llegeix-ne més.](https://guia.katuma.org/~/edit/drafts/-LWX5KmsBudS8ci9eN-o/funcionalitats-avancades/social/consells-per-a-lus-de-facebook)
 
