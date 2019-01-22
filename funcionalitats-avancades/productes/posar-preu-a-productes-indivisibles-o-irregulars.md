@@ -22,7 +22,7 @@ Aquest és un enfocament semblant a l'anterior, però en comptes de llistar el p
 
 Si teniu els articles únics disponibles podeu enumerar cada element individual amb el seu pes i preu exactes. Per exemple, l'exemple següent mostra les cuixes congelades de bestiar pre-pesades i envasades que figuren com a variants úniques, amb un valor de disponibilitat d’1. La imatge següent mostra com s'introdueixen les variants del producte i com es mostraran a la botiga.
 
-![](../../.gitbook/assets/imatge%20%2831%29.png)
+![](../../.gitbook/assets/imatge%20%2834%29.png)
 
 ## Subministrament irregular
 
