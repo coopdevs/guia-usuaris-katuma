@@ -10,7 +10,7 @@ Podeu carregar el preu mitjà del producte i, a continuació, reemborsar o carre
 
 Quan coneixeu el pes real dels vostres productes, podeu actualitzar les comandes a la [Gestió de comandes en bloc](https://guia.katuma.org/~/edit/drafts/-LWXJNyhN0qmDZ4aDwmm/funcionalitats-avancades/comandes). Cerqueu la cuixa de xai i veureu totes les comandes que contenen aquest producte. Feu que la columna "pes / volum" sigui visible. Els valors d'aquesta columna es poden editar per reflectir els pesos reals de les potes de xai assignades a cada client. L'exemple següent mostra que quan la comanda de la Claire s'ajusta a una cuixa de xai d’1,5 kg, el preu es recalcula automàticament. Feu clic a l'actualització per desar aquest canvi.
 
-![](../../.gitbook/assets/imatge%20%286%29.png)
+![](../../.gitbook/assets/imatge%20%287%29.png)
 
 Ara, quan vegeu la comanda de la Claire, es mostrarà el total correcte i tots els informes reflectiran aquest canvi. També podeu tornar a enviar la confirmació de la comanda al client.
 
@@ -22,7 +22,7 @@ Aquest és un enfocament semblant a l'anterior, però en comptes de llistar el p
 
 Si teniu els articles únics disponibles podeu enumerar cada element individual amb el seu pes i preu exactes. Per exemple, l'exemple següent mostra les cuixes congelades de bestiar pre-pesades i envasades que figuren com a variants úniques, amb un valor de disponibilitat d’1. La imatge següent mostra com s'introdueixen les variants del producte i com es mostraran a la botiga.
 
-![](../../.gitbook/assets/imatge%20%2837%29.png)
+![](../../.gitbook/assets/imatge%20%2838%29.png)
 
 ## Subministrament irregular
 

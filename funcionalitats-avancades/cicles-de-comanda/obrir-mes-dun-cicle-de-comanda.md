@@ -4,7 +4,7 @@
 
 Si teniu dos cicles de comanda oberts, quan la consumidora arribi a la vostra botiga, se li demanarà en quin dels dos cicles de comanda vol realitzar la compra. Un exemple es mostra en la imatge inferior, en la qual hi ha dos cicles de comanda amb dues dates de lliurament diferents. Recordeu que el camp 'Llest per' en la configuració del cicle de comanda és el que determina el nom que apareixerà desplegat aquí: 'Thursday delivery’ \('_Lliurament del dijous_'\) en aquest cas.
 
-![](../../.gitbook/assets/imatge%20%2810%29.png)
+![](../../.gitbook/assets/imatge%20%2811%29.png)
 
 Quan la consumidora selecciona un cicle de comanda, la botiga es carregarà amb els productes, comissions i dates d'obertura i tancament específics per aquell cicle de comanda.
 

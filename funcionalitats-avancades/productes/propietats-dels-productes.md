@@ -40,7 +40,7 @@ _\* Podeu aplicar diverses propietats a la vostra empresa._
 
 Per assignar una propietat a un sol producte, en comptes de a un ampli ventall de productes d'una organització, feu clic a **Productes** a la bandera blava horitzontal i, a continuació, editeu un producte existent \(no podeu aplicar una propietat del producte quan creeu el producte el primer cop\).
 
-![](../../.gitbook/assets/imatge%20%2846%29.png)
+![](../../.gitbook/assets/imatge%20%2847%29.png)
 
 Una vegada que esteu editant el producte, feu clic a la icona d'edició que hi ha a la dreta.
 
@@ -70,15 +70,15 @@ Podeu afegir propietats a un producte, a més d'aquells heretats de l’organitz
 
 A la botiga, les consumidores poden veure les propietats del producte fent clic a la finestra emergent d'informació del producte o bé fent clic al damunt de la imatge del producte.
 
-![](../../.gitbook/assets/imatge%20%284%29.png)
+![](../../.gitbook/assets/imatge%20%285%29.png)
 
 Les propietats que s'apliquen al producte es mostren com una icona, al costat de la categoria de producte.
 
-![](../../.gitbook/assets/imatge%20%2818%29.png)
+![](../../.gitbook/assets/imatge%20%2819%29.png)
 
 
 
 Les consumidores també poden cercar segons les propietats del producte dins d'una botiga. Aquesta eina està situada a la cantonada superior dreta de la botiga i permet al client cercar productes d'acord amb les seves propietats.
 
-![](../../.gitbook/assets/imatge%20%2819%29.png)
+![](../../.gitbook/assets/imatge%20%2820%29.png)
 
