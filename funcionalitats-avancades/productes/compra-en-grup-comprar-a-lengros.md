@@ -46,7 +46,7 @@ En la pàgina de **Gestió de comandes a granel**_,_ dins la pàgina de Comandes
 5. A continuació, puc observar el valor màxim de cada client i augmentar la **Quantitat** de la comanda fins que s'arribi al llindar de 5 kg. Nota: els canvis a la quantitat es modificaran automàticament a la columna de preus.
 6. Feu clic a Actualització per desar els canvis a les comandes dels clients.
 
-![](../../.gitbook/assets/imatge%20%2838%29.png)
+![](../../.gitbook/assets/imatge%20%2840%29.png)
 
 #### _Què em diuen les informacions de: unitats realitzades i la comanda màxim realitzada?_
 

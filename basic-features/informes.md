@@ -26,19 +26,19 @@ La imatge següent mostra la informació continguda en un informe de **Totals de
 
 L'informe de la **Llista de correu** mostra els noms i les adreces de correu electrònic dels clients que han realitzat comandes a la vostra botiga. Podeu filtrar l'informe segons el cicle de comandes, que us permetrà alertar als clients si hi ha algun producte esgotat o canvis en la data de lliurament, per exemple. Vegeu-ne un exemple a continuació. Igual que amb tots els informes, la llista es pot descarregar com a fitxer CSV.
 
-![](../.gitbook/assets/imatge%20%2830%29.png)
+![](../.gitbook/assets/imatge%20%2832%29.png)
 
 ## Adreces
 
 L'informe **Adreces** informa dels noms dels clients, les adreces, els correus electrònics, els números de telèfon i el grup o botiga a través del qual han comprat. De nou, aquest informe es pot filtrar mitjançant un cicle de comandes.
 
-![](../.gitbook/assets/imatge%20%2823%29.png)
+![](../.gitbook/assets/imatge%20%2824%29.png)
 
 ## Productes & Inventari
 
 Els informes **Tots els productes** i els **Inventari \(disponible\)** es poden utilitzar com una còpia en paper d’un full de comanda, per si algun client que prefereix demanar en paper. Enumera tots els vostres productes i els seus preus \(vegeu més avall\). L’informe de **Tots els productes** enumera tots els vostres productes, independentment de si tenen quantitats per sobre de zero. L'informe **Inventari \(disponibles\)** mostra només productes que tenen una disponibilitat amb valor positiu \(més de zero\).
 
-![](../.gitbook/assets/imatge%20%2833%29.png)
+![](../.gitbook/assets/imatge%20%2835%29.png)
 
 ## Informes d'embalatge
 
@@ -56,7 +56,7 @@ Aquest informe enumera cada proveïdor i els seus productes. Al costat de cada p
 
 Aquest informe és útil per separar el component fiscal de vendes, lliurament i comissions.
 
-![](../.gitbook/assets/imatge%20%2840%29.png)
+![](../.gitbook/assets/imatge%20%2842%29.png)
 
 ## Factures Xero
 

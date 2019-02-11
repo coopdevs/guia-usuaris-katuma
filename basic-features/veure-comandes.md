@@ -51,7 +51,7 @@ Nota: _No es pot definir una comanda com a "enviada" a menys que l'estat de paga
 
 A la part dreta de la llista podeu actualitzar l'estat de pagament i/o enviament d'una comanda. Feu clic a la icona de la marca per indicar que el pagament s'ha rebut.
 
-![](../.gitbook/assets/imatge%20%2834%29.png)
+![](../.gitbook/assets/imatge%20%2836%29.png)
 
 Feu clic a la icona de la carretera per indicar que la comanda s’ha enviat.
 
@@ -135,7 +135,7 @@ Les seves consumidores poden veure una llista de les seves comandes quan es conn
 
 Aquí els clients podran veure les últimes comandes i pagaments, així com un balanç de les compres a la seva botiga. Això s’ha de mantenir actualitzat perquè els clients puguin visualitzar un balanç adequat.
 
-![](../.gitbook/assets/imatge%20%2828%29.png)
+![](../.gitbook/assets/imatge%20%2829%29.png)
 
 ## Gestió de comandes en bloc
 
@@ -190,7 +190,7 @@ Podria també llavors veure els correus electrònics d'aquests clients i enviar-
 
 _Nota: No es genera automàticament una alerta als clients quan es fan ajustos en la gestió de comandes en bloc._
 
-![](../.gitbook/assets/imatge%20%2821%29.png)
+![](../.gitbook/assets/imatge%20%2822%29.png)
 
 \_\_
 
@@ -222,7 +222,7 @@ Consulta preus d’elements carn irregular, indivisibles per obtenir més inform
   
 
 
-![](../.gitbook/assets/imatge%20%2827%29.png)
+![](../.gitbook/assets/imatge%20%2828%29.png)
 
 ####  
 
