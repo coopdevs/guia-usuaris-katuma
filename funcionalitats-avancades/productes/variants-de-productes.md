@@ -4,15 +4,15 @@ Si estàs llistant dos o més productes que són molt similars però només vari
 
 Usant un exemple de panotxes, imaginem que voleu vendre panotxes de blat de moro individuals per a 80 cèntims d’€ cadascuna, o 5 panotxes de blat de moro per al preu de descompte de 3€. Cadascun d'aquests productes serà una variant de producte. A sota es mostra la fitxa de producte final en una botiga d'Open Food Network. A la secció següent es descriuen els passos que implica la creació d'aquesta fitxa.
 
-![](../../.gitbook/assets/imatge%20%2841%29.png)
+![](../../.gitbook/assets/imatge%20%2842%29.png)
 
 Quan creeu el producte nou per primer cop, ompliu els detalls només d'una de les vostres variants \(per exemple: una panotxa de blat de moro per 80 cèntims\). [Aquí](https://guia.katuma.org/~/edit/drafts/-LWXE1TeJSp9bi1sSelr/basic-features/productes) hi ha instruccions més detallades per afegir un producte.
 
-![](../../.gitbook/assets/imatge%20%2828%29.png)
+![](../../.gitbook/assets/imatge%20%2829%29.png)
 
 A la pàgina **Editar diversos productes**, veureu el producte creat prèviament 'panotxes de blat de moro'. En fer clic al símbol més a l'esquerra del producte, es crearà una nova variant a sota. Com que tindrem dues variants, haurem de fer clic a aquest botó dues vegades \(el producte original no compta una vegada que es crea una variant\). Ara veureu dues files addicionals que pengen a sota del producte original.
 
-![](../../.gitbook/assets/imatge%20%2838%29.png)
+![](../../.gitbook/assets/imatge%20%2839%29.png)
 
 La fila superior representa la matriu d'aquesta col·lecció de variants. El nom d'aquesta fila, ‘panotxes de blat de moro’ serà l'encapçalament d'aquesta col·lecció de variants. Podem deixar la fila superior tal com és.
 
@@ -40,11 +40,11 @@ Quan hagueu acabat, feu clic a **Desar els canvis**.
 
 El diagrama següent mostra la forma de variant completa per a les panotxes de blat de moro, i també com es presentarà a la botiga en línia.
 
-![](../../.gitbook/assets/imatge%20%2831%29.png)
+![](../../.gitbook/assets/imatge%20%2832%29.png)
 
 Sota teniu un altre exemple per a un producte amb diverses variants:
 
-![](../../.gitbook/assets/imatge%20%2824%29.png)
+![](../../.gitbook/assets/imatge%20%2825%29.png)
 
 {% hint style="info" %}
 Actualment no podeu establir un nivell d'existències per aplicar a diverses variants. Per exemple, a l'exemple de panotxa de blat de moro de dalt, no puc indicar que tinc 100 panotxes de blat de moro per vendre independentment de si es venen com panotxes individuals o en grups de 5. Per tant, els administradors de botigues necessiten estimar quina quantitat d’existències s'ha d'aplicar a cadascuna de les variants.
