@@ -14,11 +14,11 @@ Feu clic a **Productes** al menú blau horitzontal i, a continuació, feu clic a
 
 Com que no teniu cap botiga a Katuma, aquest producte no serà visible enlloc. Per tant, podeu anomenar-lo com vulgueu i fixar-ne el preu i les unitats que vulgueu. L'important és que seleccioneu la **Categoria de producte** correcta que voleu que pugui ser trobada a sota. A continuació es mostra un exemple de producte “fictici” de carn. El perfil d'aquest productor ara es mostrarà si un client busca productors de carn malgrat no tingui una botiga oberta a Katuma.
 
-![](../../.gitbook/assets/imatge%20%282%29.png)
+![](../../.gitbook/assets/imatge%20%283%29.png)
 
 El seu perfil resumit o fitxa també indicarà que ven productes carnis \(vegeu a sota\).
 
-![](../../.gitbook/assets/imatge%20%2824%29.png)
+![](../../.gitbook/assets/imatge%20%2827%29.png)
 
   
  
