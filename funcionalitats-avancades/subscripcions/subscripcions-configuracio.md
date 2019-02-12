@@ -75,11 +75,57 @@ Per tant un suggerim el següent procés: a\) contacteu amb les consumidores de 
 Si sou nous a Katuma us animem a familiaritzar-vos amb la configuració dels [cicles de comanda](https://guia.katuma.org/~/edit/drafts/-LYRCur5foffQibEYMWS/basic-features/order-cycles-for-hubs) abans de configurar les programacions de les subscripcions.
 {% endhint %}
 
+### Sobre les programacions
+
 Les subscripcions s'han configurat així que cada vegada que una botiga obre un cicle de comanda, les comandes es generaran automàticament per a les consumidores que tenen una subscripció amb aquesta botiga. Malgrat això, el sistema té la flexibilitat afegida de permetre decidir a les botigues en quins cicles de comanda aplica o no la subscripció. Això permet a les botigues tenir cicles de comanda en les quals activen les comandes de subscripció i alguns en els que no ho fan. 
 
 En quins cicles de comanda s'activen les subscripcions es controla a trtavés d'un element addicional en el procés de configuració d'un Cicle de Comanda, anomenat 'programacions'. Les programacions són grups als quals es pot assignar un cicle de comanda. Una vegada s'ha creat una programació,  les programacions de la consumidora s'apliquen a la programació, de manera que només es generarà una comanda per a nous cicles de comanda inclosos en aquesta programació.
 
 Clarifiquem-ho amb alguns exemples:
+
+**Exemple 1**
+
+La Cooperativa de Consum La Pastanaga té un cicle de comanda setmanal. Les consumidores poden decidir subscriure's a una comanda setmanal o bé quinzenal. 
+
+En aquest cas hi haurà dues programacions. Una que conté tots els cicles de comanda - els subscriptors setmanals tindran les seves subscripcions assignades a aquesta programació. La segona programació contindrà només un de cada dos cicles de comanda - els subscriptors setmanals tindran la seva subscripció assignada a aquesta programació. 
+
+#### Exemple 2 <a id="example-2"></a>
+
+La granja Delta té dos cicles de comanda setmanals, un per al lliurament dels dilluns i un per al lliurament dels dijous. 
+
+La majoria de les seves consumidores es subscriuen per un dels lliuraments a la setmana, però algunes de les seves subscriptores del sector de l'hostaleria es subscriuen als dos lliuraments, tant el de dilluns com el de dijous.
+
+En aquest cas hi haurà dues programacions, una per a les consumidores de dilluns i una per a les consumidores de dijous. Aquelles consumidores que volen una subscripció per als dos dies poden tenir una subscripció aplicada a les dues programacions. 
+
+### Crear una programació
+
+Una vegada heu habilitat a funcionalitat de les subscripcions, veureu l'opció de Programacions a la interfície del cicle de comandes. Per crear una programació feu clic al botó **+Nova programació**. 
+
+> Nota: Heu de tenir com a mínim un cicle de comanda que pugui ser afegit a la programació abans de poder-la crear.
+
+**Nom:** Doneu a la programació un nom lògic el qual descrigui aquest grup de cicles de comanda. Per exemple: 'setmanal', 'mensual', 'lliurament dels dijous', 'a l'engròs' o 'al detall'. Aquest nom només és visible per a vosaltres al _backend_, no a les consumidores.
+
+Podeu afegir cicles de comanda existents dins i fora de la nova programació fent clic als botons &lt; i &gt;.
+
+Quan hagueu acabat feu clic a **crear**.
+
+### Editar o eliminar una programació
+
+Per editar o eliminar una programació, feu clic al nom de la programació al costat del corresponent cicle de comanda, a la columna 'programacions'.
+
+> Nota: aquesta columna ha d'estar configurada com a visible en el menú desplegable.
+
+Podeu canviar el nom de la programació, afegir-hi o eliminar-hi cicles de comanda o esborrar la programació. 
+
+> Nota: No podeu esborrar una programació si té subscripcions associades.
+
+### Afegir o eliminar cicles de comanda d'una programació
+
+Poden afegir i eliminar cicles de comanda de les programacions tant editant la programació \(al damunt\) com editant el cicle de comanda i afegint/eliminant la programació a la casella 'programacions' \(sota\). 
+
+Els cicles de comanda poden formar part de més d'una programació. Sense anar més lluny, en l'exemple descrit més amunt de la Cooperativa de Consum La Pastanaga, cada segon cicle de comanda formarà part tant de la programació setmanal com de la quinzenal.
+
+
 
 
 
