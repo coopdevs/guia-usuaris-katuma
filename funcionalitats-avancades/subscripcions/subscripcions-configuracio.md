@@ -67,7 +67,7 @@ Podeu afegir consumidores a la Llista de consumidores abans o després que tingu
 
 A més, si voleu usar Stripe per fer els cobraments amb targeta de crèdit a les vostres subscriptores, haureu d'afegir a la llista de consumidores abans que us pugui donar permisos perquè els pugueu carregar els imports.
 
-Per tant un suggerim el següent procés: a\) contacteu amb les consumidores de la vostra botiga perquè us donin les seves dades b\) afegiu-les a la llista de consumidores c\) demaneu-los en persona o per correu electrònic que es registrin a Katuma \(i que us donin permisos per cobrar-los amb targeta, si la vostra botiga té habilitat el mètode de pagament per Stripe\) i després d\) creeu la subscripció. 
+Per tant un suggerim el següent procés: a\) contacteu amb les consumidores de la vostra botiga perquè us donin les seves dades b\) afegiu-les a la llista de consumidores c\) demaneu-los en persona o per correu electrònic que es registrin a Katuma \(i que us donin permisos per cobrar-los amb targeta, si la vostra botiga té habilitat el mètode de pagament per Stripe\) i després [d\) creeu la subscripció](https://guia.katuma.org/funcionalitats-avancades/subscripcions/subscripcions-crear-i-gestionar-comandes#6-crear-subscripcions). 
 
 ## 5\) Programacions
 
@@ -99,7 +99,7 @@ En aquest cas hi haurà dues programacions, una per a les consumidores de dillun
 
 ### Crear una programació
 
-Una vegada heu habilitat a funcionalitat de les subscripcions, veureu l'opció de Programacions a la interfície del cicle de comandes. Per crear una programació feu clic al botó **+Nova programació**. 
+Una vegada heu [habilitat a funcionalitat de les subscripcions](https://guia.katuma.org/~/edit/drafts/-LYabbq0BWTtOfx-eZX6/funcionalitats-avancades/subscripcions/subscripcions-configuracio#1-permetre-subscripcions), veureu l'opció de Programacions a la interfície del cicle de comandes. Per crear una programació feu clic al botó **+Nova programació**. 
 
 > Nota: Heu de tenir com a mínim un cicle de comanda que pugui ser afegit a la programació abans de poder-la crear.
 
