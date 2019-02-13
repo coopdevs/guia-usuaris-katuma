@@ -18,7 +18,7 @@ Com que no teniu cap botiga a Katuma, aquest producte no serà visible enlloc. P
 
 El seu perfil resumit o fitxa també indicarà que ven productes carnis \(vegeu a sota\).
 
-![](../../.gitbook/assets/imatge%20%2827%29.png)
+![](../../.gitbook/assets/imatge%20%2828%29.png)
 
   
  

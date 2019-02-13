@@ -103,7 +103,7 @@ Una vegada heu habilitat a funcionalitat de les subscripcions, veureu l'opció d
 
 > Nota: Heu de tenir com a mínim un cicle de comanda que pugui ser afegit a la programació abans de poder-la crear.
 
-![](../../.gitbook/assets/imatge%20%2841%29.png)
+![](../../.gitbook/assets/imatge%20%2845%29.png)
 
 **Nom:** Doneu a la programació un nom lògic el qual descrigui aquest grup de cicles de comanda. Per exemple: 'setmanal', 'mensual', 'lliurament dels dijous', 'a l'engròs' o 'al detall'. Aquest nom només és visible per a vosaltres al _backend_, no a les consumidores.
 
@@ -121,7 +121,7 @@ Per editar o eliminar una programació, feu clic al nom de la programació al co
 
 Podeu canviar el nom de la programació, afegir-hi o eliminar-hi cicles de comanda o esborrar la programació. 
 
-![](../../.gitbook/assets/imatge%20%2821%29.png)
+![](../../.gitbook/assets/imatge%20%2822%29.png)
 
 > Nota: No podeu esborrar una programació si té subscripcions associades.
 
