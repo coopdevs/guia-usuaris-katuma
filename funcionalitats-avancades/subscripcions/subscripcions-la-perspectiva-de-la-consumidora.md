@@ -89,9 +89,35 @@ Possibles motius per un càrrec fallit:
 * Fons insuficient.
 * Targeta caducada
 * La consumidora ha revocat el permís a la botiga per fer els cobraments al a targeta de crèdit. 
-* La consumidora ha esborrat l'status de 'predeterminada' a la seva targeta de crèdit. 
+* La consumidora ha esborrat l'estatus de 'predeterminada' a la seva targeta de crèdit. 
 
 A la botiga també se l'alertarà de qualsevol càrrec fallit.
+
+## Preguntes freqüents de les consumidores
+
+#### Com puc pausar la meva subscripció?
+
+Si necessiteu pausar la vostra subscripció necessitareu contactar amb la botiga i demanar-los que pausin la vostra subscripció.  Estigueu segures de fer-los saber quan voleu començar a parar la subscripció.
+
+#### Els preus de la meva subscripció romandran igual fins i tot si els preus de la botiga s'han modificat? <a id="will-the-price-of-my-subscription-remain-the-same-even-if-prices-change-in-the-shop"></a>
+
+No, si els preus dels productes canvien després que vosaltres hagueu configurat una subscripció, se us cobrarà d'acord amb els preus actualitzats.
+
+#### Com puc cancel·lar tota la meva subscripció? <a id="how-can-i-cancel-my-whole-subscription"></a>
+
+Si una consumidora vol esborrar la subscripció, necessitarà contactar amb el gestor de la botiga i fer-li saber. Només el gestor de la botiga pot esborrar una subscripció. 
+
+#### Com puc cancel·lar només una comanda de la meva subscripció? <a id="how-can-i-cancel-a-single-order-of-my-subscription"></a>
+
+Si una consumidora vol cancel·lar una comanda individual, hi ha dues maneres de fer-lo depenent de les configuracions de la botiga.
+
+Si la botiga **no permet** a les consumidores fer canvis a les comandes, les consumidores necessitaran contactar amb la botiga i fer-los saber quina comanda volen cancel·lar.
+
+Si la botiga permet a les consumidores fer canvis a les seves comandes, la consumidora pot esperar a rebre el primer correu electrònic de confirmació \(quan el cicle de comanda obre\) i des d'allà poden editar i/o cancel·lar la seva comanda. 
+
+
+
+
 
 
 
