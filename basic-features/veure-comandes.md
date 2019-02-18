@@ -51,7 +51,7 @@ Nota: _No es pot definir una comanda com a "enviada" a menys que l'estat de paga
 
 A la part dreta de la llista podeu actualitzar l'estat de pagament i/o enviament d'una comanda. Feu clic a la icona de la marca per indicar que el pagament s'ha rebut.
 
-![](../.gitbook/assets/imatge%20%2853%29.png)
+![](../.gitbook/assets/imatge%20%2854%29.png)
 
 Feu clic a la icona de la carretera per indicar que la comanda s’ha enviat.
 
@@ -135,7 +135,7 @@ Les seves consumidores poden veure una llista de les seves comandes quan es conn
 
 Aquí els clients podran veure les últimes comandes i pagaments, així com un balanç de les compres a la seva botiga. Això s’ha de mantenir actualitzat perquè els clients puguin visualitzar un balanç adequat.
 
-![](../.gitbook/assets/imatge%20%2842%29.png)
+![](../.gitbook/assets/imatge%20%2843%29.png)
 
 ## Gestió de comandes en bloc
 

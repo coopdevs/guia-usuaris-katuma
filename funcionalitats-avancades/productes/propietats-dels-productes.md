@@ -40,7 +40,7 @@ _\* Podeu aplicar diverses propietats a la vostra empresa._
 
 Per assignar una propietat a un sol producte, en comptes de a un ampli ventall de productes d'una organització, feu clic a **Productes** a la bandera blava horitzontal i, a continuació, editeu un producte existent \(no podeu aplicar una propietat del producte quan creeu el producte el primer cop\).
 
-![](../../.gitbook/assets/imatge%20%2872%29.png)
+![](../../.gitbook/assets/imatge%20%2873%29.png)
 
 Una vegada que esteu editant el producte, feu clic a la icona d'edició que hi ha a la dreta.
 

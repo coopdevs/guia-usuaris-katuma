@@ -8,7 +8,7 @@ Per configurar un cicle de comanda només de mostra, heu d'obrir un cicle de com
 
 La vostra botiga estarà en un estat 'només de mostra'. Sota teniu un exemple de com la botiga apareixerà a les consumidores en aquest estat. Està clarament marcada com a tancada però les consumidores poden veure el llistat de productes. Si intenten afegir productes a la cistella o validar la compra no podran fer-ho.
 
-![](../../.gitbook/assets/imatge%20%2844%29.png)
+![](../../.gitbook/assets/imatge%20%2845%29.png)
 
 > Nota: és important recordar que quan vulgueu tornar a tenir un cicle de comandes real, haureu de tornar a activar els mètodes de pagament perquè les consumidores puguin validar i confirmar la seva comanda.
 >

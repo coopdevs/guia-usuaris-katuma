@@ -103,7 +103,7 @@ Una vegada heu [habilitat a funcionalitat de les subscripcions](https://guia.kat
 
 > Nota: Heu de tenir com a mínim un cicle de comanda que pugui ser afegit a la programació abans de poder-la crear.
 
-![](../../.gitbook/assets/imatge%20%2854%29.png)
+![](../../.gitbook/assets/imatge%20%2855%29.png)
 
 **Nom:** Doneu a la programació un nom lògic el qual descrigui aquest grup de cicles de comanda. Per exemple: 'setmanal', 'mensual', 'lliurament dels dijous', 'a l'engròs' o 'al detall'. Aquest nom només és visible per a vosaltres al _backend_, no a les consumidores.
 
