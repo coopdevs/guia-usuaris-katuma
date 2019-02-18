@@ -22,7 +22,7 @@ Inicieu sessió a Stripe aquí i feu clic a la pestanya de pagaments
 Els reemborsaments tarden 5-10 dies en aparèixer a la consumidora.
 {% endhint %}
 
-![](../../.gitbook/assets/imatge%20%2871%29.png)
+![](../../.gitbook/assets/imatge%20%2872%29.png)
 
 Al costat de la comanda corresponent, feu clic a **càrrec de devolució \(**_**refund charge**_**\)**. 
 

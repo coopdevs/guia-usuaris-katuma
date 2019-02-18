@@ -51,7 +51,7 @@ Nota: _No es pot definir una comanda com a "enviada" a menys que l'estat de paga
 
 A la part dreta de la llista podeu actualitzar l'estat de pagament i/o enviament d'una comanda. Feu clic a la icona de la marca per indicar que el pagament s'ha rebut.
 
-![](../.gitbook/assets/imatge%20%2854%29.png)
+![](../.gitbook/assets/imatge%20%2855%29.png)
 
 Feu clic a la icona de la carretera per indicar que la comanda s’ha enviat.
 

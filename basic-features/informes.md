@@ -56,7 +56,7 @@ Aquest informe enumera cada proveïdor i els seus productes. Al costat de cada p
 
 Aquest informe és útil per separar el component fiscal de vendes, lliurament i comissions.
 
-![](../.gitbook/assets/imatge%20%2866%29.png)
+![](../.gitbook/assets/imatge%20%2867%29.png)
 
 ## Factures Xero
 

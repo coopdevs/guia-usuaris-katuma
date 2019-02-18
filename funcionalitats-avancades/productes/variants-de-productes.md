@@ -4,7 +4,7 @@ Si estàs llistant dos o més productes que són molt similars però només vari
 
 Usant un exemple de panotxes, imaginem que voleu vendre panotxes de blat de moro individuals per a 80 cèntims d’€ cadascuna, o 5 panotxes de blat de moro per al preu de descompte de 3€. Cadascun d'aquests productes serà una variant de producte. A sota es mostra la fitxa de producte final en una botiga d'Open Food Network. A la secció següent es descriuen els passos que implica la creació d'aquesta fitxa.
 
-![](../../.gitbook/assets/imatge%20%2869%29.png)
+![](../../.gitbook/assets/imatge%20%2870%29.png)
 
 Quan creeu el producte nou per primer cop, ompliu els detalls només d'una de les vostres variants \(per exemple: una panotxa de blat de moro per 80 cèntims\). [Aquí](https://guia.katuma.org/~/edit/drafts/-LWXE1TeJSp9bi1sSelr/basic-features/productes) hi ha instruccions més detallades per afegir un producte.
 
@@ -12,7 +12,7 @@ Quan creeu el producte nou per primer cop, ompliu els detalls només d'una de le
 
 A la pàgina **Editar diversos productes**, veureu el producte creat prèviament 'panotxes de blat de moro'. En fer clic al símbol més a l'esquerra del producte, es crearà una nova variant a sota. Com que tindrem dues variants, haurem de fer clic a aquest botó dues vegades \(el producte original no compta una vegada que es crea una variant\). Ara veureu dues files addicionals que pengen a sota del producte original.
 
-![](../../.gitbook/assets/imatge%20%2865%29.png)
+![](../../.gitbook/assets/imatge%20%2866%29.png)
 
 La fila superior representa la matriu d'aquesta col·lecció de variants. El nom d'aquesta fila, ‘panotxes de blat de moro’ serà l'encapçalament d'aquesta col·lecció de variants. Podem deixar la fila superior tal com és.
 

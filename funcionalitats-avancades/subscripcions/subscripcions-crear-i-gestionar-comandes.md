@@ -47,13 +47,13 @@ Com interactua exactament la data de finalització de la subscripció amb les da
 
 **Adreça:** Ompliu els detalls d'enviament i facturació de la consumidora. Si hi ha desats detalls d'enviament i facturació a la vostra pàgina de consumidores, aquesta informació es carregarà automàticament. 
 
-![](../../.gitbook/assets/imatge%20%2859%29.png)
+![](../../.gitbook/assets/imatge%20%2860%29.png)
 
 **Afegir productes**
 
 Podeu afegir qualsevol producte que hi hagi en els Cicles de Comanda futurs inclosos en la programació. No podeu afegir productes a una subscripció si no estaran disponibles en cap cicle de comanda dins la programació al qual la consumidora s'està subscrivint.  
 
-![](../../.gitbook/assets/imatge%20%2862%29.png)
+![](../../.gitbook/assets/imatge%20%2863%29.png)
 
 #### Resum
 
@@ -113,7 +113,7 @@ Si pauseu les subscripcions mentre un cicle de comanda encara està obert, se us
 Si elimineu la pausa d'una subscripció \(és a dir, la torneu a activar\) mentre un cicle de comanda és obert, es generarà una comanda per a la consumidora si està subscrita a aquella programació.
 {% endhint %}
 
-![](../../.gitbook/assets/imatge%20%2864%29.png)
+![](../../.gitbook/assets/imatge%20%2865%29.png)
 
 ## 8\) Com es processen les subscripcions
 
