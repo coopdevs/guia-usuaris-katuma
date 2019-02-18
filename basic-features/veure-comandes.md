@@ -51,19 +51,19 @@ Nota: _No es pot definir una comanda com a "enviada" a menys que l'estat de paga
 
 A la part dreta de la llista podeu actualitzar l'estat de pagament i/o enviament d'una comanda. Feu clic a la icona de la marca per indicar que el pagament s'ha rebut.
 
-![](../.gitbook/assets/imatge%20%2849%29.png)
+![](../.gitbook/assets/imatge%20%2853%29.png)
 
 Feu clic a la icona de la carretera per indicar que la comanda s’ha enviat.
 
-![](../.gitbook/assets/imatge%20%2818%29.png)
+![](../.gitbook/assets/imatge%20%2820%29.png)
 
 Feu clic a la icona d'edició \(per editar una comanda i veure’n informació més detallada\).
 
-![](../.gitbook/assets/imatge%20%2821%29.png)
+![](../.gitbook/assets/imatge%20%2823%29.png)
 
 
 
-![](../.gitbook/assets/imatge%20%2810%29.png)
+![](../.gitbook/assets/imatge%20%2812%29.png)
 
 ### 
 
@@ -135,7 +135,7 @@ Les seves consumidores poden veure una llista de les seves comandes quan es conn
 
 Aquí els clients podran veure les últimes comandes i pagaments, així com un balanç de les compres a la seva botiga. Això s’ha de mantenir actualitzat perquè els clients puguin visualitzar un balanç adequat.
 
-![](../.gitbook/assets/imatge%20%2838%29.png)
+![](../.gitbook/assets/imatge%20%2842%29.png)
 
 ## Gestió de comandes en bloc
 
@@ -182,7 +182,7 @@ Això es pot fer en la **Gestió de comandes en bloc**, fent el següent:
 * Feu clic sobre el producte 'Tomàquets' a la columna: ‘Producte: Unitat’.
 * Un quadre apareixerà a la part superior de la pàgina i us mostrarà la quantitat total demanada \(a través del rang de dates/cicle de data que heu seleccionat\).
 
-![](../.gitbook/assets/imatge%20%2813%29.png)
+![](../.gitbook/assets/imatge%20%2815%29.png)
 
 Llavors podeu ajustar la quantitat de cada comanda única a la columna de quantitat. La quantitat total de producte demanat al quadre de la part superior actualitzarà automàticament les comandes, en aquest cas cap avall ja que ha reduït la quantitat de tomàquets disponibles.
 
@@ -190,7 +190,7 @@ Podria també llavors veure els correus electrònics d'aquests clients i enviar-
 
 _Nota: No es genera automàticament una alerta als clients quan es fan ajustos en la gestió de comandes en bloc._
 
-![](../.gitbook/assets/imatge%20%2830%29.png)
+![](../.gitbook/assets/imatge%20%2834%29.png)
 
 \_\_
 
@@ -201,7 +201,7 @@ A la captura de pantalla del damunt veureu una casella que diu "recurs compartit
   
 
 
-![](../.gitbook/assets/imatge%20%2822%29.png)
+![](../.gitbook/assets/imatge%20%2825%29.png)
 
 
 
@@ -222,7 +222,7 @@ Consulta preus d’elements carn irregular, indivisibles per obtenir més inform
   
 
 
-![](../.gitbook/assets/imatge%20%2836%29.png)
+![](../.gitbook/assets/imatge%20%2840%29.png)
 
 ####  
 

@@ -55,7 +55,7 @@
     * [Subscripcions - preguntes freqüents](funcionalitats-avancades/subscripcions/subscripcions-preguntes-frequeents.md)
   * [Comandes](funcionalitats-avancades/comandes/README.md)
     * [Crear comandes manualment](funcionalitats-avancades/comandes/crear-comandes-manualment.md)
-    * [Reemborsament de pagaments](funcionalitats-avancades/comandes/reemborsament-de-pagaments.md)
+    * [Reemborsament de pagaments per Stripe](funcionalitats-avancades/comandes/reemborsament-de-pagaments.md)
   * [Grups](funcionalitats-avancades/grups/README.md)
     * [Pàgina de grup](funcionalitats-avancades/grups/pagina-de-grup.md)
     * [Incrustar una pàgina de grup](funcionalitats-avancades/grups/incrustar-una-pagina-de-grup.md)
