@@ -39,7 +39,7 @@ Tingueu en compte que quan configureu Stripe per usar-lo a les subscripcions és
 
 Per exemple, en lloc d'anomenar un mètode de pagament 'Targeta de crèdit' potser l'hauríeu d'anomenar 'facturació automàtica a targetes de crèdit per a subscripcions'. Una possible descripció podria ser 'A la targeta de crèdit desada per defecte al teu compte de Katuma se li carregarà l'import de la teva subscripció quan la comanda es confirmi automàticament els divendres a la nit'. Aquest nom i aquesta descripció es mostraran al correu electrònic de confirmació a les consumidores subscrites \(vegeu l'exemple de sota\), i és bo tenir en compte aquests detalls perquè la consumidora sàpiga què ha d'esperar que passi.
 
-![](../../.gitbook/assets/imatge%20%288%29.png)
+![](../../.gitbook/assets/imatge%20%2810%29.png)
 
 ## 3\) Recopilar informació de les vostres consumidores <a id="3-gather-information-from-your-customers"></a>
 
@@ -103,7 +103,7 @@ Una vegada heu [habilitat a funcionalitat de les subscripcions](https://guia.kat
 
 > Nota: Heu de tenir com a mínim un cicle de comanda que pugui ser afegit a la programació abans de poder-la crear.
 
-![](../../.gitbook/assets/imatge%20%2856%29.png)
+![](../../.gitbook/assets/imatge%20%2862%29.png)
 
 **Nom:** Doneu a la programació un nom lògic el qual descrigui aquest grup de cicles de comanda. Per exemple: 'setmanal', 'mensual', 'lliurament dels dijous', 'a l'engròs' o 'al detall'. Aquest nom només és visible per a vosaltres al _backend_, no a les consumidores.
 
@@ -121,7 +121,7 @@ Per editar o eliminar una programació, feu clic al nom de la programació al co
 
 Podeu canviar el nom de la programació, afegir-hi o eliminar-hi cicles de comanda o esborrar la programació. 
 
-![](../../.gitbook/assets/imatge%20%2829%29.png)
+![](../../.gitbook/assets/imatge%20%2834%29.png)
 
 > Nota: No podeu esborrar una programació si té subscripcions associades.
 
@@ -129,7 +129,7 @@ Podeu canviar el nom de la programació, afegir-hi o eliminar-hi cicles de coman
 
 Poden afegir i eliminar cicles de comanda de les programacions tant editant la programació \(al damunt\) com editant el cicle de comanda i afegint/eliminant la programació a la casella 'programacions' \(sota\). 
 
-![](../../.gitbook/assets/imatge%20%287%29.png)
+![](../../.gitbook/assets/imatge%20%288%29.png)
 
 Els cicles de comanda poden formar part de més d'una programació. Sense anar més lluny, en l'exemple descrit més amunt de la Cooperativa de Consum La Pastanaga, cada segon cicle de comanda formarà part tant de la programació setmanal com de la quinzenal.
 

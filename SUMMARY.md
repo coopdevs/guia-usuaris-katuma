@@ -60,7 +60,7 @@
     * [Pàgina de grup](funcionalitats-avancades/grups/pagina-de-grup.md)
     * [Incrustar una pàgina de grup](funcionalitats-avancades/grups/incrustar-una-pagina-de-grup.md)
   * [Social](funcionalitats-avancades/social/README.md)
-    * [El teu projecte a Facebook](funcionalitats-avancades/social/la-teva-granja-a-facebook.md)
+    * [El vostre projecte d'alimentació a Facebook](funcionalitats-avancades/social/la-teva-granja-a-facebook.md)
     * [Consells per a l'ús de Facebook](funcionalitats-avancades/social/consells-per-a-lus-de-facebook.md)
 * [FAQS - Preguntes freqüents](faqs-preguntes-frequeents.md)
 * [Feedback](feedback.md)

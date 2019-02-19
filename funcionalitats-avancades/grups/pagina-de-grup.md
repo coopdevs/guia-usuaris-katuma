@@ -10,7 +10,7 @@
 
 Una vegada heu estat designat l'administrador d'un grup, podreu veure i editar el grup fent clic a **Grups** al menú horitzontal blau. Després fent clic a la icona d'**editar** al costat del vostre grup. 
 
-![](../../.gitbook/assets/imatge%20%2841%29.png)
+![](../../.gitbook/assets/imatge%20%2846%29.png)
 
 ### **Detalls principals**
 
