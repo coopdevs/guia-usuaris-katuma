@@ -2,7 +2,7 @@
 
 #### S’envia un correu per notificar al productor quan s’ha tancat el cicle de comanda?
 
-De manera automàtica no. Per notificar al productor podeu entrar a la pàgina d’edició del cicle de comanda i allà fent clio al botó `NOTIFICAR A LAS PRODUCTORAS`
+De manera automàtica no. Per notificar al productor podeu entrar a la pàgina d’edició del cicle de comanda i allà fent clic al botó `NOTIFICAR A LAS PRODUCTORAS`
 
 ![](.gitbook/assets/notificaralasproductoras.png)
 
@@ -50,7 +50,7 @@ Revisa que estiguis filtrant les dades que necessites correctament: segons l'inf
 
 #### Tinc la necessitat d'enviar una còpia o imprimir un informe de Katuma en PDF. Ho puc fer?
 
-Pots imprimir un informe directament de Katuma amb un accés directe des del teclat, fent clic a **Ctrl+P** \(Windows, Gnome, KDE\) o **Cmd+P** \(Mac OS\) i seleccionant imprimir l'arxiu com a PDF.
+Pots imprimir un informe directament de Katuma amb un accés directe des del teclat, fent clic a **Ctrl+P** \(Windows, Linux\) o **Cmd+P** \(Mac OS\) i seleccionant imprimir l'arxiu com a PDF.
 
 
 
