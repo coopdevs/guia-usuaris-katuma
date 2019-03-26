@@ -41,7 +41,7 @@
     * [Etiquetes i regles de les etiquetes](funcionalitats-avancades/configuracio-de-la-botiga/etiquetes-i-regles-de-les-etiquetes.md)
     * [Incrustació de la botiga](funcionalitats-avancades/configuracio-de-la-botiga/incrustacio-de-la-botiga.md)
     * [Tiquets impresos en paper tèrmic](funcionalitats-avancades/configuracio-de-la-botiga/tiquets-impresos-en-paper-termic.md)
-    * [Pagar els proveïdors](funcionalitats-avancades/configuracio-de-la-botiga/pagar-els-proveidors.md)
+    * [Saber què es deu a cada proveïdora](funcionalitats-avancades/configuracio-de-la-botiga/pagar-els-proveidors.md)
   * [Col·laboració amb altres organitzacions](funcionalitats-avancades/col-laboracio-amb-altres-organitzacions/README.md)
     * [Permisos E2E \(Enterprise to entreprise\)](funcionalitats-avancades/col-laboracio-amb-altres-organitzacions/permisos-e2e-enterprise-to-entreprise.md)
     * [Permisos en cicles de comanda entre múltiples organitzacions](funcionalitats-avancades/col-laboracio-amb-altres-organitzacions/permisos-en-cicles-de-comanda-entre-multiples-organitzacions.md)
