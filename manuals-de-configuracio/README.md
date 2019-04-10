@@ -4,7 +4,7 @@ Katuma \(dins la xarxa Open Food Network\) funciona de dues maneres: com a direc
 
 OFN és flexible i pot ser usat per diferents persones de maneres diferents.
 
-Hem creat manuals de configuració únics que proporcionen una orientació específica de configuració en funció de qui sou i com voleu utilitzar Katuma. Feu un cop d'ull als nostres manuals de configuració per trobar el que s'adequi més a les vostres necessitats.
+Hem creat manuals de configuració únics que proporcionen una orientació específica de configuració en funció de qui sou i com voleu utilitzar Katuma. Feu un cop d'ull als nostres manuals de configuració per trobar el que s'adeqüi més a les vostres necessitats.
 
 ## Trobeu el manual de configuració que us va millor
 

@@ -22,7 +22,7 @@ Algunes exemples de grups poden incloure grups de compra a l'engròs, cooperativ
 
 ## Passos per configurar una botiga de grup <a id="steps-for-setting-up-a-hub-shop"></a>
 
-1\) [Registreu el vostre perfil ](https://guia.katuma.org/~/edit/drafts/-LXOMsus6WN4wNrKUNha/basic-features/register-and-create-your-profile)a Katuma. Aquesta eina de configuració us demanarà per informació bàsica sobre la vostra organització per crear el perfil. Se us demanarà que confirmeu el correu electrònic.
+1\) [Registreu el vostre perfil ](https://guia.katuma.org/~/edit/drafts/-LXOMsus6WN4wNrKUNha/basic-features/register-and-create-your-profile)a [Katuma](https://app.katuma.org/register/auth#/signup?after_login=%2Fregister). Aquesta eina de configuració us demanarà per informació bàsica sobre la vostra organització per crear el perfil. Se us demanarà que confirmeu el correu electrònic.
 
 2\) Seleccioneu el [tipus de perfil](https://guia.katuma.org/~/edit/drafts/-LXOMsus6WN4wNrKUNha/basic-features/tipus-de-perfils-disponibles) 'grup amb botiga'.
 

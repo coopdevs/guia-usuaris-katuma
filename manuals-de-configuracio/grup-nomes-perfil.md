@@ -14,7 +14,7 @@
 
 ## Passos per configurar un perfil de grup
 
-1\) [Registreu el vostre perfil](https://guia.katuma.org/~/edit/drafts/-LXOEI7LbncM3lSwaKIo/basic-features/register-and-create-your-profile) a Katuma. Aquesta eina us demanarà informació sobre la vostra organització per crear el vostre perfil. Se us demanarà que confirmeu el correu electrònic.
+1\) [Registreu el vostre perfil](https://guia.katuma.org/~/edit/drafts/-LXOEI7LbncM3lSwaKIo/basic-features/register-and-create-your-profile) a [Katuma](https://app.katuma.org/register/auth#/signup?after_login=%2Fregister). Aquesta eina us demanarà informació sobre la vostra organització per crear el vostre perfil. Se us demanarà que confirmeu el correu electrònic.
 
 2\) Seleccioneu el [tipus de perfil](https://guia.katuma.org/~/edit/drafts/-LXOEI7LbncM3lSwaKIo/basic-features/tipus-de-perfils-disponibles) 'perfil de grup'.
 

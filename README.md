@@ -1,6 +1,6 @@
 # Guia d'usuari
 
-Aquesta guia proporciona informació per organitzacions que desitgen utilitzar Katuma.
+Aquesta guia proporciona informació per organitzacions que desitgen utilitzar [Katuma](http://katuma.org/).
 
 ## Cerca
 

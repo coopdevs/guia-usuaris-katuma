@@ -18,7 +18,7 @@
 
 ## Passos per configurar un perfil de productora <a id="steps-for-setting-up-a-producer-profile"></a>
 
-1\) [Registreu el vostre perfil](https://guia.katuma.org/~/drafts/-LXIdBZaJ1sAYeM_LiBR/primary/basic-features/register-and-create-your-profile) a Katuma. Aquesta eina de configuració us demanarà informació bàsica sobre la vostra organització per crear el perfil. Se us demanarà que confirmeu el correu electrònic.
+1\) [Registreu el vostre perfil](https://guia.katuma.org/~/drafts/-LXIdBZaJ1sAYeM_LiBR/primary/basic-features/register-and-create-your-profile) a [Katuma](https://app.katuma.org/register/auth#/signup?after_login=%2Fregister). Aquesta eina de configuració us demanarà informació bàsica sobre la vostra organització per crear el perfil. Se us demanarà que confirmeu el correu electrònic.
 
 2\) Seleccioneu el [tipus de perfil](https://guia.katuma.org/~/drafts/-LXIdBZaJ1sAYeM_LiBR/primary/basic-features/tipus-de-perfils-disponibles) 'perfil productora'.
 
