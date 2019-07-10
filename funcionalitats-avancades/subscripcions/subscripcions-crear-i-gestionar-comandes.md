@@ -8,12 +8,12 @@ En aquesta primera versió de la funcionalitat de les subscripcions, les botigue
 
 **Llista de tasques per fer abans de crear subscripcions per a les vostres consumidores:**
 
-* Habilitar subscripcions a la [Configuració de l'organització](https://guia.katuma.org/~/edit/drafts/-LYWLCSt68zOdroZKZaR/basic-features/configuracio-de-lorganitzacio).
-* Configurar [mètodes de pagament i enviament](https://guia.katuma.org/~/edit/drafts/-LYWLCSt68zOdroZKZaR/basic-features/metodes-denviament).
-* Haver contactar amb les consumidores per tenir [les dades necessàries](https://guia.katuma.org/~/edit/drafts/-LYWLCSt68zOdroZKZaR/funcionalitats-avancades/subscripcions/subscripcions-configuracio#3-gather-information-from-your-customers).
-* Tenir afegits les consumidores que volen subscripció a la vostra [Llista de Consumidores](https://guia.katuma.org/~/edit/drafts/-LYWLCSt68zOdroZKZaR/funcionalitats-avancades/configuracio-de-la-botiga/consumidores).
-* Haver contactar amb les consumidores per demanar-los que [registrin un compte a Katuma](https://guia.katuma.org/~/edit/drafts/-LYWLCSt68zOdroZKZaR/basic-features/register-and-create-your-profile) i en cas que vulguin pagar amb targeta de crèdit \(i vosaltres tingueu disponible el mètode de pagament per Stripe\) demanar-los que desin les dades de la seva targeta de crèdit i us autoritzin a carregar-los l'import de les subscripcions.
-* Crear com a mínim una[ programació](https://guia.katuma.org/~/edit/drafts/-LYWLCSt68zOdroZKZaR/funcionalitats-avancades/subscripcions/subscripcions-configuracio#5-programacions)
+* Habilitar subscripcions a la [Configuració de l'organització](https://guia.katuma.org/basic-features/configuracio-de-lorganitzacio).
+* Configurar [mètodes de pagament i enviament](https://guia.katuma.org/basic-features/metodes-denviament).
+* Haver contactar amb les consumidores per tenir [les dades necessàries](https://guia.katuma.org/funcionalitats-avancades/subscripcions/subscripcions-configuracio#3-gather-information-from-your-customers).
+* Tenir afegits les consumidores que volen subscripció a la vostra [Llista de Consumidores](https://guia.katuma.org/funcionalitats-avancades/configuracio-de-la-botiga/consumidores).
+* Haver contactar amb les consumidores per demanar-los que [registrin un compte a Katuma](https://guia.katuma.org/basic-features/register-and-create-your-profile) i en cas que vulguin pagar amb targeta de crèdit \(i vosaltres tingueu disponible el mètode de pagament per Stripe\) demanar-los que desin les dades de la seva targeta de crèdit i us autoritzin a carregar-los l'import de les subscripcions.
+* Crear com a mínim una[ programació](https://guia.katuma.org/funcionalitats-avancades/subscripcions/subscripcions-configuracio#5-programacions)
 
 ## 6\) Crear subscripcions
 
@@ -27,12 +27,12 @@ Feu clic a **+Nova Subscripció** per configurar una comanda recurrent per a les
 
 Seleccioneu una consumidora de la llista desplegable.
 
-\* Només podeu crear una subscripció per a una consumidora que sigui a la vostra[ Llista de Consumidores.](https://guia.katuma.org/~/edit/drafts/-LYWLCSt68zOdroZKZaR/funcionalitats-avancades/configuracio-de-la-botiga/consumidores)
+\* Només podeu crear una subscripció per a una consumidora que sigui a la vostra[ Llista de Consumidores.](https://guia.katuma.org/funcionalitats-avancades/configuracio-de-la-botiga/consumidores)
 
 **Programació:** Seleccioneu la programació, o grup de cicles de comanda, al qual la vostra consumidora vol subscriure's.
 
 {% hint style="info" %}
-Heu de crear una programació de cicles de comanda abans de poder crear una subscripció. Podeu trobar les instruccions [aquí](https://guia.katuma.org/~/edit/drafts/-LYWLCSt68zOdroZKZaR/funcionalitats-avancades/subscripcions/subscripcions-configuracio).
+Heu de crear una programació de cicles de comanda abans de poder crear una subscripció. Podeu trobar les instruccions [aquí](https://guia.katuma.org/funcionalitats-avancades/subscripcions/subscripcions-configuracio).
 {% endhint %}
 
 **Mètode de pagament:** Seleccioneu el mètode de pagament que la consumidora prefereixi. Aquest haurà de ser o bé la passarel·la de pagament Stripe o bé un mètode de pagament manual com el pagament en efectiu. No es pot utilitzar Paypal per a les subscripcions. 
@@ -58,7 +58,7 @@ Podeu afegir qualsevol producte que hi hagi en els Cicles de Comanda futurs incl
 #### Resum
 
 {% hint style="info" %}
-Vigileu! Si teniu un cicle de comanda que està obert i assignat a una programació, el moment en què creeu una subscripció per a una consumidora en aquesta programació, es generarà una comanda, i s'enviarà un correu electrònic de confirmació. Si només esteu configurant les subscripcions i no voleu que s'iniciï cap comanda, assegureu-vos que no teniu un cicle de comandes obert. Vegeu [8\) Com es processen les subscripcions](https://guia.katuma.org/~/edit/drafts/-LYWLCSt68zOdroZKZaR/funcionalitats-avancades/subscripcions/subscripcions-crear-i-gestionar-comandes#8-com-es-processen-les-subscripcions) per a més detalls.
+Vigileu! Si teniu un cicle de comanda que està obert i assignat a una programació, el moment en què creeu una subscripció per a una consumidora en aquesta programació, es generarà una comanda, i s'enviarà un correu electrònic de confirmació. Si només esteu configurant les subscripcions i no voleu que s'iniciï cap comanda, assegureu-vos que no teniu un cicle de comandes obert. Vegeu [8\) Com es processen les subscripcions](https://guia.katuma.org/funcionalitats-avancades/subscripcions/subscripcions-crear-i-gestionar-comandes#8-com-es-processen-les-subscripcions) per a més detalls.
 {% endhint %}
 
 **Què passa si el preu d'un producte canvia després que s'hagi fet una subscripció?** 
@@ -130,7 +130,7 @@ Una vegada, doncs, que les subscripcions estan configurades, com es processen ca
 * El nivell d'existències es descomptarà en aquest moment.
 * Cada consumidora amb una comanda de subscripció rebrà un correu electrònic explicant que la seva comanda s'ha preparat.
 * S'enviarà un correu electrònic a l'adreça de correu electrònic que tingueu configurada per la botiga resumint quantes subscripcions hi ha, i quantes incidències \(per exemple: estoc insuficient\).
-* Durant el temps en què el cicle de comanda està obert les consumidores poden editar la seva comanda \(depenent de les vostres [preferències de la botiga](https://guia.katuma.org/~/edit/drafts/-LYWLCSt68zOdroZKZaR/basic-features/configuracio-de-lorganitzacio)\). 
+* Durant el temps en què el cicle de comanda està obert les consumidores poden editar la seva comanda \(depenent de les vostres [preferències de la botiga](https://guia.katuma.org/basic-features/configuracio-de-lorganitzacio)\). 
 
 {% hint style="info" %}
 Tingueu en compte que si creeu una subscripció mentre hi ha un cicle de comanda obert en una programació es generarà automàticament una comanda per a la/les subscriptora/es.

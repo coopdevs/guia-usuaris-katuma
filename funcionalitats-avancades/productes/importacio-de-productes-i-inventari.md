@@ -8,7 +8,7 @@ L'eina d'importació de productes i inventari us permet carregar un arxiu CSV \(
 
 L'eina d'importació de productes i inventari es pot trobar fent clic a **Productes** al menú horitzontal blau, i després a **Importació de productes** al menú verd.
 
-La importació de productes es pot utilitzar en relació a [productes](https://guia.katuma.org/~/edit/drafts/-LWk6MhsHONAGcEyJ9jK/basic-features/productes) o[ inventari](https://guia.katuma.org/~/edit/drafts/-LWk6MhsHONAGcEyJ9jK/funcionalitats-avancades/productes/eina-dinventari). Aquí hi ha quatres maneres com podeu utilitzar l'eina:
+La importació de productes es pot utilitzar en relació a [productes](https://guia.katuma.org/basic-features/productes) o[ inventari](https://guia.katuma.org/funcionalitats-avancades/productes/eina-dinventari). Aquí hi ha quatres maneres com podeu utilitzar l'eina:
 
 1. Importar nous productes
 2. Actualitzar detalls de productes existents
@@ -19,7 +19,7 @@ En totes els casos el procés implica descarregar-se una plantilla en format CSV
 
 #### Camps de producte que no estan inclosos en l'eina d'importació
 
-A la primera versió d'aquesta eina hi ha uns quants camps que no es capturen. Desafortunadament mentrestant aquests camps s'hauran de configurar o actualitzar manualment. Vegeu [productes](https://guia.katuma.org/~/edit/drafts/-LWk6MhsHONAGcEyJ9jK/basic-features/productes) pels detalls.
+A la primera versió d'aquesta eina hi ha uns quants camps que no es capturen. Desafortunadament mentrestant aquests camps s'hauran de configurar o actualitzar manualment. Vegeu [productes](https://guia.katuma.org/basic-features/productes) pels detalls.
 
 * Imatge
 * Propietats \(Tots els productes actualitzats heretaran les propietats del perfil de la productora\). 
@@ -69,7 +69,7 @@ Aneu amb compte perquè és sensible a les minúscules i les majúscules. Per ex
 
 #### Com importar variants <a id="how-to-import-variants"></a>
 
-Les [variants](https://guia.katuma.org/~/edit/drafts/-LWk6MhsHONAGcEyJ9jK/funcionalitats-avancades/productes/variants-de-productes) són productes similars però de sabor, mida o varietats diferents. Pujant-los com a variants en comptes de com a productes individuals, la vostra botiga estarà menys atapeïda i serà més senzilla per a les consumidores navegar-hi. 
+Les [variants](https://guia.katuma.org/funcionalitats-avancades/productes/variants-de-productes) són productes similars però de sabor, mida o varietats diferents. Pujant-los com a variants en comptes de com a productes individuals, la vostra botiga estarà menys atapeïda i serà més senzilla per a les consumidores navegar-hi. 
 
 En el procés d'importació, les variants es distingeixen per les 'unitats' \(com llet venuda en 2 variants diferents de tamany\) o pel 'nom\_desplegat' \(com iogurt venut de molts sabors diferents\) i agrupades pel nom del producte genèric del qual pengen \(en aquest cas: 'llet' o 'iogurt'\). Sempre que el nom del producte sigui el mateix, les files s'importaran com a variants. 
 

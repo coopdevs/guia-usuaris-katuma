@@ -8,7 +8,7 @@ Vegem un exemple. Un productor ven cuixes de xai. Solen tenir un pes d'entre 1,5
 
 Podeu carregar el preu mitjà del producte i, a continuació, reemborsar o carregar al client el preu addicional, si el pes real es desvia d'aquest pes mitjà. Per tant, en aquest exemple, cobraria 30€ per cuixa, basant-se en una mitjana de 2 quilograms. Quan es pesa i es carrega la cuixa real, es pot calcular una desviació de 500g, que requereix que reemborsin 7,50€.
 
-Quan coneixeu el pes real dels vostres productes, podeu actualitzar les comandes a la [Gestió de comandes en bloc](https://guia.katuma.org/~/edit/drafts/-LWXJNyhN0qmDZ4aDwmm/funcionalitats-avancades/comandes). Cerqueu la cuixa de xai i veureu totes les comandes que contenen aquest producte. Feu que la columna "pes / volum" sigui visible. Els valors d'aquesta columna es poden editar per reflectir els pesos reals de les potes de xai assignades a cada client. L'exemple següent mostra que quan la comanda de la Claire s'ajusta a una cuixa de xai d’1,5 kg, el preu es recalcula automàticament. Feu clic a l'actualització per desar aquest canvi.
+Quan coneixeu el pes real dels vostres productes, podeu actualitzar les comandes a la [Gestió de comandes en bloc](https://guia.katuma.org/funcionalitats-avancades/comandes). Cerqueu la cuixa de xai i veureu totes les comandes que contenen aquest producte. Feu que la columna "pes / volum" sigui visible. Els valors d'aquesta columna es poden editar per reflectir els pesos reals de les potes de xai assignades a cada client. L'exemple següent mostra que quan la comanda de la Claire s'ajusta a una cuixa de xai d’1,5 kg, el preu es recalcula automàticament. Feu clic a l'actualització per desar aquest canvi.
 
 ![](../../.gitbook/assets/imatge%20%2818%29.png)
 
@@ -28,7 +28,7 @@ Si teniu els articles únics disponibles podeu enumerar cada element individual 
 
 Pot ser complicat que els productors de carn puguin predir els productes exactes que tindran fins després del processament. Per exemple, un productor d'aus de corral pot esperar tenir 12 pollastres mitjans, però després d'un atac de guineu, li'n poden quedar només 6 de mitjans, i 6 més petits. Per tant, el productor ha de poder ajustar les comandes, alertar els clients de l'escassetat i del canvi corresponent en la seva comanda. El producte pot ser eliminat de la seva comanda o substituït per alguna cosa semblant.
 
-Les comandes es poden ajustar en el[ Llistat de comandes](https://guia.katuma.org/~/edit/drafts/-LWXJNyhN0qmDZ4aDwmm/funcionalitats-avancades/comandes). Alerteu el client a qualsevol canvi en la seva comanda.
+Les comandes es poden ajustar en el[ Llistat de comandes](https://guia.katuma.org/funcionalitats-avancades/comandes). Alerteu el client a qualsevol canvi en la seva comanda.
 
 ## Reemborsament o recaptació de pagament addicional a Katuma
 
@@ -40,7 +40,7 @@ En el futur, Open Food Network té previst desenvolupar comptes de clients, mitj
 
 ## Alertes a les consumidores de la vostra política de preus
 
-Cada botiga de Katuma té l'opció de posar un missatge a la part superior de la seva botiga. Aquest és un lloc adequat perquè els clients sàpiguen que els preus poden variar després de la comanda. Les instruccions per fer-ho estan [aquí](https://guia.katuma.org/~/edit/drafts/-LWXJNyhN0qmDZ4aDwmm/basic-features/configuracio-de-lorganitzacio), a la **Configuració de la botiga**.
+Cada botiga de Katuma té l'opció de posar un missatge a la part superior de la seva botiga. Aquest és un lloc adequat perquè els clients sàpiguen que els preus poden variar després de la comanda. Les instruccions per fer-ho estan [aquí](https://guia.katuma.org/basic-features/configuracio-de-lorganitzacio), a la **Configuració de la botiga**.
 
 El quadre de descripció del Mètode de pagament és un altre lloc per enviar un missatge al client, com ara "el preu final pot variar en un 10% màxim a causa de la variabilitat del producte, ens posarem en contacte amb vostè per variacions superiors a això". 
 

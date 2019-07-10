@@ -18,27 +18,27 @@
 
 ## Passos per configurar un perfil de productora <a id="steps-for-setting-up-a-producer-profile"></a>
 
-1\) [Registreu el vostre perfil](https://guia.katuma.org/~/drafts/-LXIdBZaJ1sAYeM_LiBR/primary/basic-features/register-and-create-your-profile) a [Katuma](https://app.katuma.org/register/auth#/signup?after_login=%2Fregister). Aquesta eina de configuració us demanarà informació bàsica sobre la vostra organització per crear el perfil. Se us demanarà que confirmeu el correu electrònic.
+1\) [Registreu el vostre perfil](https://guia.katuma.org/basic-features/register-and-create-your-profile) a [Katuma](https://app.katuma.org/register/auth#/signup?after_login=%2Fregister). Aquesta eina de configuració us demanarà informació bàsica sobre la vostra organització per crear el perfil. Se us demanarà que confirmeu el correu electrònic.
 
-2\) Seleccioneu el [tipus de perfil](https://guia.katuma.org/~/drafts/-LXIdBZaJ1sAYeM_LiBR/primary/basic-features/tipus-de-perfils-disponibles) 'perfil productora'.
+2\) Seleccioneu el [tipus de perfil](https://guia.katuma.org/basic-features/tipus-de-perfils-disponibles) 'perfil productora'.
 
 **El vostre perfil bàsic s'ha completat!**
 
 **Si voleu editar el perfil o afegir-hi més detalls podeu fer-ho.**
 
-3\) Modifiqueu el vostre perfil a [Configuració de l'Organització](https://guia.katuma.org/~/drafts/-LXIdBZaJ1sAYeM_LiBR/primary/basic-features/configuracio-de-lorganitzacio). És una bona idea afegir propietat sobre els vostres productes \(per exemple: ecològic, segell CCPAE, IGP, pastura lliure...\)
+3\) Modifiqueu el vostre perfil a [Configuració de l'Organització](https://guia.katuma.org/basic-features/configuracio-de-lorganitzacio). És una bona idea afegir propietat sobre els vostres productes \(per exemple: ecològic, segell CCPAE, IGP, pastura lliure...\)
 
 Ara teniu un espai per explicar la història de la vostra organització o empresa i per ajudar a establir les connexions amb les vostres xarxes socials i presència online.
 
 **Si voleu proveir una altra botiga a Katuma dels vostres productes:**
 
-4\) [Afegiu el vostre llistat de productes](https://guia.katuma.org/~/drafts/-LXIdBZaJ1sAYeM_LiBR/primary/basic-features/productes). 
+4\) [Afegiu el vostre llistat de productes](https://guia.katuma.org/basic-features/productes). 
 
-5\) Concediu a la botiga que voleu proveir els [permisos](https://guia.katuma.org/~/drafts/-LXIdBZaJ1sAYeM_LiBR/primary/funcionalitats-avancades/col-laboracio-amb-altres-organitzacions/permisos-e2e-enterprise-to-entreprise) per emmagatzemar els vostres productes.
+5\) Concediu a la botiga que voleu proveir els [permisos](https://guia.katuma.org/funcionalitats-avancades/col-laboracio-amb-altres-organitzacions/permisos-e2e-enterprise-to-entreprise) per emmagatzemar els vostres productes.
 
 ## Funcionalitats avançades que són útils per a perfils de productores. <a id="advanced-features-that-are-helpful-for-producers-with-profiles"></a>
 
-* Fes el teu perfil[ cercable per categoria dels productes](https://guia.katuma.org/~/drafts/-LXIdBZaJ1sAYeM_LiBR/primary/funcionalitats-avancades/el-teu-perfil/fer-un-perfil-de-productora-cercable-per-categoria-de-producte).​
+* Fes el teu perfil[ cercable per categoria dels productes](https://guia.katuma.org/funcionalitats-avancades/el-teu-perfil/fer-un-perfil-de-productora-cercable-per-categoria-de-producte).​
 
-**Voleu configurar una botiga en línia?** Ara que ja teniu perfil a Katuma, amb només unes quantes passes de configuració més podeu obrir la vostra pròpia botiga en línia. Vegeu el manual de [Productora \(botiga\)](https://guia.katuma.org/~/edit/drafts/-LXIdBZaJ1sAYeM_LiBR/manuals-de-configuracio/productora-botiga). Vosaltres ja heu completat el pas 1 creant el vostre perfil, així que podeu començar pel pas 2 i canviar el vostre tipus de perfil.
+**Voleu configurar una botiga en línia?** Ara que ja teniu perfil a Katuma, amb només unes quantes passes de configuració més podeu obrir la vostra pròpia botiga en línia. Vegeu el manual de [Productora \(botiga\)](https://guia.katuma.org/manuals-de-configuracio/productora-botiga). Vosaltres ja heu completat el pas 1 creant el vostre perfil, així que podeu començar pel pas 2 i canviar el vostre tipus de perfil.
 

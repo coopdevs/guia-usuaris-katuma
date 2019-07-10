@@ -56,5 +56,5 @@ La **comanda màxima realitzada** recull la suma de totes les quantitats màxime
 
 ### Informe de compra de grup
 
-L'informe "Bulk Co-op-Totals per Proveïdors" proporciona un resum dels productes a granel, incloent-hi quantes compres en grup s'han demanat, quina quantitat d'estoc sobrarà si es fa la compra i no s'arriba a la quantitat mínim i quina quantitat d'aquest estoc extra estan les consumidores disposades a comprar per ajudar a assolir el grup la mida de la compra en grup. Per obtenir més informació sobre com utilitzar aquest informe, consulteu la part inferior d'[aquesta pàgina](https://guia.katuma.org/~/edit/drafts/-LWjvo029JtFWC1NGpT6/basic-features/informes).
+L'informe "Bulk Co-op-Totals per Proveïdors" proporciona un resum dels productes a granel, incloent-hi quantes compres en grup s'han demanat, quina quantitat d'estoc sobrarà si es fa la compra i no s'arriba a la quantitat mínim i quina quantitat d'aquest estoc extra estan les consumidores disposades a comprar per ajudar a assolir el grup la mida de la compra en grup. Per obtenir més informació sobre com utilitzar aquest informe, consulteu la part inferior d'[aquesta pàgina](https://guia.katuma.org/basic-features/informes).
 

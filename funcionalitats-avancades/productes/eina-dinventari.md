@@ -14,7 +14,7 @@ Nota: _l'ús de l'eina d'inventari pot ser complex, de manera que us animem a qu
 
 ### Requisits de permisos
 
-Les organitzacions han d'obtenir el [permís E2E](https://guia.katuma.org/~/edit/drafts/-LWjZePF4oenoNkZ27yL/funcionalitats-avancades/col-laboracio-amb-altres-organitzacions/permisos-e2e-enterprise-to-entreprise) adequat de la productora proveïdora abans de poder veure els productes d'un productor a l'inventari.
+Les organitzacions han d'obtenir el [permís E2E](https://guia.katuma.org/funcionalitats-avancades/col-laboracio-amb-altres-organitzacions/permisos-e2e-enterprise-to-entreprise) adequat de la productora proveïdora abans de poder veure els productes d'un productor a l'inventari.
 
 * Un grup ha de tenir el permís E2E-Inventari \(P-I\) de la productora per veure els seus productes a l’Inventari.
 * Els grups distribuïdors també necessiten el permís E2E-Inventari \(P-I\) de la productora proveïdora si cal emmagatzemar el producte segons l'inventari del grup. Sense aquest permís, hereten tots els detalls del producte principal.

@@ -6,7 +6,7 @@ Aquesta pàgina descriu un parell de maneres com les usuàries poden saber què 
 
 ## **Com saber quant deus a les teves proveïdores**
 
-Podeu utilitzar els [Informes](https://guia.katuma.org/~/edit/drafts/-LY14nsMRsgqsxiR1w1b/basic-features/informes) per obtenir un desglossament del valor dels productes venuts de cada proveïdor. L'informe del [Total de Proveïdors del Cicle de Comanda](https://guia.katuma.org/~/edit/drafts/-LY14nsMRsgqsxiR1w1b/basic-features/informes#total-de-proveidors-del-cicle-de-comandes) dona el valor total de productes venuts de cada proveïdora. Alternativament podeu descarregar l'informe en csv Totals de Consumidores del Cicle de Comanda i crear algunes taules per extreure les dades que necessiteu.
+Podeu utilitzar els [Informes](https://guia.katuma.org/basic-features/informes) per obtenir un desglossament del valor dels productes venuts de cada proveïdor. L'informe del [Total de Proveïdors del Cicle de Comanda](https://guia.katuma.org/basic-features/informes#total-de-proveidors-del-cicle-de-comandes) dona el valor total de productes venuts de cada proveïdora. Alternativament podeu descarregar l'informe en csv Totals de Consumidores del Cicle de Comanda i crear algunes taules per extreure les dades que necessiteu.
 
 ## **Pagar les proveïdores**
 

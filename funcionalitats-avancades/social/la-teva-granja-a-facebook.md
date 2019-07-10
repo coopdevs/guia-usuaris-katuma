@@ -1,6 +1,6 @@
 # El vostre projecte d'alimentació a Facebook
 
-Aquesta pàgina explica el procés de crear una pàgina per a un projecte com a productores, agricultores, ramaderes, a Facebook. Si ja teniu una pàgina i esteu buscant alguns consells respecte un millor ús per promocionar-vos consulteu la pàgina de [Consells per a l'ús de Facebook](https://guia.katuma.org/~/edit/drafts/-LZ4aRdLBizsUrE04YTu/funcionalitats-avancades/social/consells-per-a-lus-de-facebook). 
+Aquesta pàgina explica el procés de crear una pàgina per a un projecte com a productores, agricultores, ramaderes, a Facebook. Si ja teniu una pàgina i esteu buscant alguns consells respecte un millor ús per promocionar-vos consulteu la pàgina de [Consells per a l'ús de Facebook](https://guia.katuma.org/funcionalitats-avancades/social/consells-per-a-lus-de-facebook). 
 
 Per crear una pàgina per al vostre projecte, negoci, a Facebook, primer necessiteu un compte personal. Si ja en teniu un, inicieu sessió i procediu al pas següent. Si no en teniu, aneu a [www.facebook.com](http://www.facebook.com/) i creeu un compte. Necessitareu proporcionar un nom, correu electrònic o número de telèfon i data de naixement. La pàgina del vostre projecte estarà separada del vostre compte personal, només necessiteu aquest compte per administrar la vostra pàgina professional.
 
@@ -60,7 +60,7 @@ Podeu editar qualsevol informació que heu aportat durant la creació de la pàg
 
 ![](../../.gitbook/assets/imatge%20%2872%29.png)
 
-**Molt bé! La vostra pàgina de Facebook ja està configurada i prearada per usar-la per connectar-vos amb les vostres consumidores i col·legues de la mateix ram. Per aprendre com usar Facebook i alguns consells, consulteu l'apartat** [**Consells per a l'ús de Facebook**](https://guia.katuma.org/~/edit/drafts/-LZ4aRdLBizsUrE04YTu/funcionalitats-avancades/social/consells-per-a-lus-de-facebook)**.** 
+**Molt bé! La vostra pàgina de Facebook ja està configurada i prearada per usar-la per connectar-vos amb les vostres consumidores i col·legues de la mateix ram. Per aprendre com usar Facebook i alguns consells, consulteu l'apartat** [**Consells per a l'ús de Facebook**](https://guia.katuma.org/funcionalitats-avancades/social/consells-per-a-lus-de-facebook)**.** 
 
 
 

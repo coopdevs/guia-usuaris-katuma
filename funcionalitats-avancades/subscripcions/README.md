@@ -18,9 +18,9 @@ Aquests són els bàsics que has de conèixer de les Subscripcions:
 
 Hem descrit la configuració de les subscripcions en 9 passos a través de tres apartats de la guia d'usuàries.
 
-**En primer lloc la pàgina** [**Subscripcions - configuració**](https://guia.katuma.org/~/edit/drafts/-LYR47tIIycfJ0JtHthh/funcionalitats-avancades/subscripcions/subscripcions-configuracio) **descriu com configurar la vostra botiga per permetre la funcionalitat i algunes coses que cal fer per preparar-la.**
+**En primer lloc la pàgina** [**Subscripcions - configuració**](https://guia.katuma.org/funcionalitats-avancades/subscripcions/subscripcions-configuracio) **descriu com configurar la vostra botiga per permetre la funcionalitat i algunes coses que cal fer per preparar-la.**
 
-1\) Permetre Subscripcions a la vostra [Configuració de l'Organització](https://guia.katuma.org/~/edit/drafts/-LYR47tIIycfJ0JtHthh/basic-features/configuracio-de-lorganitzacio).
+1\) Permetre Subscripcions a la vostra [Configuració de l'Organització](https://guia.katuma.org/basic-features/configuracio-de-lorganitzacio).
 
 2\) Assegureu-vos que teniu configurats els Mètodes d'enviament i de pagament.
 
@@ -30,7 +30,7 @@ Hem descrit la configuració de les subscripcions en 9 passos a través de tres 
 
 5\) Configureu les Programacions, les quals dictaran amb quina freqüència es processaran les subscripcions.
 
-**En segon lloc, una vegada heu configurat la botiga vegeu l'apartat** [**Subscripcions - Crear i gestionar comandes** ](https://guia.katuma.org/~/edit/drafts/-LYR47tIIycfJ0JtHthh/funcionalitats-avancades/subscripcions/subscripcions-crear-i-gestionar-comandes)**per obtenir informació sobre com crear i gestionar les comandes de subscripció de les consumidores.**
+**En segon lloc, una vegada heu configurat la botiga vegeu l'apartat** [**Subscripcions - Crear i gestionar comandes** ](https://guia.katuma.org/funcionalitats-avancades/subscripcions/subscripcions-crear-i-gestionar-comandes)**per obtenir informació sobre com crear i gestionar les comandes de subscripció de les consumidores.**
 
 6\) Crear subscripcions per a cada consumidora.
 
@@ -38,7 +38,7 @@ Hem descrit la configuració de les subscripcions en 9 passos a través de tres 
 
 8\) Com es processen les subscripcions.
 
-**Finalment, vegeu l'apartat** [**Subscripcions - la perspectiva de les consumidores** ](https://guia.katuma.org/~/edit/drafts/-LYR47tIIycfJ0JtHthh/funcionalitats-avancades/subscripcions/subscripcions-la-perspectiva-de-la-consumidora)**per detalls sobre què han de fer les consumidores per tenir una subscripció i com serà la seva experiència amb els sistema de subscripcions.**
+**Finalment, vegeu l'apartat** [**Subscripcions - la perspectiva de les consumidores** ](https://guia.katuma.org/funcionalitats-avancades/subscripcions/subscripcions-la-perspectiva-de-la-consumidora)**per detalls sobre què han de fer les consumidores per tenir una subscripció i com serà la seva experiència amb els sistema de subscripcions.**
 
 9\) Considereu l'experiència de subscripcions de les consumidores, incloent FAQs que poden tenir.
 

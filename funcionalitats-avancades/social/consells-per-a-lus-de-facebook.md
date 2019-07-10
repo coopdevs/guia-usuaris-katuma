@@ -18,7 +18,7 @@ Si penses en Open Food Network com un mercat online, les xarxes socials son anà
 
 ### Comencem
 
-Si sou nous a Facebook, o esteu creant una nova pàgina per al vostre projecte , consulteu l'apartat de la guia [El vostre projecte a Facebook](https://guia.katuma.org/~/edit/drafts/-LZ4NwV0OtnZ1_5BCZCg/funcionalitats-avancades/social/la-teva-granja-a-facebook). 
+Si sou nous a Facebook, o esteu creant una nova pàgina per al vostre projecte , consulteu l'apartat de la guia [El vostre projecte a Facebook](https://guia.katuma.org/funcionalitats-avancades/social/la-teva-granja-a-facebook). 
 
 ### Connecteu-vos amb altres
 

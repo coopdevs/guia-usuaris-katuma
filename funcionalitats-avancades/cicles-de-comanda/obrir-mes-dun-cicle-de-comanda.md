@@ -16,5 +16,5 @@ No podeu especificar quins mètodes d'enviament estan disponibles en un cicle de
 
 **Ordre dels vostres cicles de comanda**
 
-Podeu escollir si els vostres cicles de comanda apareixen a la llista desplegable per data de tancament \(primer el que tanca abans\) o per data d'obertura \(primer el que obre abans\). Podeu configurar-ho a la [Configuració de l'organització](https://guia.katuma.org/~/edit/drafts/-LYQxau3QKpWN1q9ApJq/basic-features/configuracio-de-lorganitzacio), a 'preferències de la botiga'.
+Podeu escollir si els vostres cicles de comanda apareixen a la llista desplegable per data de tancament \(primer el que tanca abans\) o per data d'obertura \(primer el que obre abans\). Podeu configurar-ho a la [Configuració de l'organització](https://guia.katuma.org/basic-features/configuracio-de-lorganitzacio), a 'preferències de la botiga'.
 

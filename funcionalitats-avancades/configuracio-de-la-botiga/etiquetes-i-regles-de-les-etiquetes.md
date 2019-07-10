@@ -16,7 +16,7 @@ Utilitzar la funcionalitat de l'etiquetatge implica dos passos principals:
 
 ### Etiquetar consumidores
 
-La teva pàgina del llistat de [Consumidores](https://guia.katuma.org/~/edit/drafts/-LXx8NqhDlvvilERtCgD/funcionalitats-avancades/configuracio-de-la-botiga/consumidores) conté totes aquelles consumidores que han realitzat una comada a la vostra botiga, així com qualsevol consumidora que hagueu afegit manualment a la llista.
+La teva pàgina del llistat de [Consumidores](https://guia.katuma.org/funcionalitats-avancades/configuracio-de-la-botiga/consumidores) conté totes aquelles consumidores que han realitzat una comada a la vostra botiga, així com qualsevol consumidora que hagueu afegit manualment a la llista.
 
 El primer pas per configurar una regla d'etiqueta és etiquetar totes les consumidores a les quals voleu aplicar la regla.
 

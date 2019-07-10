@@ -6,7 +6,7 @@ Usant un exemple de panotxes, imaginem que voleu vendre panotxes de blat de moro
 
 ![](../../.gitbook/assets/imatge%20%2885%29.png)
 
-Quan creeu el producte nou per primer cop, ompliu els detalls només d'una de les vostres variants \(per exemple: una panotxa de blat de moro per 80 cèntims\). [Aquí](https://guia.katuma.org/~/edit/drafts/-LWXE1TeJSp9bi1sSelr/basic-features/productes) hi ha instruccions més detallades per afegir un producte.
+Quan creeu el producte nou per primer cop, ompliu els detalls només d'una de les vostres variants \(per exemple: una panotxa de blat de moro per 80 cèntims\). [Aquí](https://guia.katuma.org/basic-features/productes) hi ha instruccions més detallades per afegir un producte.
 
 ![](../../.gitbook/assets/imatge%20%2854%29.png)
 

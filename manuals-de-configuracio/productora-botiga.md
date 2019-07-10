@@ -20,17 +20,17 @@
 
 ## Passes per configurar una botiga de Productora <a id="steps-for-setting-up-a-producer-shop"></a>
 
-1\) [Registreu el vostre perfil](https://guia.katuma.org/~/drafts/-LXIdBZaJ1sAYeM_LiBR/primary/basic-features/register-and-create-your-profile) a Katuma. Aquesta eina de configuració us demanarà informació bàsica sobre la vostra organització per crear el perfil. Se us demanarà que confirmeu el correu electrònic.
+1\) [Registreu el vostre perfil](https://guia.katuma.org/basic-features/register-and-create-your-profile) a Katuma. Aquesta eina de configuració us demanarà informació bàsica sobre la vostra organització per crear el perfil. Se us demanarà que confirmeu el correu electrònic.
 
-2\) Seleccioneu el [tipus de perfil](https://guia.katuma.org/~/drafts/-LXIdBZaJ1sAYeM_LiBR/primary/basic-features/tipus-de-perfils-disponibles) 'botiga productora'.
+2\) Seleccioneu el [tipus de perfil](https://guia.katuma.org/basic-features/tipus-de-perfils-disponibles) 'botiga productora'.
 
-3\) Si voleu editar el perfil o afegir-hi més detalls podeu modificar la [Configuració de l'organització](https://guia.katuma.org/~/edit/drafts/-LXJbrqizmUKQ4N_oGec/basic-features/configuracio-de-lorganitzacio). Podeu també configurar les vostres preferències, escollir si la vostra botiga és oberta al públic o privada a les vostres consumidores registrades i escriure un missatge que apareixerà a la botiga. 
+3\) Si voleu editar el perfil o afegir-hi més detalls podeu modificar la [Configuració de l'organització](https://guia.katuma.org/basic-features/configuracio-de-lorganitzacio). Podeu també configurar les vostres preferències, escollir si la vostra botiga és oberta al públic o privada a les vostres consumidores registrades i escriure un missatge que apareixerà a la botiga. 
 
-4\) Defineix i configura els vostres [mètodes d'enviament](https://guia.katuma.org/~/edit/drafts/-LXJbrqizmUKQ4N_oGec/basic-features/metodes-denviament).
+4\) Defineix i configura els vostres [mètodes d'enviament](https://guia.katuma.org/basic-features/metodes-denviament).
 
 5\) Defineix i configura els vostres mètodes de pagament.
 
-6\) Afegeix el vostre [llistat de productes](https://guia.katuma.org/~/edit/drafts/-LXJbrqizmUKQ4N_oGec/basic-features/productes).
+6\) Afegeix el vostre [llistat de productes](https://guia.katuma.org/basic-features/productes).
 
 #### **Obriu la vostra botiga!** <a id="open-your-shop"></a>
 

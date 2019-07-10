@@ -36,7 +36,7 @@ Si les vostres consumidores desen targeta de crèdit al seu compte, també podra
 
 A més de desar una targeta de crèdit al seu compte, la consumidora necessita autoritzar la vostra botiga per carregar-li els imports a la seva targeta de crèdit predeterminada.
 
-**Haureu d'afegir les vostres consumidores a la** [**Llista de Consumidores** ](https://guia.katuma.org/~/edit/drafts/-LYacPRxcmBYU9uxnwC1/funcionalitats-avancades/configuracio-de-la-botiga/consumidores)**abans de demanar-los que desin els detalls de la seva targeta i us autoritzin a fer els cobraments a la seva targeta.** Si heu afegit una consumidora a la vostra llista, quan creï un compte a Katuma, iniciï sessió i carregui les dades de la seva targeta podrà veure la vostra botiga i podrà atorgar-vos el permís per cobrar-li a la targeta \(vegeu l'exemple avall\).
+**Haureu d'afegir les vostres consumidores a la** [**Llista de Consumidores** ](https://guia.katuma.org/funcionalitats-avancades/configuracio-de-la-botiga/consumidores)**abans de demanar-los que desin els detalls de la seva targeta i us autoritzin a fer els cobraments a la seva targeta.** Si heu afegit una consumidora a la vostra llista, quan creï un compte a Katuma, iniciï sessió i carregui les dades de la seva targeta podrà veure la vostra botiga i podrà atorgar-vos el permís per cobrar-li a la targeta \(vegeu l'exemple avall\).
 
 ![](../../.gitbook/assets/imatge%20%2828%29.png)
 
@@ -60,7 +60,7 @@ El primer correu electrònic es desencadena en el moment en què obre un cicle d
 
 #### Modificar la comanda
 
-Si la consumidora pot o no fer canvis en la seva comanda de subscripció dependrà de la [configuració de la botiga](https://guia.katuma.org/~/edit/drafts/-LYacPRxcmBYU9uxnwC1/basic-features/configuracio-de-lorganitzacio#configuracio-de-la-botiga), dins de la Configuració de l'organització.
+Si la consumidora pot o no fer canvis en la seva comanda de subscripció dependrà de la [configuració de la botiga](https://guia.katuma.org/basic-features/configuracio-de-lorganitzacio#configuracio-de-la-botiga), dins de la Configuració de l'organització.
 
 Si la botiga **no permet que les seves consumidores canviïn les comandes** el seu correu serà el mateix que el mostrat anteriorment. Si volen cancel·lar la comanda, o fer-hi canvis, necessitaran contactar directament amb la botiga per demanar aquests canvis. ****
 

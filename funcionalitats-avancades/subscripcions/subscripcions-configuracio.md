@@ -6,7 +6,7 @@
 Mentre les subscripcions estiguin en mode 'Beta' haureu de comunicar-vos amb el vostre representant local d'OFN per poder activar les subscripcions a la vostra botiga - info@katuma.org
 {% endhint %}
 
-Per permetre l'eina de Subscripcions necessitareu activar la funcionalitat a la configuració de l'organització. Un cop activades, les taules i controls addicionals per a les subscripcions esdevindran visibles. Podeu trobar aquestes configuracions a la taula de [Configuració de la botiga](https://guia.katuma.org/~/edit/drafts/-LYRCur5foffQibEYMWS/basic-features/configuracio-de-lorganitzacio#configuracio-de-la-botiga).
+Per permetre l'eina de Subscripcions necessitareu activar la funcionalitat a la configuració de l'organització. Un cop activades, les taules i controls addicionals per a les subscripcions esdevindran visibles. Podeu trobar aquestes configuracions a la taula de [Configuració de la botiga](https://guia.katuma.org/basic-features/configuracio-de-lorganitzacio#configuracio-de-la-botiga).
 
 **Subscripcions**: Per activar les subscripcions, seleccioneu 'Habilitar'.
 
@@ -23,7 +23,7 @@ Quan arribi el pas de crear la subscripció de la consumidora, necessitareu sele
 
 #### **Mètodes d'enviament** <a id="shipping-methods"></a>
 
-Podeu aplicar qualsevol mètode d'enviament a una subscripció. Vegeu aquí les instruccions per [configurar un mètode d'enviament](https://guia.katuma.org/~/edit/drafts/-LYRCur5foffQibEYMWS/basic-features/metodes-denviament).
+Podeu aplicar qualsevol mètode d'enviament a una subscripció. Vegeu aquí les instruccions per [configurar un mètode d'enviament](https://guia.katuma.org/basic-features/metodes-denviament).
 
 #### **Mètodes de pagament** <a id="payment-methods"></a>
 
@@ -33,7 +33,7 @@ Només podeu assignar dos tipus de mètodes de pagament a les subscripcions. Veg
 
 **2\) Stripe:** Stripe és una passarel·la de pagament que accepta pagaments amb targeta de crèdit. Quan apliqueu Stripe com a mètode de pagament per a la subscripció d'una consumidora, Stripe carregarà a la targeta de crèdit automàticament l'import cada vegada que es processi una de les seves comandes de subscripció. L'import que es carregarà reflectirà qualsevol canvi que hagi fet a la comanda subscrita, i no es carregarà si es cancel·la o pausa la subscripció. 
 
-Abans que una botiga pugui carregar exitosament una consumidora, aquesta ha d'iniciar sessió a Katuma, desar una targeta de crèdit al seu compte i donar permisos a la vostra botiga per carregar-li l'import de les subscripcions a la targeta de crèdit. Podeu consultar més detalls sobre aquests passos a la pàgina [Subscripcions - la perspectiva de la consumidora](https://guia.katuma.org/~/edit/drafts/-LYRCur5foffQibEYMWS/funcionalitats-avancades/subscripcions/subscripcions-la-perspectiva-de-la-consumidora). 
+Abans que una botiga pugui carregar exitosament una consumidora, aquesta ha d'iniciar sessió a Katuma, desar una targeta de crèdit al seu compte i donar permisos a la vostra botiga per carregar-li l'import de les subscripcions a la targeta de crèdit. Podeu consultar més detalls sobre aquests passos a la pàgina [Subscripcions - la perspectiva de la consumidora](https://guia.katuma.org/funcionalitats-avancades/subscripcions/subscripcions-la-perspectiva-de-la-consumidora). 
 
 Tingueu en compte que quan configureu Stripe per usar-lo a les subscripcions és bo que el nom i la descripció del mètode de pagament siguin aclaridors.
 
@@ -45,7 +45,7 @@ Per exemple, en lloc d'anomenar un mètode de pagament 'Targeta de crèdit' pots
 
 Per configurar una subscripció per a una consumidora necessiatreu obtenir alguna informació seva, com la que es detalla a continuació. Podeu fer això un dia que us trobeu, o bé per correu electrònic o un [formulari de google](https://www.google.com.au/forms/about/).
 
-**Nom, número de telèfon i correu electrònic** de preferència. Tal i com es detalla a continuació, heu d'afegir les direccions de correu electrònic a la vostra [Llista de Consumidores](https://guia.katuma.org/~/edit/drafts/-LYRCur5foffQibEYMWS/funcionalitats-avancades/configuracio-de-la-botiga/consumidores) abans de crear una subscripció per a elles, i necessitareu aquesta informació.
+**Nom, número de telèfon i correu electrònic** de preferència. Tal i com es detalla a continuació, heu d'afegir les direccions de correu electrònic a la vostra [Llista de Consumidores](https://guia.katuma.org/funcionalitats-avancades/configuracio-de-la-botiga/consumidores) abans de crear una subscripció per a elles, i necessitareu aquesta informació.
 
 **Adreça de facturació i lliurament**: necessitareu aquesta informació quan configureu una subscripció.
 
@@ -59,9 +59,9 @@ Per configurar una subscripció per a una consumidora necessiatreu obtenir algun
 
 ## 4\) Afegiu les subscriptores a la vostra Llista de Consumidores <a id="4-add-your-subscribers-to-your-customer-list"></a>
 
-Abans de poder configurar una subscripció per a una consumidora necessiten estar a la vostra Llista de Consumidores. Vegeu aquí les instruccions per mantenir la vostra [Llista de Consumidores](https://guia.katuma.org/~/edit/drafts/-LYRCur5foffQibEYMWS/funcionalitats-avancades/configuracio-de-la-botiga/consumidores).
+Abans de poder configurar una subscripció per a una consumidora necessiten estar a la vostra Llista de Consumidores. Vegeu aquí les instruccions per mantenir la vostra [Llista de Consumidores](https://guia.katuma.org/funcionalitats-avancades/configuracio-de-la-botiga/consumidores).
 
-**Després d'haver afegit les consumidores a la llista comenta'ls-hi o envia'ls-hi un correu electrònic** i demana'ls que es registrin per tenir un compte a Katuma. ****Les instruccions per fer-ho es poden trobar [aquí](https://guia.katuma.org/~/edit/drafts/-LYRCur5foffQibEYMWS/basic-features/register-and-create-your-profile). Si planegeu cobrar les consumidores a través de la passarel·la de pagament Stripe, necessiteu també demanar-los que [desin els detalls de les seves targetes de crèdit i autoritzin la teva botiga a fer els càrrecs corresponents](https://guide.openfoodnetwork.org/advanced-features/subscriptions/subscriptions-the-customers-perspective).
+**Després d'haver afegit les consumidores a la llista comenta'ls-hi o envia'ls-hi un correu electrònic** i demana'ls que es registrin per tenir un compte a Katuma. ****Les instruccions per fer-ho es poden trobar [aquí](https://guia.katuma.org/basic-features/register-and-create-your-profile). Si planegeu cobrar les consumidores a través de la passarel·la de pagament Stripe, necessiteu també demanar-los que [desin els detalls de les seves targetes de crèdit i autoritzin la teva botiga a fer els càrrecs corresponents](https://guide.openfoodnetwork.org/advanced-features/subscriptions/subscriptions-the-customers-perspective).
 
 Podeu afegir consumidores a la Llista de consumidores abans o després que tinguin creat un compte a Katuma. Sigui com sigui, tingueu en compte que abans de poder completar amb èxit la configuració d'una comanda amb subscripció la consumidora la consumidora ha de registrar-se i confirmar el correu electrònic. 
 
@@ -72,7 +72,7 @@ Per tant un suggerim el següent procés: a\) contacteu amb les consumidores de 
 ## 5\) Programacions
 
 {% hint style="info" %}
-Si sou nous a Katuma us animem a familiaritzar-vos amb la configuració dels [cicles de comanda](https://guia.katuma.org/~/edit/drafts/-LYRCur5foffQibEYMWS/basic-features/order-cycles-for-hubs) abans de configurar les programacions de les subscripcions.
+Si sou nous a Katuma us animem a familiaritzar-vos amb la configuració dels [cicles de comanda](https://guia.katuma.org/basic-features/order-cycles-for-hubs) abans de configurar les programacions de les subscripcions.
 {% endhint %}
 
 ### Sobre les programacions
@@ -99,7 +99,7 @@ En aquest cas hi haurà dues programacions, una per a les consumidores de dillun
 
 ### Crear una programació
 
-Una vegada heu [habilitat a funcionalitat de les subscripcions](https://guia.katuma.org/~/edit/drafts/-LYabbq0BWTtOfx-eZX6/funcionalitats-avancades/subscripcions/subscripcions-configuracio#1-permetre-subscripcions), veureu l'opció de Programacions a la interfície del cicle de comandes. Per crear una programació feu clic al botó **+Nova programació**. 
+Una vegada heu [habilitat a funcionalitat de les subscripcions](https://guia.katuma.org/funcionalitats-avancades/subscripcions/subscripcions-configuracio#1-permetre-subscripcions), veureu l'opció de Programacions a la interfície del cicle de comandes. Per crear una programació feu clic al botó **+Nova programació**. 
 
 > Nota: Heu de tenir com a mínim un cicle de comanda que pugui ser afegit a la programació abans de poder-la crear.
 

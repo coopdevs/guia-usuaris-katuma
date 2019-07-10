@@ -2,7 +2,7 @@
 
 Hi ha alguns casos en què els usuaris necessiten transferir la propietat d'un perfil a altres usuaris. Per exemple, quan es configura una xarxa o una pàgina de grup de productores, el gestor del grup crea sovint els perfils de les productores en el seu nom. En aquesta pàgina es descriu de quina manera, com a propietari del perfil, es pot transferir la propietat d'un perfil a una altra persona.
 
-El primer pas és anar a la secció **Usuaris** del [perfil](https://guia.katuma.org/~/edit/drafts/-LWXBzRmt_z--NPyQOOY/basic-features/configuracio-de-lorganitzacio).
+El primer pas és anar a la secció **Usuaris** del [perfil](https://guia.katuma.org/basic-features/configuracio-de-lorganitzacio).
 
 ####  Si el nou propietari ja s'ha registrat a Katuma:
 
