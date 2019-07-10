@@ -24,13 +24,13 @@ Les consumidores que vulguin pagar les seves comandes de subscripció via càrre
 
 La consumidora pot desar una o més targetes en el seu compte, a la taula de **targetes de crèdit**.
 
-![](../../.gitbook/assets/imatge%20%2877%29.png)
+![](../../.gitbook/assets/imatge%20%2883%29.png)
 
 La targeta que es determina com a 'predeterminada' o per defecte serà la targeta en la qual es carregarà automàticament per Stripe si té una subscripció amb Stripe com a mètode de pagament escollit. Si cap se selecciona com a predeterminada no es processaran els seus pagaments amb targeta de crèdit.
 
 Si les vostres consumidores desen targeta de crèdit al seu compte, també podran seleccionar ràpidament en qualsevol botiga quan facin una compra i confirmin la seva comanda. 
 
-![](../../.gitbook/assets/imatge%20%2880%29.png)
+![](../../.gitbook/assets/imatge%20%2886%29.png)
 
 ### b\) Autoritzar una botiga a carregar l'import de les comandes de  subscripcions a la targeta de crèdit predeterminada
 
@@ -38,15 +38,15 @@ A més de desar una targeta de crèdit al seu compte, la consumidora necessita a
 
 **Haureu d'afegir les vostres consumidores a la** [**Llista de Consumidores** ](https://guia.katuma.org/~/edit/drafts/-LYacPRxcmBYU9uxnwC1/funcionalitats-avancades/configuracio-de-la-botiga/consumidores)**abans de demanar-los que desin els detalls de la seva targeta i us autoritzin a fer els cobraments a la seva targeta.** Si heu afegit una consumidora a la vostra llista, quan creï un compte a Katuma, iniciï sessió i carregui les dades de la seva targeta podrà veure la vostra botiga i podrà atorgar-vos el permís per cobrar-li a la targeta \(vegeu l'exemple avall\).
 
-![](../../.gitbook/assets/imatge%20%2826%29.png)
+![](../../.gitbook/assets/imatge%20%2828%29.png)
 
 Si no l'heu afegit a la vostra llista de consumidores, en el moment en què vagi a desar la seva targeta de crèdit no veurà la vostra botiga per atorgar-vos el permís per cobrar-li \(vegeu més avall\). Si passa això, necessitareu afegir-la a la vostra llista de consumidores i ella necessitarà tornar a iniciar sessió per donar-vos l'autorització. 
 
-![](../../.gitbook/assets/imatge%20%2864%29.png)
+![](../../.gitbook/assets/imatge%20%2870%29.png)
 
 Sota hi ha un exemple d'una consumidora que ha donat permisos a una granja perquè li cobri les subscripcions a la targeta. 
 
-![](../../.gitbook/assets/imatge%20%2813%29.png)
+![](../../.gitbook/assets/imatge%20%2815%29.png)
 
 ## Notificacions per correu electrònic
 
@@ -56,7 +56,7 @@ La funcionalitat de les subscripcions inclou una sèrie de correus electrònics 
 
 El primer correu electrònic es desencadena en el moment en què obre un cicle de comanda en la programació subscritpa per la consumidora.  Aquest correu permet la consumidora saber que la seva comanda de subscripció 'sha obert. Podrà veure-hi quins articles hi ha a la comanda i quina quantitat se li carregarà. El correu electrònic també inclou la seva informació d'enviament i pagament. 
 
-![](../../.gitbook/assets/imatge%20%282%29.png)
+![](../../.gitbook/assets/imatge%20%283%29.png)
 
 #### Modificar la comanda
 
@@ -66,19 +66,19 @@ Si la botiga **no permet que les seves consumidores canviïn les comandes** el s
 
 Si la botiga permet a les consumidores canviar les seves comandes, el text de la capsa de text blava serà una mica diferent del correu mostrat anteriorment i hi haurà un enllaç que portarà les consumidores a la seva comanda \(vegeu més avall\). Actualment les consumidores només poden treure articles de les comandes o canviar les quantitats d'articles existents. Si volen afegir nous articles a la comanda necessitaran realitzar una nova comanda o demanar a la botiga que faci aquest canvi per elles.
 
-![](../../.gitbook/assets/imatge%20%2860%29.png)
+![](../../.gitbook/assets/imatge%20%2866%29.png)
 
 #### Productes no disponibles
 
 En el cas que un producte de la subscripció d'una consumidora no estigui disponible a causa d'existència limitada o perquè no està dins del cicle de comanda, seran alertades en el primer correu \(exemple a sota\). 
 
-![](../../.gitbook/assets/imatge%20%2852%29.png)
+![](../../.gitbook/assets/imatge%20%2856%29.png)
 
 #### Correu electrònic 2 - Quan tanca el cicle de comanda
 
 El correu electrònic final arriba a la consumidora quan tanca el cicle de comanda. Aquest correu confirma la comanda final, incloent-hi els ajustaments que s'hi han fet.
 
-![](../../.gitbook/assets/imatge%20%2863%29.png)
+![](../../.gitbook/assets/imatge%20%2869%29.png)
 
 #### No és possible carregar la targeta de crèdit
 

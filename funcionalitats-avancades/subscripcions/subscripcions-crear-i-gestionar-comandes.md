@@ -21,7 +21,7 @@ Feu clic a **Comandes** al menú horitzontal blau i després seleccioneu **Subsc
 
 Feu clic a **+Nova Subscripció** per configurar una comanda recurrent per a les vostres consumidores.
 
-![](../../.gitbook/assets/imatge%20%2857%29.png)
+![](../../.gitbook/assets/imatge%20%2862%29.png)
 
 **Consumidora:** 
 
@@ -47,13 +47,13 @@ Com interactua exactament la data de finalització de la subscripció amb les da
 
 **Adreça:** Ompliu els detalls d'enviament i facturació de la consumidora. Si hi ha desats detalls d'enviament i facturació a la vostra pàgina de consumidores, aquesta informació es carregarà automàticament. 
 
-![](../../.gitbook/assets/imatge%20%2867%29.png)
+![](../../.gitbook/assets/imatge%20%2873%29.png)
 
 **Afegir productes**
 
 Podeu afegir qualsevol producte que hi hagi en els Cicles de Comanda futurs inclosos en la programació. No podeu afegir productes a una subscripció si no estaran disponibles en cap cicle de comanda dins la programació al qual la consumidora s'està subscrivint.  
 
-![](../../.gitbook/assets/imatge%20%2870%29.png)
+![](../../.gitbook/assets/imatge%20%2876%29.png)
 
 #### Resum
 
@@ -75,7 +75,7 @@ Quan un article d'una subscripció no està disponible en un cicle de comanda s'
 
 Dins la pàgina de **Subscripcions**, feu clic al botó **editar** al costat de la subscripció que voleu editar. 
 
-![](../../.gitbook/assets/imatge%20%2848%29.png)
+![](../../.gitbook/assets/imatge%20%2852%29.png)
 
 Des d'aquí podeu editar quins productes hi ha a la subscripció, el mètode preferit d'enviament i pagament, les dates d'inici i finalització i els detalls de la consumidora.
 
@@ -89,13 +89,13 @@ Si voleu canviar una sola comanda en una subscripció podeu fer clic al número 
 
 Això us mostrarà totes les comandes futures en la programació i, a continuació, podreu editar una comanda específica.
 
-![](../../.gitbook/assets/imatge%20%2858%29.png)
+![](../../.gitbook/assets/imatge%20%2863%29.png)
 
 ### Esborrar una subscripció
 
 Des de la pàgina de **Subscripcions**, feu clic al botó de la **creu** del costat de la subscripció que vulgueu esborrar. Això previndrà que no es generi cap nova comanda i esborrarà la subscripció de manera permanent. 
 
-![](../../.gitbook/assets/imatge%20%2815%29.png)
+![](../../.gitbook/assets/imatge%20%2817%29.png)
 
 {% hint style="info" %}
 Si esborreu una subscripció mentre hi ha un cicle de comandes obert se us demanarà si voleu mantenir la comanda que la consumidora té oberta o si vol esborrar la comanda actual.
@@ -113,7 +113,7 @@ Si pauseu les subscripcions mentre un cicle de comanda encara està obert, se us
 Si elimineu la pausa d'una subscripció \(és a dir, la torneu a activar\) mentre un cicle de comanda és obert, es generarà una comanda per a la consumidora si està subscrita a aquella programació.
 {% endhint %}
 
-![](../../.gitbook/assets/imatge%20%2873%29.png)
+![](../../.gitbook/assets/imatge%20%2879%29.png)
 
 ## 8\) Com es processen les subscripcions
 

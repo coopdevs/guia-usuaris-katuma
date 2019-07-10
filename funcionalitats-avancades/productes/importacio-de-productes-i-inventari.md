@@ -44,7 +44,7 @@ Primer, descarrega l'arxiu **Plantilla de Llista de Productes CSV** des de la p�
 
 Veuràs que la plantilla et dona tots els encapçalaments de les columnes requerides per aconseguir una importació de productes exitosa. Cada fila és per a un nou producte o variant. Sota hi ha una descripció de com omplir cada columna.
 
-![Mostra dels t&#xED;tols de cada columna de l&apos;arxiu CSV](../../.gitbook/assets/imatge%20%2837%29.png)
+![Mostra dels t&#xED;tols de cada columna de l&apos;arxiu CSV](../../.gitbook/assets/imatge%20%2839%29.png)
 
 {% hint style="info" %}
 Aneu amb compte perquè és sensible a les minúscules i les majúscules. Per exemple: has d'utilitzar mL i no ml, o Làctic i no làctic.
@@ -84,7 +84,7 @@ L'exemple de sota mostra una bossa de fulles d'enciam que ve en variants 500g i 
 
 La imatge de sota mostra com aquests productes es mostren a la botiga. Vegeu com el camp del 'nom' esdevé el nom principal, que encapçala el producte, i el camp de la columa 'nom\_desplegat' esdevé el nom secundari o de la variant. En el cas de la Bossa d'enciam, el camp 'nom\_desplegat' està en blanc, així que s'usa per defecte el camp que la columna 'nom', el nom genèric.
 
-![](../../.gitbook/assets/imatge%20%2838%29.png)
+![](../../.gitbook/assets/imatge%20%2840%29.png)
 
 #### Exemples d'unitats de mesura <a id="unit-type-examples"></a>
 
@@ -145,7 +145,7 @@ _\*si intenteu actualitzar aquests camps en realitat creareu nous productes o va
 
 Les columnes verdes són obligatòries, les taronges es poden actualitzar i les blanques no es poden actualitzar i no són obligatòries.
 
-![](../../.gitbook/assets/imatge%20%2825%29.png)
+![](../../.gitbook/assets/imatge%20%2827%29.png)
 
 ### **Importeu l'arxiu CSV** <a id="import-the-csv-1"></a>
 

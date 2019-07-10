@@ -8,9 +8,9 @@ En funció de si necessiteu un reemborsament total o parcial de l'import necessi
 
 Editeu la comanda i feu clic a pagaments al menú de la dreta.
 
-![](../../.gitbook/assets/imatge%20%2832%29.png)
+![](../../.gitbook/assets/imatge%20%2834%29.png)
 
-![](../../.gitbook/assets/imatge%20%2812%29.png)
+![](../../.gitbook/assets/imatge%20%2814%29.png)
 
 Feu clic a l'icona de la creu de la dreta del pagament per buidar aquest pagament. Això farà que el pagament complet sigui reemborsat per Stripe. 
 
@@ -22,15 +22,15 @@ Inicieu sessió a Stripe aquí i feu clic a la pestanya de pagaments
 Els reemborsaments tarden 5-10 dies en aparèixer a la consumidora.
 {% endhint %}
 
-![](../../.gitbook/assets/imatge%20%2881%29.png)
+![](../../.gitbook/assets/imatge%20%2887%29.png)
 
 Al costat de la comanda corresponent, feu clic a **càrrec de devolució \(**_**refund charge**_**\)**. 
 
-![](../../.gitbook/assets/imatge%20%283%29.png)
+![](../../.gitbook/assets/imatge%20%284%29.png)
 
 Després se us demanarà seleccionar quina quantitat heu de reemborsar i el motiu del reemborsament.
 
-![](../../.gitbook/assets/imatge%20%2828%29.png)
+![](../../.gitbook/assets/imatge%20%2830%29.png)
 
 
 

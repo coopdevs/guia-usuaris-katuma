@@ -54,5 +54,5 @@ Hem configurat un e[xemple d'una pàgina de grup incrustada](https://openfoodnet
 
 La majoria de gent té activades cookies als seus navegadors web. Però si un visitant no té activades les cookies no podrà veure la incrustació del grup. 
 
-![](../../.gitbook/assets/imatge%20%2859%29.png)
+![](../../.gitbook/assets/imatge%20%2865%29.png)
 
