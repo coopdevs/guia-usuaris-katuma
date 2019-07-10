@@ -15,7 +15,7 @@ Feu clic a **Organitzacions** al menú horitzontal blau i, a continuació, feu c
 
 El primer pas per aplicar comissions a la vostra botiga és crear la comissió, tal com es detalla a continuació. 
 
-El segon pas és aplicar la comissió que heu creat a un cicle de comandes. Si la tarifa no s'aplica al cicle de comandes actiu, no s'aplicarà, no es veurà reflectida, a la vostra botiga. Consulteu els cicles de comandes per a les [productores ](https://guia.katuma.org/~/edit/drafts/-LWAvbnTs6Jn4RsMC7nv/basic-features/order-cycles-for-producers)o [grups ](https://guia.katuma.org/~/edit/drafts/-LWAvbnTs6Jn4RsMC7nv/basic-features/order-cycles-for-producers)per obtenir més detalls.
+El segon pas és aplicar la comissió que heu creat a un cicle de comandes. Si la tarifa no s'aplica al cicle de comandes actiu, no s'aplicarà, no es veurà reflectida, a la vostra botiga. Consulteu els cicles de comandes per a les [productores](https://guia.katuma.org/basic-features/order-cycles-for-producers) o [grups](https://guia.katuma.org/basic-features/order-cycles-for-producers) per obtenir més detalls.
 
 ![](../.gitbook/assets/imatge.png)
 
@@ -54,7 +54,7 @@ _Per exemple: si el càrrec del primer element és 2€, el càrrec d’elements
 * "Import mínim": si el total de la comanda és inferior a aquest import, se us cobrarà la l’’import normal”.
 * "Import de descompte": a les comandes que siguin iguals que o superiors a la quantitat mínima fixada se’ls aplicarà "Import amb descompte".
 
-Ara que heu creat la Comissió de l’Organització, recordeu que no s'aplicarà a la vostra botiga tret que s'afegeixi al cicle de comandes. Consulteu les pàgines del cicle de comandes per a [productores ](https://guia.katuma.org/~/edit/drafts/-LWAvbnTs6Jn4RsMC7nv/basic-features/order-cycles-for-producers)o [grups](https://guia.katuma.org/~/edit/drafts/-LWAvbnTs6Jn4RsMC7nv/basic-features/order-cycles-for-hubs) per obtenir més informació.  
+Ara que heu creat la Comissió de l’Organització, recordeu que no s'aplicarà a la vostra botiga tret que s'afegeixi al cicle de comandes. Consulteu les pàgines del cicle de comandes per a [productores](https://guia.katuma.org/basic-features/order-cycles-for-producers) o [grups](https://guia.katuma.org/basic-features/order-cycles-for-hubs) per obtenir més informació.  
 
 
   

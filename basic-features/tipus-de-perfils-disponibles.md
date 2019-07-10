@@ -34,7 +34,7 @@ Aquesta opció us proporciona una botiga en línia completa per al vostre grup, 
 
 Si només voleu un perfil a Katuma, un cop hàgiu creat el vostre compte, confirmeu el vostre correu electrònic i seleccioneu un tipus de perfil sense botiga, el vostre perfil s’haurà creat a Katuma i ja haureu acabat.
 
-Si voleu canviar o afegir detalls al vostre perfil, dirigiu-vos a [Configuració de l'organització.](https://guia.katuma.org/~/edit/drafts/-LVIG1bd9VXlboKvWEAr/basic-features/configuracio-de-lorganitzacio)
+Si voleu canviar o afegir detalls al vostre perfil, dirigiu-vos a [Configuració de l'organització](https://guia.katuma.org/basic-features/configuracio-de-lorganitzacio).
 
 ## Canviar el tipus de perfil
 
