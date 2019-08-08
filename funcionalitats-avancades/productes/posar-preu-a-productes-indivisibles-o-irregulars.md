@@ -42,7 +42,5 @@ En el futur, Open Food Network té previst desenvolupar comptes de clients, mitj
 
 Cada botiga de Katuma té l'opció de posar un missatge a la part superior de la seva botiga. Aquest és un lloc adequat perquè els clients sàpiguen que els preus poden variar després de la comanda. Les instruccions per fer-ho estan [aquí](https://guia.katuma.org/basic-features/configuracio-de-lorganitzacio), a la **Configuració de la botiga**.
 
-El quadre de descripció del Mètode de pagament és un altre lloc per enviar un missatge al client, com ara "el preu final pot variar en un 10% màxim a causa de la variabilitat del producte, ens posarem en contacte amb vostè per variacions superiors a això". 
-
-
+El quadre de descripció del Mètode de pagament és un altre lloc per enviar un missatge al client, com ara "el preu final pot variar en un 10% màxim a causa de la variabilitat del producte, ens posarem en contacte amb vostè per variacions superiors a això".
 

@@ -18,9 +18,9 @@ La productora gestora central del grup de productores pot configurar la botiga a
 
 Abans de crear els perfils addicionals necessitareu escriure'ns per correu electrònic \(info@katuma.org\) perquè us atorguem permisos per crear més d'un perfil si sobrepasseu el límit \(això és una mesura per prevenir l'spam\). La productora coordinadora haurà de configurar el perfil i productres de la resta, o poden fer-ho cadascuna de les altres productores si així ho desitgen. Les dues opcions estan descrites a baix:
 
-**La productora coordinadora configura el perfil i productes per a la resta de productores** 
+**La productora coordinadora configura el perfil i productes per a la resta de productores**
 
-1\) Després que la productora coordinadora ha configurat el seu propi perfil, és simple crear perfils per a una altra productora, afegir els seus productes i després començar a vendre aquests articles a la  seva botiga en línia. Les instruccions per configurar perfils per a altres s'expliquen [aquí](https://guia.katuma.org/basic-features/creeu-o-connecteu-vos-amb-les-vostres-productores-proveidores).
+1\) Després que la productora coordinadora ha configurat el seu propi perfil, és simple crear perfils per a una altra productora, afegir els seus productes i després començar a vendre aquests articles a la seva botiga en línia. Les instruccions per configurar perfils per a altres s'expliquen [aquí](https://guia.katuma.org/basic-features/creeu-o-connecteu-vos-amb-les-vostres-productores-proveidores).
 
 2\) Tingueu en compte que la interfície del cicle de comandes serà diferent quan tingueu productes d'altres productores. La versió del cicle de comandes per a 'grups' s'explica [aquí](https://guia.katuma.org/basic-features/order-cycles-for-hubs).
 
@@ -34,6 +34,4 @@ Abans de crear els perfils addicionals necessitareu escriure'ns per correu elect
 * ​[Fer la vostra botiga privada](https://guia.katuma.org/funcionalitats-avancades/configuracio-de-la-botiga/botiga-privada). Si preferiu verificar la idoneïtat de les consumidores abans que puguin fer una comanda a través de la vostra botiga, podeu fer que l'accés a la vostra botiga requereixi un inici de sessió.
 * ​[Carregueu preus diferents a diferents consumidores](https://guia.katuma.org/funcionalitats-avancades/configuracio-de-la-botiga/preu-especific-segons-el-tipus-de-client). Hi ha diverses maneres per configurar una botiga perquè pugueu carregar preus diferents a tipus de consumidores diferents, com per exemple les consumidores rurals de les metropolitanes, o les de cistella individual i les de compra grupal.
 * ​[Entrar comandes manualment](https://guia.katuma.org/funcionalitats-avancades/comandes/crear-comandes-manualment) per a consumidores que prefereixen enviar les seves comandes en text o per telèfon. 
-
-
 

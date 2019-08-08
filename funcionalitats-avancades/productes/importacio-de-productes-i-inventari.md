@@ -55,23 +55,23 @@ Aneu amb compte perquè és sensible a les minúscules i les majúscules. Per ex
 | productora | sí | Aquest és el nom del perfil de la productora a la qual s'assigna aquest producte. | Granja Four Mile Farm |
 | SKU \(codi de referència de magatzem\) | no | El codi SKU que es dona a aquest producte. | AD001265 |
 | nom | sí | Aquesta columna és per al nom del producte. | Yoghurt |
-| nom\_desplegat | no | Aquest camp aplica si creeu variants de producte \(vegeu instruccions més avall\). Si no és el vostre cas, deixeu aquest camp en blanc. |  Yoghurt de gerds |
+| nom\_desplegat | no | Aquest camp aplica si creeu variants de producte \(vegeu instruccions més avall\). Si no és el vostre cas, deixeu aquest camp en blanc. | Yoghurt de gerds |
 | categoria | sí | A quina categoria pertany aquest producte? Les categories disponibles estan llistades a la Pàgina d'Importació de productes. | Làctics |
 | unitat | sí | El valor de la unitat de venda en pes, volum o quantitat. | 500 |
 | unitat\_de\_mesura | potser | En quina unitat de mesura es ven el producte \(g, kg, mL, L\)? Si es ven com a element \(per exemple: manat / capsa / bossa...\) deixeu en blanc. | g |
 | nom\_de\_element | potser | Si el producte es ven com a element \(per exemple: manat / capsa / bossa...\) escriu el nom de l'element aquí. | Manat |
 | preu | sí | El preu del producte. Si el producte té impostos, aquesta camp haurà d'incloure el preu amb impostos. | 3.70 |
-| disponible | potser | Si teniu un estoc limitat per al producte, escriviu el nivell d'existències aquí. Si teniu un estoc infinit disponible \(sempre en podeu obtenir\) escriviu 0 i utilitzeu la columna sota\_demanda.  | 40 |
+| disponible | potser | Si teniu un estoc limitat per al producte, escriviu el nivell d'existències aquí. Si teniu un estoc infinit disponible \(sempre en podeu obtenir\) escriviu 0 i utilitzeu la columna sota\_demanda. | 40 |
 | disponible\_a | no | Deixeu en blanc. | ​ |
 | sota\_demanda | potser | Si teniu un estoc infinit disponible per a aquest producte, escriviu 1, si esteu deixant en blanc la columna 'disponible'. Si entreu un número a la columna 'disponible' i 1 a 'sota\_demanda', el producte estarà sota demanda. | 1 |
 | tipus\_enviament | no | Deixeu en blanc. | ​ |
-| tipus\_impost | sí | Si el preu del producte inclou IVA com a impost, si no deixa en blanc.  | IVA |
+| tipus\_impost | sí | Si el preu del producte inclou IVA com a impost, si no deixa en blanc. | IVA |
 
-#### Com importar variants <a id="how-to-import-variants"></a>
+#### Com importar variants  <a id="how-to-import-variants"></a>
 
-Les [variants](https://guia.katuma.org/funcionalitats-avancades/productes/variants-de-productes) són productes similars però de sabor, mida o varietats diferents. Pujant-los com a variants en comptes de com a productes individuals, la vostra botiga estarà menys atapeïda i serà més senzilla per a les consumidores navegar-hi. 
+Les [variants](https://guia.katuma.org/funcionalitats-avancades/productes/variants-de-productes) són productes similars però de sabor, mida o varietats diferents. Pujant-los com a variants en comptes de com a productes individuals, la vostra botiga estarà menys atapeïda i serà més senzilla per a les consumidores navegar-hi.
 
-En el procés d'importació, les variants es distingeixen per les 'unitats' \(com llet venuda en 2 variants diferents de tamany\) o pel 'nom\_desplegat' \(com iogurt venut de molts sabors diferents\) i agrupades pel nom del producte genèric del qual pengen \(en aquest cas: 'llet' o 'iogurt'\). Sempre que el nom del producte sigui el mateix, les files s'importaran com a variants. 
+En el procés d'importació, les variants es distingeixen per les 'unitats' \(com llet venuda en 2 variants diferents de tamany\) o pel 'nom\_desplegat' \(com iogurt venut de molts sabors diferents\) i agrupades pel nom del producte genèric del qual pengen \(en aquest cas: 'llet' o 'iogurt'\). Sempre que el nom del producte sigui el mateix, les files s'importaran com a variants.
 
 L'exemple de sota mostra una bossa de fulles d'enciam que ve en variants 500g i 750g i un iogurt que es ven de diversos sabors.
 
@@ -86,7 +86,7 @@ La imatge de sota mostra com aquests productes es mostren a la botiga. Vegeu com
 
 ![](../../.gitbook/assets/imatge%20%2840%29.png)
 
-#### Exemples d'unitats de mesura <a id="unit-type-examples"></a>
+#### Exemples d'unitats de mesura  <a id="unit-type-examples"></a>
 
 Sota hi ha alguns exemples per mostrar com s'han de pujar productes en diferents unitats \(g, ml, kg i elements\).
 
@@ -94,16 +94,16 @@ Sota hi ha alguns exemples per mostrar com s'han de pujar productes en diferents
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Enciams de la Su | Bossa enciam | Fruites i hortalisses | 3.50 | 500 | g |  |
 | Enric Vilaplana fruites i sucs | Suc de fruita | Begudes | 3.50 | 300 | ml |  |
-| Patates olotines sccl  | Patates | Fruites i hortalisses | 9.50 | 5 | kg |  |
+| Patates olotines sccl | Patates | Fruites i hortalisses | 9.50 | 5 | kg |  |
 | Forn ecològic El molí | Pa de gra intengral | Producte fornejat | 3.00 | 1 |  | barra |
 
-### Importar l'arxiu CSV <a id="import-the-csv"></a>
+### Importar l'arxiu CSV  <a id="import-the-csv"></a>
 
 Una vegada heu omplert la **Plantilla de Llista de Productes CSV** esteu preparats per pujar-la a Katuma.
 
 Aneu a **Productes** &gt; **Importació de Productes.**
 
-**Selecciuneu el tipus d'importació:** Seleccioneu Llista de Productes. 
+**Selecciuneu el tipus d'importació:** Seleccioneu Llista de Productes.
 
 **Seleccioneu un full de càlcul per carregar:** trobeu l'arxiu csv que voleu pujar.
 
@@ -119,11 +119,11 @@ Se us mostrarà un resum de la vostra càrrega, inclòs qualsevol error. També 
 
 ## 2\) Actualitzar detalls de productes existents
 
-Les instruccions de sota expliquen com actualitzar els detalls d'un producte ja existent en el perfil de la productora. Aquesta eina està destinada a actualitzar més ràpidament preus o nivells d'estoc. 
+Les instruccions de sota expliquen com actualitzar els detalls d'un producte ja existent en el perfil de la productora. Aquesta eina està destinada a actualitzar més ràpidament preus o nivells d'estoc.
 
 Podeu simultàniament carregar nous productes i actualitzar productes ja existents utilitzant un sol arxiu CSV. Les instruccions d'aquesta guia estàn separades per a més claredat però podeu combinar nous productes i actualitzacions de productes existents en el mateix full de càlcul.
 
-### Prepareu l'arxiu CSV per importar <a id="prepare-the-csv-file-for-import-1"></a>
+### Prepareu l'arxiu CSV per importar  <a id="prepare-the-csv-file-for-import-1"></a>
 
 El proces per actualitzar detalls del producte és similar al de carregar nous productes. El primer pas és descarregar la **Plantilla de Llista de Productes** i omplir els noms dels productes i de les productores. Si teniu disponible aquest full de càlcul d'una càrrega anterior encara millor.
 
@@ -147,11 +147,11 @@ Les columnes verdes són obligatòries, les taronges es poden actualitzar i les 
 
 ![](../../.gitbook/assets/imatge%20%2827%29.png)
 
-### **Importeu l'arxiu CSV** <a id="import-the-csv-1"></a>
+### **Importeu l'arxiu CSV**  <a id="import-the-csv-1"></a>
 
 Una vegada heu omplert la **Plantilla de la Llista de Productes CSV** esteu preparades per carregar-la a Katuma.
 
-Aneu a **Productes** &gt; **Importació de Productes.** 
+Aneu a **Productes** &gt; **Importació de Productes.**
 
 **Seleccioneu tipus d'importació:** Seleccioneu Llista de Productes.
 
@@ -163,7 +163,7 @@ Feu clic a **actualitzar.**
 
 Se us mostrarà un resum de l'actualització, incloent-hi errors. També se us dirà quants productes esteu creant i quants esteu actualitzant. Si preteníeu només actualitzar productes però veieu que heu creat productes nous, podeu veure quina línia està, tornar enrere i arreglar el full de càlcul. Si, enc anvi, esteu satisfetes amb el resultat de la pujada, feu clic a **desar**. Posteriorment podeu carregar un nou full de càlcul o anar a la pàgina de productes per veure els nous productes.
 
-## Importar Nou Inventari <a id="import-new-inventory"></a>
+## Importar Nou Inventari  <a id="import-new-inventory"></a>
 
 Molt aviat.
 

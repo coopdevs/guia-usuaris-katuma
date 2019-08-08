@@ -1,6 +1,6 @@
 # Grup \(botiga\)
 
-## Què és un grup amb botiga? <a id="what-is-a-hub-shop"></a>
+## Què és un grup amb botiga?  <a id="what-is-a-hub-shop"></a>
 
 Les botigues dels grups poden prendre formes diferents però en la seva essència són botigues en línia que emmagatzemen productes de diverses productores que els proveeixen i que sempre estan identificades. Amb una botiga de grup les consumidores podeu veure els perfils de les productores que fan créixer, cultiven, fermenten, couen el seu menjar.
 
@@ -8,7 +8,7 @@ Algunes exemples de grups poden incloure grups de compra a l'engròs, cooperativ
 
 ![](../.gitbook/assets/botigagrup.png)
 
-## Què fa una botiga d'un grup? <a id="what-does-it-do"></a>
+## Què fa una botiga d'un grup?  <a id="what-does-it-do"></a>
 
 **Una experiència de compra que les consumidores gaudiran** Amb una botiga d'un grup les consumidores podran veure els perfils de les productores que fan créixer, cultiven, fermenten, couen els seus aliments, la qual cosa els proporciona una experiència de mercat de pagès virtual.
 
@@ -16,11 +16,11 @@ Algunes exemples de grups poden incloure grups de compra a l'engròs, cooperativ
 
 **Agafeu comandes amb periodicitat** Podeu escollir quan voleu que la vostra botiga obri i tanqui i fer-la funcionar per cicles de comanda periòdics.
 
-**Involucrar les vostres proveïdores** Les vostres proveïdores poden iniciar sessió directament a Katuma per actualitzar les existències dels seus productes i els preus, minimitzant algunes tasques d'adminisitració per al grup. 
+**Involucrar les vostres proveïdores** Les vostres proveïdores poden iniciar sessió directament a Katuma per actualitzar les existències dels seus productes i els preus, minimitzant algunes tasques d'adminisitració per al grup.
 
-**Sigueu flexibles** El nostre programari està dissenyat per ser flexible i acomodar-se a diferents models de negoci i d'organització de molts tipus i formes. Podeu usar la nostra flexibilitat per experimentar noves maneres de fer les coses. Podeu experimentar amb tot allò que us imagineu: provant d'afegir una segona data de lliurament, un nou punt de recollida, una nova manera d'organitzar-vos, etcètera. 
+**Sigueu flexibles** El nostre programari està dissenyat per ser flexible i acomodar-se a diferents models de negoci i d'organització de molts tipus i formes. Podeu usar la nostra flexibilitat per experimentar noves maneres de fer les coses. Podeu experimentar amb tot allò que us imagineu: provant d'afegir una segona data de lliurament, un nou punt de recollida, una nova manera d'organitzar-vos, etcètera.
 
-## Passos per configurar una botiga de grup <a id="steps-for-setting-up-a-hub-shop"></a>
+## Passos per configurar una botiga de grup  <a id="steps-for-setting-up-a-hub-shop"></a>
 
 1\) [Registreu el vostre perfil ](https://guia.katuma.org/basic-features/register-and-create-your-profile)a [Katuma](https://app.katuma.org/register/auth#/signup?after_login=%2Fregister). Aquesta eina de configuració us demanarà per informació bàsica sobre la vostra organització per crear el perfil. Se us demanarà que confirmeu el correu electrònic.
 
@@ -34,7 +34,7 @@ Algunes exemples de grups poden incloure grups de compra a l'engròs, cooperativ
 
 6\) Definiu qualsevol [comissió de l'organització](https://guia.katuma.org/basic-features/comissions-de-lorganitzacio) que vulgueu aplicar a la botiga.
 
-7\) [Creeu perfils o connecteu-vos amb les vostres productores proveïdores](https://guia.katuma.org/basic-features/creeu-o-connecteu-vos-amb-les-vostres-productores-proveidores). Necessiteu fer això abans de poder afegir productes a la botiga del grup. 
+7\) [Creeu perfils o connecteu-vos amb les vostres productores proveïdores](https://guia.katuma.org/basic-features/creeu-o-connecteu-vos-amb-les-vostres-productores-proveidores). Necessiteu fer això abans de poder afegir productes a la botiga del grup.
 
 8\) Gestioneu els vostres productes.
 
@@ -46,7 +46,7 @@ Les instruccions següents per gestionar productes es desglossen d'acord amb la 
 
 Si la vostra productora proveïdora té perfil però no ha afegit el seu llistat de productes, necessitareu primer obtenir permisos per gestionar els seus productes i emmagatzemar-los a la vostra botiga. Després, podreu [afegir els seus productes](https://guia.katuma.org/basic-features/productes).
 
-**Una vegada heu configurat els vostres mètodes d'enviament i pagament, i afegit els vostres productes, podreu obrir la vostra botiga.** 
+**Una vegada heu configurat els vostres mètodes d'enviament i pagament, i afegit els vostres productes, podreu obrir la vostra botiga.**
 
 9\) Obriu la vostra botiga obrint un [cicle de comandes](https://guia.katuma.org/basic-features/order-cycles-for-hubs).
 
@@ -54,14 +54,12 @@ Si la vostra productora proveïdora té perfil però no ha afegit el seu llistat
 
 10\) Veure i editar [comandes](https://guia.katuma.org/basic-features/veure-comandes)\*\*\*\*
 
-11\) Veure [informes](https://guia.katuma.org/basic-features/informes). Podeu utilitzar els informes per generar fulls d'embalatge o repartiment, factures o llistes de correu. 
+11\) Veure [informes](https://guia.katuma.org/basic-features/informes). Podeu utilitzar els informes per generar fulls d'embalatge o repartiment, factures o llistes de correu.
 
-## Funcionalitats avançades que poden ser d'utilitat per a grups amb botiga <a id="advanced-features-that-are-helpful-for-hubs-with-shops"></a>
+## Funcionalitats avançades que poden ser d'utilitat per a grups amb botiga  <a id="advanced-features-that-are-helpful-for-hubs-with-shops"></a>
 
 * [Incrustar la botiga](https://guia.katuma.org/funcionalitats-avancades/configuracio-de-la-botiga/incrustacio-de-la-botiga) al vostre web
 * [Posar preus a productes irregulars](https://guia.katuma.org/funcionalitats-avancades/productes/posar-preu-a-productes-indivisibles-o-irregulars) com la carn
 * [Obrir més d'un cicle de comandes](https://guia.katuma.org/funcionalitats-avancades/cicles-de-comanda/obrir-mes-dun-cicle-de-comanda)
 * [Compra en grup o a l'engròs](https://guia.katuma.org/funcionalitats-avancades/productes/compra-en-grup-comprar-a-lengros) és una eina per ajudar grups de compra a prendre decisions sobre compres conjuntes en grans quantitats
-
-
 

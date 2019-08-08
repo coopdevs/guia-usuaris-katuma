@@ -17,13 +17,13 @@ En aquesta primera versió de la funcionalitat de les subscripcions, les botigue
 
 ## 6\) Crear subscripcions
 
-Feu clic a **Comandes** al menú horitzontal blau i després seleccioneu **Subscripcions** al submenú verd. 
+Feu clic a **Comandes** al menú horitzontal blau i després seleccioneu **Subscripcions** al submenú verd.
 
 Feu clic a **+Nova Subscripció** per configurar una comanda recurrent per a les vostres consumidores.
 
 ![](../../.gitbook/assets/imatge%20%2862%29.png)
 
-**Consumidora:** 
+**Consumidora:**
 
 Seleccioneu una consumidora de la llista desplegable.
 
@@ -35,23 +35,23 @@ Seleccioneu una consumidora de la llista desplegable.
 Heu de crear una programació de cicles de comanda abans de poder crear una subscripció. Podeu trobar les instruccions [aquí](https://guia.katuma.org/funcionalitats-avancades/subscripcions/subscripcions-configuracio).
 {% endhint %}
 
-**Mètode de pagament:** Seleccioneu el mètode de pagament que la consumidora prefereixi. Aquest haurà de ser o bé la passarel·la de pagament Stripe o bé un mètode de pagament manual com el pagament en efectiu. No es pot utilitzar Paypal per a les subscripcions. 
+**Mètode de pagament:** Seleccioneu el mètode de pagament que la consumidora prefereixi. Aquest haurà de ser o bé la passarel·la de pagament Stripe o bé un mètode de pagament manual com el pagament en efectiu. No es pot utilitzar Paypal per a les subscripcions.
 
-**Mètode d'enviament:** Seleccioneu el mètode d'enviament preferit per la consumidora. 
+**Mètode d'enviament:** Seleccioneu el mètode d'enviament preferit per la consumidora.
 
 **Comença a:** Aquesta és la data en la qual es començarà a generar la subscripció. Si la data agafa enmig d'un cicle de comandes obert en la seva programació hi haurà ja una comanda generada per aquell cicle de comanda. Si no, la primera comanda aplicarà al següent cicle de comanda que obri dins d'aquesta programació.
 
-**Acaba a:** Després d'aquesta data ja no es generaran les comandes recurrents de la consumidora. Aquest camp és opcional, si es deixa en blanc la comanda es continuara generant de manera indefinida. 
+**Acaba a:** Després d'aquesta data ja no es generaran les comandes recurrents de la consumidora. Aquest camp és opcional, si es deixa en blanc la comanda es continuara generant de manera indefinida.
 
 Com interactua exactament la data de finalització de la subscripció amb les dates dels cicles de comanda? Si la data de finalització de la subscripció de la consumidora és posterior a la data d'obertura del cicle de comandes a la programació però abans del tancament del cicle, no es generarà la comanda. L'última comanda es generarà només per a l'últim cicle de comanda que tanqui abans de la data de finalització de la subscripció.
 
-**Adreça:** Ompliu els detalls d'enviament i facturació de la consumidora. Si hi ha desats detalls d'enviament i facturació a la vostra pàgina de consumidores, aquesta informació es carregarà automàticament. 
+**Adreça:** Ompliu els detalls d'enviament i facturació de la consumidora. Si hi ha desats detalls d'enviament i facturació a la vostra pàgina de consumidores, aquesta informació es carregarà automàticament.
 
 ![](../../.gitbook/assets/imatge%20%2873%29.png)
 
 **Afegir productes**
 
-Podeu afegir qualsevol producte que hi hagi en els Cicles de Comanda futurs inclosos en la programació. No podeu afegir productes a una subscripció si no estaran disponibles en cap cicle de comanda dins la programació al qual la consumidora s'està subscrivint.  
+Podeu afegir qualsevol producte que hi hagi en els Cicles de Comanda futurs inclosos en la programació. No podeu afegir productes a una subscripció si no estaran disponibles en cap cicle de comanda dins la programació al qual la consumidora s'està subscrivint.
 
 ![](../../.gitbook/assets/imatge%20%2876%29.png)
 
@@ -61,7 +61,7 @@ Podeu afegir qualsevol producte que hi hagi en els Cicles de Comanda futurs incl
 Vigileu! Si teniu un cicle de comanda que està obert i assignat a una programació, el moment en què creeu una subscripció per a una consumidora en aquesta programació, es generarà una comanda, i s'enviarà un correu electrònic de confirmació. Si només esteu configurant les subscripcions i no voleu que s'iniciï cap comanda, assegureu-vos que no teniu un cicle de comandes obert. Vegeu [8\) Com es processen les subscripcions](https://guia.katuma.org/funcionalitats-avancades/subscripcions/subscripcions-crear-i-gestionar-comandes#8-com-es-processen-les-subscripcions) per a més detalls.
 {% endhint %}
 
-**Què passa si el preu d'un producte canvia després que s'hagi fet una subscripció?** 
+**Què passa si el preu d'un producte canvia després que s'hagi fet una subscripció?**
 
 Els preus dels articles dins de la subscripció s'actualitzaran i la consumidora se li cobrarà d'acord amb aquestes actualitzacions.
 
@@ -73,7 +73,7 @@ Quan un article d'una subscripció no està disponible en un cicle de comanda s'
 
 ### Editar la subscripció base
 
-Dins la pàgina de **Subscripcions**, feu clic al botó **editar** al costat de la subscripció que voleu editar. 
+Dins la pàgina de **Subscripcions**, feu clic al botó **editar** al costat de la subscripció que voleu editar.
 
 ![](../../.gitbook/assets/imatge%20%2852%29.png)
 
@@ -85,7 +85,7 @@ No podeu canviar una programació d'una subscripció. Per contra, la subscripci�
 
 ### Editar una comanda específica
 
-Si voleu canviar una sola comanda en una subscripció podeu fer clic al número a la columna de les comandes d eles consumidores. 
+Si voleu canviar una sola comanda en una subscripció podeu fer clic al número a la columna de les comandes d eles consumidores.
 
 Això us mostrarà totes les comandes futures en la programació i, a continuació, podreu editar una comanda específica.
 
@@ -93,7 +93,7 @@ Això us mostrarà totes les comandes futures en la programació i, a continuaci
 
 ### Esborrar una subscripció
 
-Des de la pàgina de **Subscripcions**, feu clic al botó de la **creu** del costat de la subscripció que vulgueu esborrar. Això previndrà que no es generi cap nova comanda i esborrarà la subscripció de manera permanent. 
+Des de la pàgina de **Subscripcions**, feu clic al botó de la **creu** del costat de la subscripció que vulgueu esborrar. Això previndrà que no es generi cap nova comanda i esborrarà la subscripció de manera permanent.
 
 ![](../../.gitbook/assets/imatge%20%2817%29.png)
 
@@ -147,11 +147,11 @@ Tingueu en compte que si creeu una subscripció mentre hi ha un cicle de comanda
 
 Hi ha dues maneres per planificar les obertures i tancaments de cicles de comanda en les vostres programacions.
 
-Segons quina opció utilitzeu, recordeu que la freqüència que tinguin els vostres cicles de comanda en una programació dictarà cada quant es produeix una comanda de subscripció. Per exemple, si creeu un cicle de comanda cada setmana que obre els dilluns, les vostres consumidores tindran subscripció setmanal. 
+Segons quina opció utilitzeu, recordeu que la freqüència que tinguin els vostres cicles de comanda en una programació dictarà cada quant es produeix una comanda de subscripció. Per exemple, si creeu un cicle de comanda cada setmana que obre els dilluns, les vostres consumidores tindran subscripció setmanal.
 
 **Opció manual**
 
-Podeu crear cicles de comanda a les vostres programacions d'un en un. Això funciona de la següent manera: quan esteu preparats per obrir un cicle de comanda comprovareu que heu actualitzat tot el que cal fora dels cicles de comanda, com la disponibilitat dels productes, qualsevol descripció de mètodes d'enviament, etcètera. 
+Podeu crear cicles de comanda a les vostres programacions d'un en un. Això funciona de la següent manera: quan esteu preparats per obrir un cicle de comanda comprovareu que heu actualitzat tot el que cal fora dels cicles de comanda, com la disponibilitat dels productes, qualsevol descripció de mètodes d'enviament, etcètera.
 
 A continuació, quan estigueu preparats, creeu el cicle de comanda, ja sigui duplicant un cicle anterior ja existent o creant-ne un de nou. Afegireu el llistat de productes disponibles i comprovareu els camps de text \(com la data en el camp 'llest per'\). Comproveu també que heu actualitzat la disponibilitat dels productes. Ara ja podeu crear el cicle de comanda.
 
@@ -163,13 +163,7 @@ Després, a mesura que passi el temps, els vostres cicles de comanda s'aniran ob
 
 Tan sols us heu d'assegurar abans de les dates d'obertura de cada cicle de comanda de revisar la disponibilitat dels productes, etc.
 
-
-
 \*\*\*\*
 
-
-
 \*\*\*\*
-
-
 

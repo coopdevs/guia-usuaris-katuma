@@ -57,8 +57,6 @@ La vostra llista de productes d'inventari és on podeu anul·lar els detalls del
 
 ![](../../.gitbook/assets/columnas_inventario.png)
 
-
-
 ### Reemplaçament de detalls del producte
 
 Podeu canviar els detalls del producte a la pàgina d'Inventari. Els canvis que realitzeu invalidaran els detalls del producte principal, i la vostra botiga i els informes reflectiran aquests valors que heu definit. Podeu invaldar el valor del codi SKU \(codi de referència de magatzem\), Preu, Disponibilitat i la configuració disponibilitat / **sota demanda**. No podeu invalidar el nom del producte, les unitats, la descripció o la fotografia.
@@ -99,13 +97,4 @@ En la configuració del cicle de comandes, al botó Configuració avançada, hi 
 Si es selecciona la configuració de ‘**Tots els productes disponibles**’, l'inventari de productes entrant inclourà tots els productes de la pàgina de productes mestra. Això fa que els productes amagats \(i nous\) de l'inventari estiguin disponibles per a altres distribuïdors a la secció sortint. Tingueu en compte que si el coordinador és un distribuïdor, la seva selecció de producte sortint sempre estarà restringida per les seves pàgines i configuracions d'inventari.
 
 Si es selecciona la configuració de '**només l’inventari del coordinador**', l'inventari entrant i, per tant, l'inventari de sortida a tots els distribuïdors, es restringirà als productes de l'inventari del coordinador. Els seus productes ocults no estaran disponibles a les seccions sortints, ni tampoc els seus nous productes \(si la seva configuració amaga els nous productes\). Qualsevol detall reemplaçat a l'inventari del coordinador no es farà arribar a les botigues del distribuïdor, p. ex. preu.
-
-
-
-
-
-  
-
-
-
 

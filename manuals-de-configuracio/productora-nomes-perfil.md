@@ -1,6 +1,6 @@
 # Productora \(només perfil\)
 
-## Què és un perfil de productora? <a id="what-is-a-producer-profile"></a>
+## Què és un perfil de productora?  <a id="what-is-a-producer-profile"></a>
 
 * Un perfil us dona un lloc on explicar la vostra història.
 * Sereu visible al mapa de Katuma.
@@ -10,13 +10,13 @@
 
 ![](../.gitbook/assets/perfilproductora.png)
 
-## Què fa un perfil de productora? <a id="what-does-it-do"></a>
+## Què fa un perfil de productora?  <a id="what-does-it-do"></a>
 
 **Us fa visibles** Quan teniu un perfil a Katuma se us fa visibles en el moviment d'alimentació local. Esdeveniu fàcils de contactar per a les consumidores que volen accedir als vostres productes. I també esdeveniu accessible per a altres organitzacions que vulguin col·laborar amb vosaltres o distribuir els vostres productes.
 
 **Us permet proveir altres botigues** Si voleu proveir una botiga a Katuma podeu crear el vostre perfil i després pujar-hi el vostre llistat de productes. La botiga que proveïu podrà veure els vostres producte i afegir-los les seves botigues en línia de Katuma.
 
-## Passos per configurar un perfil de productora <a id="steps-for-setting-up-a-producer-profile"></a>
+## Passos per configurar un perfil de productora  <a id="steps-for-setting-up-a-producer-profile"></a>
 
 1\) [Registreu el vostre perfil](https://guia.katuma.org/basic-features/register-and-create-your-profile) a [Katuma](https://app.katuma.org/register/auth#/signup?after_login=%2Fregister). Aquesta eina de configuració us demanarà informació bàsica sobre la vostra organització per crear el perfil. Se us demanarà que confirmeu el correu electrònic.
 
@@ -32,11 +32,11 @@ Ara teniu un espai per explicar la història de la vostra organització o empres
 
 **Si voleu proveir una altra botiga a Katuma dels vostres productes:**
 
-4\) [Afegiu el vostre llistat de productes](https://guia.katuma.org/basic-features/productes). 
+4\) [Afegiu el vostre llistat de productes](https://guia.katuma.org/basic-features/productes).
 
 5\) Concediu a la botiga que voleu proveir els [permisos](https://guia.katuma.org/funcionalitats-avancades/col-laboracio-amb-altres-organitzacions/permisos-e2e-enterprise-to-entreprise) per emmagatzemar els vostres productes.
 
-## Funcionalitats avançades que són útils per a perfils de productores. <a id="advanced-features-that-are-helpful-for-producers-with-profiles"></a>
+## Funcionalitats avançades que són útils per a perfils de productores.  <a id="advanced-features-that-are-helpful-for-producers-with-profiles"></a>
 
 * Fes el teu perfil[ cercable per categoria dels productes](https://guia.katuma.org/funcionalitats-avancades/el-teu-perfil/fer-un-perfil-de-productora-cercable-per-categoria-de-producte).​
 

@@ -16,7 +16,7 @@ Hi ha dues maneres d'assignar propietats als vostres productes:
 
 ## 1\) Assignar una propietat a una organització
 
-Quan assigneu una propietat a una organització, tots els productes que pertanyin a aquesta organització portaran, de forma predeterminada, la propietat del producte. Per exemple, si tots els vostresnh  productes són 'amb certificat CCPAE', podeu assignar aquesta propietat a la vostra organització per estalviar-vos de la necessitat d'aplicar manualment aquesta propietat a cada producte. Si una propietat només s'aplica a alguns dels vostres productes, és millor aplicar-la al producte, en comptes de a l’organització \(instruccions a continuació\).
+Quan assigneu una propietat a una organització, tots els productes que pertanyin a aquesta organització portaran, de forma predeterminada, la propietat del producte. Per exemple, si tots els vostresnh productes són 'amb certificat CCPAE', podeu assignar aquesta propietat a la vostra organització per estalviar-vos de la necessitat d'aplicar manualment aquesta propietat a cada producte. Si una propietat només s'aplica a alguns dels vostres productes, és millor aplicar-la al producte, en comptes de a l’organització \(instruccions a continuació\).
 
 Podeu accedir a Propietats de l'organització a la [Configuració de l'organització](https://guia.katuma.org/basic-features/configuracio-de-lorganitzacio), a Propietats.
 
@@ -75,8 +75,6 @@ A la botiga, les consumidores poden veure les propietats del producte fent clic 
 Les propietats que s'apliquen al producte es mostren com una icona, al costat de la categoria de producte.
 
 ![](../../.gitbook/assets/imatge%20%2837%29.png)
-
-
 
 Les consumidores també poden cercar segons les propietats del producte dins d'una botiga. Aquesta eina està situada a la cantonada superior dreta de la botiga i permet al client cercar productes d'acord amb les seves propietats.
 

@@ -30,11 +30,11 @@ Podeu afegir més d'una etiqueta a una única consumidora \(per exemple: es podr
 
 ![](../../.gitbook/assets/consumidores.png)
 
-Algunes usuàries apliquen etiquetes a consumidores sense aplicar després cap regla d'etiquetes. Això és perquè les ajuda en els informes. 
+Algunes usuàries apliquen etiquetes a consumidores sense aplicar després cap regla d'etiquetes. Això és perquè les ajuda en els informes.
 
-Qualsevol etiqueta que pugueu aplicar a les consumidores també es mostrarà en l'informe **Totals de consumidores del Cicle de Comanda**  al costat de la comanda d'aquesta consumidora. Si voleu exportar aquest informe a CSV, a l'excel podeu filtrar els informes d'acord amb aquestes etiquetes, fent més fàcil ordenar les vostres comandes en base a certa informació. 
+Qualsevol etiqueta que pugueu aplicar a les consumidores també es mostrarà en l'informe **Totals de consumidores del Cicle de Comanda** al costat de la comanda d'aquesta consumidora. Si voleu exportar aquest informe a CSV, a l'excel podeu filtrar els informes d'acord amb aquestes etiquetes, fent més fàcil ordenar les vostres comandes en base a certa informació.
 
-## Regles d'etiquetes <a id="tag-rules"></a>
+## Regles d'etiquetes  <a id="tag-rules"></a>
 
 Una vegada heu etiquetat totes les consumidores podeu definir com s'apliquen certes característiques a consumidores amb diferents etiquetes. Actualment podeu usar etiquetes per canviar quatre elements:
 
@@ -49,7 +49,7 @@ Per configurar etiquetes aneu a Configuració de l'organització i seleccioneu *
 
 Per defecte, tots els elements seran visibles per a totes les consumidores tant si estan etiquetades com si no. L'enfocament general és crear una regla que dicti que certs elements \(variants, enviament/pagament, mètodes o cicles de comanda\) seran invisibles a certes consumidores que estan etiquetades. Tanmateix, si desitgeu canviar aquest valor per defecte, de manera que els elements etiquetats no siguin visibles fins que una regla que ho contradigui estigui configurada podeu fer-ho canviant les vostres regles 'Per defecte'.
 
- L'exemple inferior mostra que els meus mètodes d'enviament etiquetats 'majorista' \('_wholesale_'\) seran ara invisibles per defecte. Si després vull fer aquests mètodes d'enviament disponibles per a consumidores etiquetades 'majoristes' necessitaré configurar una Regla d'etiqueta a baix anul·lant aquest valor per defecte.
+L'exemple inferior mostra que els meus mètodes d'enviament etiquetats 'majorista' \('_wholesale_'\) seran ara invisibles per defecte. Si després vull fer aquests mètodes d'enviament disponibles per a consumidores etiquetades 'majoristes' necessitaré configurar una Regla d'etiqueta a baix anul·lant aquest valor per defecte.
 
 ![](../../.gitbook/assets/imatge%20%287%29.png)
 
@@ -65,11 +65,9 @@ Després podeu seleccionar en quina condició es basa la vostra regla.
 
 **Mostrar o ocultar variants a la botiga**
 
-Aquesta regla us permet fer algunes variants visibles/no visibles a determinades consumidores. Perquè aquesta regla funcioni necessiteu haver etiquetat les consumidores i les variants de productes **del vostre inventari** amb la mateixa etiqueta. La captura de pantalla inferior mostra que la meva variant 10kg de pomes pink lady \('10kg _apple_'\) està etiquetada 'majorista' \('_wholesale_'\) a l'inventari. 
+Aquesta regla us permet fer algunes variants visibles/no visibles a determinades consumidores. Perquè aquesta regla funcioni necessiteu haver etiquetat les consumidores i les variants de productes **del vostre inventari** amb la mateixa etiqueta. La captura de pantalla inferior mostra que la meva variant 10kg de pomes pink lady \('10kg _apple_'\) està etiquetada 'majorista' \('_wholesale_'\) a l'inventari.
 
 ![](../../.gitbook/assets/imatge%20%2859%29.png)
-
-
 
 * **Invisible:** si les variants per defecte són visibles, podeu seleccionar fer-les invisibles per a consumidores amb una etiqueta particular.
 * **Visible:** si per defecte les variants són invisibles, podeu seleccionar fer-les visibles per a consumidores amb una determinada etiqueta. 
@@ -84,26 +82,16 @@ Aquesta regla us permet fer mètodes d'enviament particulars específicament dis
 
 ![](../../.gitbook/assets/imatge%20%2843%29.png)
 
-
-
 * **Invisible:** si per defecte els vostres mètodes d'enviament son visibles, quan configureu la regla 'mètodes d'enviament etiquetats-són invisibles' els mètodes d'enviament amb l'etiqueta s'ocultaran a les consumidores amb la mateixa etiqueta quan confirmin la comanda. Els mètodes d'enviament no etiquetades amb aquesta etiqueta seran visibles per a aquestes consumidores.
-
- 
-
-* **Visible:** si per defecte els vostres mètodes d'enviament etiquetats són invisibles, podeu fer-los visibles per a determinades consumidores configurant la regla d'etiqueta 'mètodes d'enviament etiquetats-són visibles' . Les consumidores sense etiquetes o amb etiquetes diferents seguiran sense poder veure aquests mètodes d'enviament en la confirmació de la comanda. ****
+* **Visible:** si per defecte els vostres mètodes d'enviament etiquetats són invisibles, podeu fer-los visibles per a determinades consumidores configurant la regla d'etiqueta 'mètodes d'enviament etiquetats-són visibles' . Les consumidores sense etiquetes o amb etiquetes diferents seguiran sense poder veure aquests mètodes d'enviament en la confirmació de la comanda. _\*\*_
 
 **Mostrar o ocultar mètodes de pagament**
 
-Aquesta regla us permet fer mètodes particulars de pagament específicament disponibles o no  disponibles a consumidores particulars. Per fer funcionar aquesta regla has d'haver etiquetat les consumidores i els mètodes de pagament amb la mateixa etiqueta. Per etiquetar un mètode de pagament aneu a **editar mètode de pagament** i apliqueu una etiqueta. Per exemple: el mètode de pagament de sota s'ha etiquetat com a 'majorista' \('_wholesale_'\). 
+Aquesta regla us permet fer mètodes particulars de pagament específicament disponibles o no disponibles a consumidores particulars. Per fer funcionar aquesta regla has d'haver etiquetat les consumidores i els mètodes de pagament amb la mateixa etiqueta. Per etiquetar un mètode de pagament aneu a **editar mètode de pagament** i apliqueu una etiqueta. Per exemple: el mètode de pagament de sota s'ha etiquetat com a 'majorista' \('_wholesale_'\).
 
 ![](../../.gitbook/assets/imatge%20%2849%29.png)
 
-
-
 * **Invisible:** si per defecte els vostre mètodes de pagament son visibles, quan configureu la regla a 'mètodes de pagament etiquetats-son invisibles' els mètodes de pagament amb l'etiqueta seran ocultats a les consumidores amb la mateixa etiqueta quan confirmin la comanda. Els mètodes de pagament sense etiquetar continuaran sent visibles a aquestes consumidores.
-
- 
-
 * **Visible:** si per defecte els vostres mètodes de pagament son invisibles, podeu fer-los visibles per a consumidores particulars configurant la regla d'etiqueta 'mètodes de pagament etiquetats-son visibles'. Les consumidores sense etiquetes o amb etiquetes diferents seguiran sense veure aquest mètode de pagament en la confirmació de la comanda.
 
 **Mostra o oculta cicles de comanda a la meva botiga**
@@ -116,9 +104,6 @@ Aquesta regla d'etiqueta està només disponible actualment per a perfils de gru
 
 ![](../../.gitbook/assets/etiquetasciclopedido.png)
 
-
-
 * **Invisible:** si per defecte els vostres cicles de comanda són visibles, quan configureu la regla a 'Cicles de comanda etiquetats\_son invisibles' els cicles de comanda amb l'etiqueta seran ocultats a les consumidores amb la mateixa etiqueta. Els cicles de comanda no etiquetats seguiran sent visibles per a aquestes consumidores.
-
 * **Visible:** si per defecte els vostres cicles de comanda són invisibles, podeu fer-los visibles per a determinades consumidores configurant la regla d'etiqueta 'cicles de comanda etiquetats\_son visibles'. Les consumidores sense etiquetes o amb diferents etiquetes no veuran aquest cicle de comanda.
 

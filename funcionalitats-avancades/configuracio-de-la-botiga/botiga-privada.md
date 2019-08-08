@@ -4,7 +4,7 @@ Si no voleu que la vostra botiga sigui visible per al públic o que algú pugui 
 
 ## 1\) Feu la botiga privada
 
-A la [Configuració de l'organització](https://guia.katuma.org/basic-features/configuracio-de-lorganitzacio), a Detalls principals, podeu configurar el vostre perfil com a "invisible". Quan sigui invisible, el vostre perfil no es mostrarà al directori i el mapa de Katuma. A més, la botiga no es mostrarà al directori de les botigues de Katuma. L'única manera que les persones puguin navegar a la vostra botiga és si els proporcioneu l'URL. 
+A la [Configuració de l'organització](https://guia.katuma.org/basic-features/configuracio-de-lorganitzacio), a Detalls principals, podeu configurar el vostre perfil com a "invisible". Quan sigui invisible, el vostre perfil no es mostrarà al directori i el mapa de Katuma. A més, la botiga no es mostrarà al directori de les botigues de Katuma. L'única manera que les persones puguin navegar a la vostra botiga és si els proporcioneu l'URL.
 
 Aquesta pot ser una manera senzilla de limitar el nombre de visitants nous que arriben i poden fer una comanda a la vostra botiga.
 
@@ -20,7 +20,7 @@ Podeu fer la vostra botiga privada anant a **Configuració de l'organització &g
 
 ![](../../.gitbook/assets/visiblepararegistrados.png)
 
-Haureu de mantenir actualitzada la vostra [Llista de consumidores](https://guia.katuma.org/funcionalitats-avancades/configuracio-de-la-botiga/consumidores), la qual controlarà quines usuàries poden accedir a la vostra botiga. 
+Haureu de mantenir actualitzada la vostra [Llista de consumidores](https://guia.katuma.org/funcionalitats-avancades/configuracio-de-la-botiga/consumidores), la qual controlarà quines usuàries poden accedir a la vostra botiga.
 
 ![](../../.gitbook/assets/listaconsumidores.png)
 
@@ -32,9 +32,9 @@ La vostra llista de consumidores ja inclourà totes les consumidores que anterio
 
 Quan un visitant arriba a la vostra botiga, si encara no ha iniciat sessió es troba amb el següent missatge de la imatge.
 
-A partir d'aquí hi ha 2 camins: 
+A partir d'aquí hi ha 2 camins:
 
-a\) Si la consumidora inicia sessió, o es registra a Katuma amb una adreça de correu electrònic que es troba ja a la llista de clients de la botiga, se la portarà a la botiga com de costum. 
+a\) Si la consumidora inicia sessió, o es registra a Katuma amb una adreça de correu electrònic que es troba ja a la llista de clients de la botiga, se la portarà a la botiga com de costum.
 
 ![](../../.gitbook/assets/usuariosregistrados_loginnofet.png)
 

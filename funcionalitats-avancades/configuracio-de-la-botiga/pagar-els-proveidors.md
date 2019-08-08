@@ -14,5 +14,3 @@ Una vegada teniu la quantitat de diners que necessiteu per pagar cada proveïdor
 
 Ara per ara Open Food Network no té cap sistema automatitzat per calcular què es deu a les proveïdores i reenviar-los els pagaments.
 
-
-

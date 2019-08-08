@@ -8,5 +8,5 @@ Algunes vegades les nostres usuàries volen carregar preus diferents per a tipus
 
 Si us plau, sentiu-vos lliures de posar-vos en contacte amb la vostra instància local d'Open Food Network \(info@katuma.org\) per discutir els avantatges i inconvenients de cadascuna de les opcions per al vostre cas específic.
 
->
+&gt;
 

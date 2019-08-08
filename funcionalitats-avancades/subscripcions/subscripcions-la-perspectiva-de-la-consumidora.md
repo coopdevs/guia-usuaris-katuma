@@ -1,6 +1,6 @@
 # Subscripcions - la perspectiva de la consumidora
 
-Aquesta pàgina detalla què pot esperar una consumidora d'una subscripció. També destaca algunes coses de les quals han de ser conscients les botigues que ofereixen subscripcions. 
+Aquesta pàgina detalla què pot esperar una consumidora d'una subscripció. També destaca algunes coses de les quals han de ser conscients les botigues que ofereixen subscripcions.
 
 ## Registrar-se a Katuma
 
@@ -18,7 +18,7 @@ Després de registrar-se rebran un correu electrònic de confirmació. Una vegad
 Aquest cas només serà possible sempre que la botiga tingui el pagament amb targeta de crèdit entre els seus mètodes de pagament.
 {% endhint %}
 
-Les consumidores que vulguin pagar les seves comandes de subscripció via càrrecs automatitzats a les seves targetes de crèdit necessiten a\) desar la targeta que prefereixen al seu compte de Katuma i b\) permetre que la botiga carregui els imports de les comandes a la targeta. Només després que hagin fet això la botiga podrà configurar-los una subscripció amb càrrecs a la seva targeta de crèdit. 
+Les consumidores que vulguin pagar les seves comandes de subscripció via càrrecs automatitzats a les seves targetes de crèdit necessiten a\) desar la targeta que prefereixen al seu compte de Katuma i b\) permetre que la botiga carregui els imports de les comandes a la targeta. Només després que hagin fet això la botiga podrà configurar-los una subscripció amb càrrecs a la seva targeta de crèdit.
 
 ### a\) Desar les dades de la targeta de crèdit al compte de la consumidora
 
@@ -28,7 +28,7 @@ La consumidora pot desar una o més targetes en el seu compte, a la taula de **t
 
 La targeta que es determina com a 'predeterminada' o per defecte serà la targeta en la qual es carregarà automàticament per Stripe si té una subscripció amb Stripe com a mètode de pagament escollit. Si cap se selecciona com a predeterminada no es processaran els seus pagaments amb targeta de crèdit.
 
-Si les vostres consumidores desen targeta de crèdit al seu compte, també podran seleccionar ràpidament en qualsevol botiga quan facin una compra i confirmin la seva comanda. 
+Si les vostres consumidores desen targeta de crèdit al seu compte, també podran seleccionar ràpidament en qualsevol botiga quan facin una compra i confirmin la seva comanda.
 
 ![](../../.gitbook/assets/imatge%20%2886%29.png)
 
@@ -40,11 +40,11 @@ A més de desar una targeta de crèdit al seu compte, la consumidora necessita a
 
 ![](../../.gitbook/assets/imatge%20%2828%29.png)
 
-Si no l'heu afegit a la vostra llista de consumidores, en el moment en què vagi a desar la seva targeta de crèdit no veurà la vostra botiga per atorgar-vos el permís per cobrar-li \(vegeu més avall\). Si passa això, necessitareu afegir-la a la vostra llista de consumidores i ella necessitarà tornar a iniciar sessió per donar-vos l'autorització. 
+Si no l'heu afegit a la vostra llista de consumidores, en el moment en què vagi a desar la seva targeta de crèdit no veurà la vostra botiga per atorgar-vos el permís per cobrar-li \(vegeu més avall\). Si passa això, necessitareu afegir-la a la vostra llista de consumidores i ella necessitarà tornar a iniciar sessió per donar-vos l'autorització.
 
 ![](../../.gitbook/assets/imatge%20%2870%29.png)
 
-Sota hi ha un exemple d'una consumidora que ha donat permisos a una granja perquè li cobri les subscripcions a la targeta. 
+Sota hi ha un exemple d'una consumidora que ha donat permisos a una granja perquè li cobri les subscripcions a la targeta.
 
 ![](../../.gitbook/assets/imatge%20%2815%29.png)
 
@@ -54,7 +54,7 @@ La funcionalitat de les subscripcions inclou una sèrie de correus electrònics 
 
 #### Correu electrònic 1 - quan la comanda s'ha processat
 
-El primer correu electrònic es desencadena en el moment en què obre un cicle de comanda en la programació subscritpa per la consumidora.  Aquest correu permet la consumidora saber que la seva comanda de subscripció 'sha obert. Podrà veure-hi quins articles hi ha a la comanda i quina quantitat se li carregarà. El correu electrònic també inclou la seva informació d'enviament i pagament. 
+El primer correu electrònic es desencadena en el moment en què obre un cicle de comanda en la programació subscritpa per la consumidora. Aquest correu permet la consumidora saber que la seva comanda de subscripció 'sha obert. Podrà veure-hi quins articles hi ha a la comanda i quina quantitat se li carregarà. El correu electrònic també inclou la seva informació d'enviament i pagament.
 
 ![](../../.gitbook/assets/imatge%20%283%29.png)
 
@@ -62,7 +62,7 @@ El primer correu electrònic es desencadena en el moment en què obre un cicle d
 
 Si la consumidora pot o no fer canvis en la seva comanda de subscripció dependrà de la [configuració de la botiga](https://guia.katuma.org/basic-features/configuracio-de-lorganitzacio#configuracio-de-la-botiga), dins de la Configuració de l'organització.
 
-Si la botiga **no permet que les seves consumidores canviïn les comandes** el seu correu serà el mateix que el mostrat anteriorment. Si volen cancel·lar la comanda, o fer-hi canvis, necessitaran contactar directament amb la botiga per demanar aquests canvis. ****
+Si la botiga **no permet que les seves consumidores canviïn les comandes** el seu correu serà el mateix que el mostrat anteriorment. Si volen cancel·lar la comanda, o fer-hi canvis, necessitaran contactar directament amb la botiga per demanar aquests canvis. _\*\*_
 
 Si la botiga permet a les consumidores canviar les seves comandes, el text de la capsa de text blava serà una mica diferent del correu mostrat anteriorment i hi haurà un enllaç que portarà les consumidores a la seva comanda \(vegeu més avall\). Actualment les consumidores només poden treure articles de les comandes o canviar les quantitats d'articles existents. Si volen afegir nous articles a la comanda necessitaran realitzar una nova comanda o demanar a la botiga que faci aquest canvi per elles.
 
@@ -70,7 +70,7 @@ Si la botiga permet a les consumidores canviar les seves comandes, el text de la
 
 #### Productes no disponibles
 
-En el cas que un producte de la subscripció d'una consumidora no estigui disponible a causa d'existència limitada o perquè no està dins del cicle de comanda, seran alertades en el primer correu \(exemple a sota\). 
+En el cas que un producte de la subscripció d'una consumidora no estigui disponible a causa d'existència limitada o perquè no està dins del cicle de comanda, seran alertades en el primer correu \(exemple a sota\).
 
 ![](../../.gitbook/assets/imatge%20%2856%29.png)
 
@@ -84,7 +84,7 @@ El correu electrònic final arriba a la consumidora quan tanca el cicle de coman
 
 Al tancament del cicle de comanda, es carrega a les targetes de crèdit de les consumidores que han escollit pagar a través d'Stripe. Si hi ha algun problema amb el cobrament se'ls alertarà en el segon correu electrònic. Tingueu en compte que en cas d'un càrrec no exitós a la targeta, la comanda consta com a confirmada, però l'import constarà com a saldo adeutat.
 
-Possibles motius per un càrrec fallit: 
+Possibles motius per un càrrec fallit:
 
 * Fons insuficient.
 * Targeta caducada
@@ -97,27 +97,21 @@ A la botiga també se l'alertarà de qualsevol càrrec fallit.
 
 #### Com puc pausar la meva subscripció?
 
-Si necessiteu pausar la vostra subscripció necessitareu contactar amb la botiga i demanar-los que pausin la vostra subscripció.  Estigueu segures de fer-los saber quan voleu començar a parar la subscripció.
+Si necessiteu pausar la vostra subscripció necessitareu contactar amb la botiga i demanar-los que pausin la vostra subscripció. Estigueu segures de fer-los saber quan voleu començar a parar la subscripció.
 
-#### Els preus de la meva subscripció romandran igual fins i tot si els preus de la botiga s'han modificat? <a id="will-the-price-of-my-subscription-remain-the-same-even-if-prices-change-in-the-shop"></a>
+#### Els preus de la meva subscripció romandran igual fins i tot si els preus de la botiga s'han modificat?  <a id="will-the-price-of-my-subscription-remain-the-same-even-if-prices-change-in-the-shop"></a>
 
 No, si els preus dels productes canvien després que vosaltres hagueu configurat una subscripció, se us cobrarà d'acord amb els preus actualitzats.
 
-#### Com puc cancel·lar tota la meva subscripció? <a id="how-can-i-cancel-my-whole-subscription"></a>
+#### Com puc cancel·lar tota la meva subscripció?  <a id="how-can-i-cancel-my-whole-subscription"></a>
 
-Si una consumidora vol esborrar la subscripció, necessitarà contactar amb el gestor de la botiga i fer-li saber. Només el gestor de la botiga pot esborrar una subscripció. 
+Si una consumidora vol esborrar la subscripció, necessitarà contactar amb el gestor de la botiga i fer-li saber. Només el gestor de la botiga pot esborrar una subscripció.
 
-#### Com puc cancel·lar només una comanda de la meva subscripció? <a id="how-can-i-cancel-a-single-order-of-my-subscription"></a>
+#### Com puc cancel·lar només una comanda de la meva subscripció?  <a id="how-can-i-cancel-a-single-order-of-my-subscription"></a>
 
 Si una consumidora vol cancel·lar una comanda individual, hi ha dues maneres de fer-lo depenent de les configuracions de la botiga.
 
 Si la botiga **no permet** a les consumidores fer canvis a les comandes, les consumidores necessitaran contactar amb la botiga i fer-los saber quina comanda volen cancel·lar.
 
-Si la botiga permet a les consumidores fer canvis a les seves comandes, la consumidora pot esperar a rebre el primer correu electrònic de confirmació \(quan el cicle de comanda obre\) i des d'allà poden editar i/o cancel·lar la seva comanda. 
-
-
-
-
-
-
+Si la botiga permet a les consumidores fer canvis a les seves comandes, la consumidora pot esperar a rebre el primer correu electrònic de confirmació \(quan el cicle de comanda obre\) i des d'allà poden editar i/o cancel·lar la seva comanda.
 

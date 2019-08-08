@@ -34,11 +34,7 @@ Es pot desar una adreça d'enviament i de facturació per a cada consumidora per
 
 Quin és el benefici de desar els detalls de les adreces per defecte? Aquests detalls seran omplertes automàticament i farà el procés de la validació de la compra més ràpid per a la consumidora. Aquests detalls també s'ompliran automàticament si trieu [crear una comanda manual ](https://guia.katuma.org/primary/funcionalitats-avancades/comandes/crear-comandes-manualment)per a la vostra consumidora o creeu una [subscripció](https://guia.katuma.org/funcionalitats-avancades/subscripcions) per a una consumidora.
 
-Si una consumidora canvia d'adreça també pot actualitzar la seva adreça predeterminada  durant el procés de validació i confirmació de la comanda, seleccionant la casella "guardar com a adreça de facturació predeterminada".
-
-
-
-
+Si una consumidora canvia d'adreça també pot actualitzar la seva adreça predeterminada durant el procés de validació i confirmació de la comanda, seleccionant la casella "guardar com a adreça de facturació predeterminada".
 
 \*\*\*\*
 
