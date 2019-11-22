@@ -2,10 +2,6 @@
 
 ## 1\) Permetre subscripcions
 
-{% hint style="info" %}
-Mentre les subscripcions estiguin en mode 'Beta' haureu de comunicar-vos amb el vostre representant local d'OFN per poder activar les subscripcions a la vostra botiga - info@katuma.org
-{% endhint %}
-
 Per permetre l'eina de Subscripcions necessitareu activar la funcionalitat a la configuració de l'organització. Un cop activades, les taules i controls addicionals per a les subscripcions esdevindran visibles. Podeu trobar aquestes configuracions a la taula de [Configuració de la botiga](https://guia.katuma.org/basic-features/configuracio-de-lorganitzacio#configuracio-de-la-botiga).
 
 **Subscripcions**: Per activar les subscripcions, seleccioneu 'Habilitar'.
