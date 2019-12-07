@@ -13,7 +13,7 @@ Això us portarà a la pàgina de **Nou producte**.
 **Proveïdora**: seleccioneu l'organització que produeix i subministra el producte.
 
 {% hint style="info" %}
-Si sou una productora, això serà la teva empresa. Si sou un grup, recordeu que només podreu afegir productes als perfils de productores que heu creat vosaltres o si se us ha concedit permís per gestionar els productes d'un perfil de productora. Vegeu _aquí_ més informació.
+Si sou una productora, això serà la teva empresa. Si sou un grup, recordeu que només podreu afegir productes als perfils de productores que heu creat vosaltres o si se us ha concedit permís per gestionar els productes d'un perfil de productora. Vegeu [_aquí_](https://guia.katuma.org/basic-features/creeu-o-connecteu-vos-amb-les-vostres-productores-proveidores) __més informació.
 {% endhint %}
 
 **Nom del producte**: afegiu un títol. Així es mostrarà el producte a la botiga.  
