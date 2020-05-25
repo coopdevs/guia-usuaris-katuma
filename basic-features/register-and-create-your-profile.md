@@ -1,6 +1,6 @@
 # Registreu-vos i creeu el vostre perfil
 
-1. Aneu a la vostra xarxa local d’Open Food Network \(Katuma, en aquest cas\): [feu clic en aquest enllaç](https://alpha.katuma.org/register).
+1. Aneu a la vostra xarxa local d’Open Food Network \(Katuma, en aquest cas\): [feu clic en aquest enllaç](https://app.katuma.org/register).
 2. Introduïu la vostra adreça de correu electrònic i trieu una contrasenya.
 3. Haureu de confirmar el vostre correu electrònic abans de poder continuar. Consulteu la safata d'entrada i feu clic a l'enllaç de confirmació.
 4. Quan confirmeu el vostre correu electrònic, se us redirigirà a / registrar-se. Feu clic al quadre "Accepto les condicions" i feu clic a "Registrar-se ara".
