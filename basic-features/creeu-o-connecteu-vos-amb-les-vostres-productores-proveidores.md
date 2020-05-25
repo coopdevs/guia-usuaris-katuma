@@ -14,7 +14,7 @@ Tots els productes de les botigues de Katuma han de "pertànyer" a un perfil de 
 Així que com a grup, què heu de fer abans d'afegir els vostres productes? Hi ha dues possibilitats, depenent de si la vostra productora proveïdora ja té o no un perfil a Katuma.  
 
 
-Com sabeu si la productora proveïdora té un perfil a Katuma? Aneu a [aquesta llista](https://app.katuma.org/register) i cerqueu-los.
+Com sabeu si la productora proveïdora té un perfil a Katuma? Aneu a [aquesta llista](https://app.katuma.org/producers#/) i cerqueu-los.
 
 ### 1\) La productora proveïdora no té un perfil a Katuma
 
