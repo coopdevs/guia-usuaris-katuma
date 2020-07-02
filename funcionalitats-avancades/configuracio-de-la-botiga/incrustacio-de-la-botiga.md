@@ -1,4 +1,10 @@
-# Incrustació de la botiga
+---
+description: >-
+  (La possibilitat d'incrustar una botiga de moment no està disponible però està
+  en la llista de millores futures de Katuma)
+---
+
+# Incrustació d'una pàgina de grup a una pàgina web
 
 Aquesta funcionalitat permet usuàries que tenen botigues a Katuma incrustar la seva botiga dins les seves pàgines web. Això dona a les consumidores una experiència més fluïda i evita la necessitat de redirigir-los entre diversos llocs web. També permet les usuàries conservar la seva marca visual a la botiga. Quan incrusteu una botiga de Katuma a la vostra pàgina web, la vostra botiga dins la plataforma roman, es manté, així que les consumidores poden escollir on us volen comprar. Aquesta pàgina detalla els requisits per utilitzar botigues incrustades i els passos que cal seguir per configurar-les. També hi ha un enllaç a un exemple sobre com es veu una botiga incrustada.
 
@@ -52,7 +58,7 @@ Tenim configurat un [exemple de botiga incrustada](https://openfoodnetwork.org/u
 
 ### Cookies
 
-La majoria de gent té activades cookies als seus navegadros web. Però si una consumidora no té activades cookies no podran comprar en una botiga incrustada. El missatge d'error que veuran es mostra en la imatge inferior. Tingueu en compte que poden comprar a la versió de la vostra botiga allotjada a Katuma sense necessitat de tenir activades les cookies.
+La majoria de gent té activades cookies als seus navegadorss web. Però si una consumidora no té activades cookies no podran comprar en una botiga incrustada. El missatge d'error que veuran es mostra en la imatge inferior. Tingueu en compte que poden comprar a la versió de la vostra botiga allotjada a Katuma sense necessitat de tenir activades les cookies.
 
 ![](../../.gitbook/assets/imatge%20%2864%29.png)
 
